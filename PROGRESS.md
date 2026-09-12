@@ -46,10 +46,10 @@ line-by-line questions, first line → last line, strict book order, identical s
   ch16 Orthopaedic Oncology: Part 2 (130 qs, 24 units)
   → total 2087 qs, 278 units, 16 live chapters in pulse-ortho-complete.html.
 - NEXT: ch17 (book 137-147 → file2 pdf pages 39-49). Then 18..24 per map above.
-- NOTE (2026-09-13): user's fine-grained token got REGENERATED during a permission edit -> old token
-  now 401. Waiting for user to paste the NEW token (needs Contents: Read and write). After receiving:
-  `bash work/push.sh Deva20045 <token> ORTHO`, then enable GitHub Pages (Settings->Pages or via API
-  with "Pages: Read and write" permission) -> live link https://deva20045.github.io/ORTHO/pulse-ortho-complete.html
-  User asked for the live link + auto-update after EVERY chapter.
+- NOTE (2026-09-13): PUSHED to https://github.com/Deva20045/ORTHO (main). Token works for Contents
+  write but NOT Pages write -> user must enable Pages manually once:
+  Repo -> Settings -> Pages -> Source "Deploy from a branch" -> main /(root) -> Save.
+  Live link after that: https://deva20045.github.io/ORTHO/pulse-ortho-complete.html
+  User asked for the live link + auto-update after EVERY chapter. push.sh default repo = ORTHO.
 - Deliverable file: `pulse-ortho-complete.html` (workspace root / repo root).
 - GitHub repo: see REMOTE.md (created once user provides PAT; repo kept PRIVATE — copyrighted source).

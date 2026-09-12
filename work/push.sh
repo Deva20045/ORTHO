@@ -6,7 +6,7 @@
 set -e
 USER="${1:?usage: push.sh <username> <token> [repo-name]}"
 TOKEN="${2:?usage: push.sh <username> <token> [repo-name]}"
-REPO="${3:-pulse-ortho}"
+REPO="${3:-ORTHO}"
 cd "$(dirname "$0")/.."
 
 # does the repo exist?
