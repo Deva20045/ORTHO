@@ -19,9 +19,9 @@ line-by-line questions, first line → last line, strict book order, identical s
 - Deliverable format inside HTML: `const QUESTIONS = [{...}]`, `const UNITS = [{...}]` (compact JSON, natural key order), `const CHAPTERS = [{n,t,p,live:true}]`.
 
 ## Chapter page map (book pages)
-12: 90-104 DONE (195 qs, 28 units) | 13: 105-111 DONE (89 qs, 13 units) | 14: 112-122 DONE (108 qs, 13 units) | 15: 123-128 DONE (68 qs, 13 units) | 16: 129-136 DONE (130 qs, 24 units)
-17: 137-147 | 18: 148-153 | 19: 154-159 | 20: 160-165 | 21: 166-172 | 22: 173-180 | 23: 181-189 | 24: 190-202
-→ ch17 = file2 pdf pages 39-49; ch18 = 50-55; ch19 = 56-61; ch20 = 62-67; ch21 = 68-74; ch22 = 75-82; ch23 = 83-91; ch24 = 92-104.
+12: 90-104 DONE (195 qs, 28 units) | 13: 105-111 DONE (89 qs, 13 units) | 14: 112-122 DONE (108 qs, 13 units) | 15: 123-128 DONE (68 qs, 13 units) | 16: 129-136 DONE (130 qs, 24 units) | 17: 137-147 DONE (157 qs, 29 units)
+18: 148-153 | 18: 148-153 | 19: 154-159 | 20: 160-165 | 21: 166-172 | 22: 173-180 | 23: 181-189 | 24: 190-202
+→ ch18 = file2 pdf pages 50-55; ch19 = 56-61; ch20 = 62-67; ch21 = 68-74; ch22 = 75-82; ch23 = 83-91; ch24 = 92-104.
 
 ## Pipeline per chapter
 1. user uploads the needed source PDF part(s) into `uploads/`
@@ -43,9 +43,9 @@ line-by-line questions, first line → last line, strict book order, identical s
 ## Status
 - DONE: ch 1-11 (original 1497 qs), ch12 (195 qs, 28 units), ch13 (89 qs, 13 units),
   ch14 Nerve Injuries: Part 2 (108 qs, 13 units), ch15 Orthopaedic Oncology: Part 1 (68 qs, 13 units),
-  ch16 Orthopaedic Oncology: Part 2 (130 qs, 24 units)
-  → total 2087 qs, 278 units, 16 live chapters in pulse-ortho-complete.html.
-- NEXT: ch17 (book 137-147 → file2 pdf pages 39-49). Then 18..24 per map above.
+  ch16 Orthopaedic Oncology: Part 2 (130 qs, 24 units), ch17 Infection of Bone and Joints (157 qs, 29 units)
+  → total 2244 qs, 307 units, 17 live chapters in pulse-ortho-complete.html.
+- NEXT: ch18 (book 148-153 → file2 pdf pages 50-55). Then 19..24 per map above.
 - LIVE LINK: https://deva20045.github.io/ORTHO/ (index.html redirects -> pulse-ortho-complete.html).
   Pages enabled 2026-09-13; site rebuilds after every push (~1 min).
 - GIT CAVEAT: .git/config is NOT persisted between sessions (credential-safe sandbox) -> before any
