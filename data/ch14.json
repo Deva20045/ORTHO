@@ -1,0 +1,1756 @@
+{
+ "questions": [
+  {
+   "id": "ORTHO-C14-001",
+   "sec": "Median nerve",
+   "page": 112,
+   "q": "The median nerve is also known as:",
+   "opts": [
+    "Labourer's nerve",
+    "Musician's nerve",
+    "Saturday night nerve",
+    "Crutch nerve"
+   ],
+   "ans": 0,
+   "exp": "AKA labourer's nerve. (Book p112)"
+  },
+  {
+   "id": "ORTHO-C14-002",
+   "sec": "Median nerve",
+   "page": 112,
+   "q": "The median nerve is which type of nerve?",
+   "opts": [
+    "Mixed nerve",
+    "Purely motor",
+    "Purely sensory",
+    "Sympathetic"
+   ],
+   "ans": 0,
+   "exp": "Median nerve is a mixed nerve. (Book p112)"
+  },
+  {
+   "id": "ORTHO-C14-003",
+   "sec": "Median nerve",
+   "page": 112,
+   "q": "Motor supply of median nerve includes:",
+   "opts": [
+    "Forearm anterior compartment muscles and thenar muscles",
+    "Hypothenar muscles",
+    "Extensors of wrist",
+    "Deltoid"
+   ],
+   "ans": 0,
+   "exp": "Motor: forearm anterior compartment muscles; hand thenar muscles. (Book p112)"
+  },
+  {
+   "id": "ORTHO-C14-004",
+   "sec": "Median nerve",
+   "page": 112,
+   "q": "Sensory supply of median nerve on the dorsum of hand is limited to:",
+   "opts": [
+    "Only the tips of lateral 3½ fingers",
+    "Whole dorsum",
+    "Medial 1½ fingers",
+    "First web space only"
+   ],
+   "ans": 0,
+   "exp": "Lateral 3½ palmar; only tips dorsal. (Book p112)"
+  },
+  {
+   "id": "ORTHO-C14-005",
+   "sec": "Median nerve",
+   "page": 112,
+   "q": "At the flexor retinaculum, the deep branch of median nerve supplies:",
+   "opts": [
+    "Motor to thenar muscles and sensory to lateral 3½ finger tips",
+    "Sensory to palmar area only",
+    "Motor to hypothenar",
+    "Sensory to whole palm"
+   ],
+   "ans": 0,
+   "exp": "Deep branch: motor thenar muscles; sensory lateral 3½ finger tips. (Book p112)"
+  },
+  {
+   "id": "ORTHO-C14-006",
+   "sec": "Median nerve",
+   "page": 112,
+   "q": "The superficial branch of median nerve at the flexor retinaculum gives:",
+   "opts": [
+    "Sensory supply to palmar area",
+    "Motor to thenar muscles",
+    "Motor to lumbricals 3,4",
+    "Sensory to dorsum of hand"
+   ],
+   "ans": 0,
+   "exp": "Superficial branch: sensory supply palmar area. (Book p112)"
+  },
+  {
+   "id": "ORTHO-C14-007",
+   "sec": "Median nerve",
+   "page": 112,
+   "q": "In carpal tunnel syndrome, compression of the deep branch causes:",
+   "opts": [
+    "Motor atrophy of thenar eminence and paresthesia of lateral 3½ finger tips",
+    "Loss of palmar sensation",
+    "Hypothenar wasting",
+    "Sensory loss over dorsum"
+   ],
+   "ans": 0,
+   "exp": "Deep branch compressed → motor atrophy of thenar eminence; paresthesia, tingling and numbness of lateral 3½ finger tips. (Book p112)"
+  },
+  {
+   "id": "ORTHO-C14-008",
+   "sec": "Median nerve",
+   "page": 112,
+   "q": "In carpal tunnel syndrome, palmar sensations remain intact because:",
+   "opts": [
+    "The superficial branch is spared",
+    "The deep branch is spared",
+    "Ulnar nerve compensates",
+    "Radial nerve compensates"
+   ],
+   "ans": 0,
+   "exp": "Superficial branch spared → palmar sensations intact. (Book p112)"
+  },
+  {
+   "id": "ORTHO-C14-009",
+   "sec": "Autonomous zones",
+   "page": 113,
+   "q": "An autonomous zone is:",
+   "opts": [
+    "An independent zone supplied by a single nerve",
+    "The area of overlap of two nerves",
+    "A motor-only territory",
+    "The root value of a nerve"
+   ],
+   "ans": 0,
+   "exp": "Independent zone supplied by a single nerve. (Book p113)"
+  },
+  {
+   "id": "ORTHO-C14-010",
+   "sec": "Autonomous zones",
+   "page": 113,
+   "q": "Autonomous zone of median nerve is:",
+   "opts": [
+    "Tip of index finger",
+    "Tip of little finger",
+    "Dorsum of first web space",
+    "Tip of thumb"
+   ],
+   "ans": 0,
+   "exp": "Median nerve: tip of index finger. (Book p113)"
+  },
+  {
+   "id": "ORTHO-C14-011",
+   "sec": "Autonomous zones",
+   "page": 113,
+   "q": "Autonomous zone of ulnar nerve is:",
+   "opts": [
+    "Tip of little finger",
+    "Tip of index finger",
+    "Dorsum of first web space",
+    "Heel"
+   ],
+   "ans": 0,
+   "exp": "Ulnar nerve: tip of little finger. (Book p113)"
+  },
+  {
+   "id": "ORTHO-C14-012",
+   "sec": "Autonomous zones",
+   "page": 113,
+   "q": "Autonomous zone of radial nerve is:",
+   "opts": [
+    "Dorsum of first web space",
+    "Tip of thumb",
+    "Palmar index",
+    "Lateral forearm"
+   ],
+   "ans": 0,
+   "exp": "Radial nerve: dorsum of first web space. (Book p113)"
+  },
+  {
+   "id": "ORTHO-C14-013",
+   "sec": "Median motor map",
+   "page": 113,
+   "q": "Which forearm muscle is NOT supplied by the median nerve?",
+   "opts": [
+    "Flexor carpi ulnaris",
+    "Flexor carpi radialis",
+    "Pronator teres",
+    "Palmaris longus"
+   ],
+   "ans": 0,
+   "exp": "FCU (with medial half of FDP) is supplied by ulnar nerve. (Book p113)"
+  },
+  {
+   "id": "ORTHO-C14-014",
+   "sec": "Median motor map",
+   "page": 113,
+   "q": "The LOAF muscles of hand supplied by median nerve are:",
+   "opts": [
+    "Lumbricals 1,2; opponens pollicis; abductor pollicis brevis; flexor pollicis brevis",
+    "Lumbricals 3,4; opponens; adductor pollicis",
+    "All interossei",
+    "Hypothenar muscles"
+   ],
+   "ans": 0,
+   "exp": "LOAF: lumbricals 1,2, opponens pollicis, abductor pollicis brevis, flexor pollicis brevis. (Book p113)"
+  },
+  {
+   "id": "ORTHO-C14-015",
+   "sec": "Median motor map",
+   "page": 113,
+   "q": "Which part of FDP does the median nerve supply?",
+   "opts": [
+    "Lateral half",
+    "Medial half",
+    "Whole FDP",
+    "None"
+   ],
+   "ans": 0,
+   "exp": "Lateral half of flexor digitorum profundus. (Book p113)"
+  },
+  {
+   "id": "ORTHO-C14-016",
+   "sec": "Median motor map",
+   "page": 113,
+   "q": "Median nerve supply to the arm is:",
+   "opts": [
+    "No supply",
+    "Biceps",
+    "Brachialis",
+    "Coracobrachialis only"
+   ],
+   "ans": 0,
+   "exp": "Arm: no supply. (Book p113)"
+  },
+  {
+   "id": "ORTHO-C14-017",
+   "sec": "Median motor map",
+   "page": 113,
+   "q": "In the forearm, median nerve supplies:",
+   "opts": [
+    "All anterior (flexor) compartment muscles except flexor carpi ulnaris and medial half of FDP",
+    "Only pronators",
+    "Only FDS",
+    "All flexors including FCU"
+   ],
+   "ans": 0,
+   "exp": "All anterior compartment except FCU and medial half of FDP (ulnar nerve). (Book p113)"
+  },
+  {
+   "id": "ORTHO-C14-018",
+   "sec": "Median motor map",
+   "page": 113,
+   "q": "In the hand, median nerve supplies:",
+   "opts": [
+    "All thenar muscles except adductor pollicis, plus lumbricals 1,2",
+    "All thenar including adductor pollicis",
+    "Hypothenar muscles",
+    "Lumbricals 3,4"
+   ],
+   "ans": 0,
+   "exp": "All thenar muscles except adductor pollicis (ulnar nerve) + lumbricals 1,2. (Book p113)"
+  },
+  {
+   "id": "ORTHO-C14-019",
+   "sec": "Median nerve injuries",
+   "page": 113,
+   "q": "Median nerve injury at wrist is classically caused by ___ and at elbow by ___:",
+   "opts": [
+    "Carpal tunnel syndrome; supracondylar humerus fracture",
+    "Guyon's canal; cubital tunnel",
+    "Cubital tunnel; Colles fracture",
+    "Pronator syndrome; shoulder dislocation"
+   ],
+   "ans": 0,
+   "exp": "At wrist: carpal tunnel syndrome; at elbow: supracondylar humerus fracture. (Book p113)"
+  },
+  {
+   "id": "ORTHO-C14-020",
+   "sec": "Median nerve injuries",
+   "page": 113,
+   "q": "Order of nerve injury in supracondylar humerus fracture is:",
+   "opts": [
+    "Anterior interosseous > median > radial > ulnar",
+    "Median > ulnar > radial",
+    "Radial > median > ulnar",
+    "Ulnar > median > radial"
+   ],
+   "ans": 0,
+   "exp": "Anterior interosseous nerve (branch of median) > median nerve > radial nerve > ulnar nerve. (Book p113)"
+  },
+  {
+   "id": "ORTHO-C14-021",
+   "sec": "Median nerve injuries",
+   "page": 113,
+   "q": "Median nerve injury at wrist produces which deformity?",
+   "opts": [
+    "Ape hand/thumb deformity",
+    "Claw hand",
+    "Wrist drop",
+    "Benediction sign at rest"
+   ],
+   "ans": 0,
+   "exp": "Loss of sensation lateral 3½, thenar wasting, loss of thumb abduction/flexion/opposition → ape hand/thumb deformity. (Book p113)"
+  },
+  {
+   "id": "ORTHO-C14-022",
+   "sec": "Median nerve injuries",
+   "page": 113,
+   "q": "In median nerve injury at wrist, thumb loses which movements?",
+   "opts": [
+    "Abduction, flexion and opposition",
+    "Adduction only",
+    "Extension only",
+    "Retension only"
+   ],
+   "ans": 0,
+   "exp": "Loss of thumb abduction, flexion, opposition. (Book p113)"
+  },
+  {
+   "id": "ORTHO-C14-023",
+   "sec": "Median nerve injuries",
+   "page": 114,
+   "q": "Treatment splint for median nerve injury at wrist is:",
+   "opts": [
+    "Opponens splint",
+    "Knuckle bender splint",
+    "Cock-up splint",
+    "Aeroplane splint"
+   ],
+   "ans": 0,
+   "exp": "Treatment: opponens splint. (Book p114)"
+  },
+  {
+   "id": "ORTHO-C14-024",
+   "sec": "Median nerve injuries",
+   "page": 114,
+   "q": "Median nerve injury at elbow adds loss of functions of:",
+   "opts": [
+    "FPL, FDS and FDP on top of wrist lesion manifestations",
+    "Thenar muscles only",
+    "Sensory only",
+    "Interossei"
+   ],
+   "ans": 0,
+   "exp": "Manifestations of wrist lesion + loss of functions of FPL, FDS, FDP. (Book p114)"
+  },
+  {
+   "id": "ORTHO-C14-025",
+   "sec": "Median tests",
+   "page": 114,
+   "q": "Pen test evaluates the function of:",
+   "opts": [
+    "Abductor pollicis brevis (abduction of thumb)",
+    "Adductor pollicis",
+    "FDP",
+    "FDS"
+   ],
+   "ans": 0,
+   "exp": "Pen test evaluates abductor pollicis brevis (abduction of thumb). (Book p114)"
+  },
+  {
+   "id": "ORTHO-C14-026",
+   "sec": "Median tests",
+   "page": 114,
+   "q": "Pen test procedure is:",
+   "opts": [
+    "Hand palm-up on table; patient touches tip of pen hovering above palm with thumb tip; unable = positive",
+    "Patient makes a fist",
+    "Patient abducts middle finger",
+    "Patient holds a book"
+   ],
+   "ans": 0,
+   "exp": "Palm facing up, touch tip of pen hovering above palm with thumb tip; unable to touch = positive pen test. (Book p114)"
+  },
+  {
+   "id": "ORTHO-C14-027",
+   "sec": "Median tests",
+   "page": 114,
+   "q": "Pointing index / Benediction sign / Pope sign / Oschner clasp sign evaluates:",
+   "opts": [
+    "FDS (flexion of PIP & MCP) and FDP (flexion of DIP, PIP, MCP)",
+    "APB",
+    "Adductor pollicis",
+    "Interossei"
+   ],
+   "ans": 0,
+   "exp": "Evaluates FDS: flexion of PIP & MCP joints; FDP: flexion of DIP, PIP, MCP joints. (Book p114)"
+  },
+  {
+   "id": "ORTHO-C14-028",
+   "sec": "Median tests",
+   "page": 114,
+   "q": "On making a fist in median nerve injury, which finger doesn't flex?",
+   "opts": [
+    "Index finger",
+    "Little finger",
+    "Ring finger",
+    "Middle finger only"
+   ],
+   "ans": 0,
+   "exp": "Index finger doesn't flex on making a fist. (Book p114)"
+  },
+  {
+   "id": "ORTHO-C14-029",
+   "sec": "Median tests",
+   "page": 114,
+   "q": "As per the note, thumb abduction is movement ___ and extension ___ to the plane of palm:",
+   "opts": [
+    "Perpendicular; parallel",
+    "Parallel; perpendicular",
+    "Both perpendicular",
+    "Both parallel"
+   ],
+   "ans": 0,
+   "exp": "Abduction: perpendicular to plane of palm; extension: parallel to plane of palm. (Book p114)"
+  },
+  {
+   "id": "ORTHO-C14-030",
+   "sec": "Median tests",
+   "page": 114,
+   "q": "Anterior interosseous nerve is:",
+   "opts": [
+    "A purely motor branch of median nerve supplying FPL and lateral half of FDP",
+    "A sensory branch of median",
+    "A branch of ulnar nerve",
+    "A branch of radial nerve"
+   ],
+   "ans": 0,
+   "exp": "Branch of median nerve; purely motor; supplies FPL and lateral half of FDP. (Book p114)"
+  },
+  {
+   "id": "ORTHO-C14-031",
+   "sec": "Median tests",
+   "page": 114,
+   "q": "Comparing AIN palsy with median nerve palsy:",
+   "opts": [
+    "AIN palsy has NO sensory deficits and NO difficulty making fist; median palsy has both",
+    "AIN palsy has sensory loss",
+    "Median palsy spares sensation",
+    "Both are identical"
+   ],
+   "ans": 0,
+   "exp": "Table: sensory deficits − in AIN, + in median; difficulty making fist − in AIN, + in median. (Book p114)"
+  },
+  {
+   "id": "ORTHO-C14-032",
+   "sec": "Median tests",
+   "page": 115,
+   "q": "Miloh-Nevin sign in AIN assessment is:",
+   "opts": [
+    "Weak OK sign",
+    "Weak grip of card",
+    "Wrist drop",
+    "Clawing"
+   ],
+   "ans": 0,
+   "exp": "Miloh-Nevin sign: weak OK sign. (Book p115)"
+  },
+  {
+   "id": "ORTHO-C14-033",
+   "sec": "Median tests",
+   "page": 115,
+   "q": "Which injury causes compression of median nerve as per the note?",
+   "opts": [
+    "Lunate dislocation",
+    "Scaphoid fracture",
+    "Colles fracture only",
+    "Hamate fracture"
+   ],
+   "ans": 0,
+   "exp": "Lunate dislocation causes compression injury of median nerve. (Book p115)"
+  },
+  {
+   "id": "ORTHO-C14-034",
+   "sec": "Median tests",
+   "page": 115,
+   "q": "As per summary: pen test is for ___ and pointing index for ___:",
+   "opts": [
+    "Abductor pollicis brevis; FDP & FDS",
+    "Adductor pollicis; FDS only",
+    "APB; interossei",
+    "FPL; FDS"
+   ],
+   "ans": 0,
+   "exp": "Pen test: for abductor pollicis brevis; pointing index: for FDP & FDS. (Book p115)"
+  },
+  {
+   "id": "ORTHO-C14-035",
+   "sec": "Ulnar nerve",
+   "page": 115,
+   "q": "Ulnar nerve is AKA ___ with root value ___:",
+   "opts": [
+    "Musician's nerve; C8, T1",
+    "Labourer's nerve; C5, C6",
+    "Musician's nerve; C5, C6",
+    "Crutch nerve; T1"
+   ],
+   "ans": 0,
+   "exp": "AKA musician's nerve; root value C8, T1. (Book p115)"
+  },
+  {
+   "id": "ORTHO-C14-036",
+   "sec": "Ulnar nerve",
+   "page": 115,
+   "q": "Ulnar nerve motor supply in forearm is:",
+   "opts": [
+    "Medial half of FDP and flexor carpi ulnaris",
+    "Lateral half of FDP and FCR",
+    "All flexors",
+    "Pronators only"
+   ],
+   "ans": 0,
+   "exp": "Forearm: medial half of FDP; flexor carpi ulnaris. (Book p115)"
+  },
+  {
+   "id": "ORTHO-C14-037",
+   "sec": "Ulnar nerve",
+   "page": 115,
+   "q": "Which thenar muscle is supplied by ulnar nerve?",
+   "opts": [
+    "Adductor pollicis",
+    "Abductor pollicis brevis",
+    "Opponens pollicis",
+    "Flexor pollicis brevis"
+   ],
+   "ans": 0,
+   "exp": "Adductor pollicis (thenar muscle) → thumb adduction. (Book p115)"
+  },
+  {
+   "id": "ORTHO-C14-038",
+   "sec": "Ulnar nerve",
+   "page": 115,
+   "q": "Palmar interossei ___ fingers and dorsal interossei ___ fingers:",
+   "opts": [
+    "Adduct (PAD); abduct (DAB)",
+    "Abduct; adduct",
+    "Flex; extend",
+    "Extend; flex"
+   ],
+   "ans": 0,
+   "exp": "Palmar → adduction (PAD); dorsal → abduction (DAB). (Book p115)"
+  },
+  {
+   "id": "ORTHO-C14-039",
+   "sec": "Ulnar nerve",
+   "page": 115,
+   "q": "Ulnar nerve supplies which lumbricals?",
+   "opts": [
+    "3,4",
+    "1,2",
+    "All four",
+    "None"
+   ],
+   "ans": 0,
+   "exp": "Lumbricals 3,4. (Book p115)"
+  },
+  {
+   "id": "ORTHO-C14-040",
+   "sec": "Ulnar nerve",
+   "page": 115,
+   "q": "Sensory supply of ulnar nerve covers:",
+   "opts": [
+    "Medial 1½ fingers anteriorly and posteriorly",
+    "Lateral 3½ fingers",
+    "Whole palm",
+    "First web space"
+   ],
+   "ans": 0,
+   "exp": "Medial 1½ fingers anteriorly & posteriorly. (Book p115)"
+  },
+  {
+   "id": "ORTHO-C14-041",
+   "sec": "Ulnar nerve",
+   "page": 115,
+   "q": "Sites of ulnar nerve injury are:",
+   "opts": [
+    "Cubital tunnel (behind medial epicondyle) and Guyon's canal (under piso-hamate ligament)",
+    "Carpal tunnel and cubital tunnel",
+    "Pronator teres and Guyon's canal",
+    "Axilla and spiral groove"
+   ],
+   "ans": 0,
+   "exp": "1 cubital tunnel (behind medial epicondyle); 2 Guyon's canal (under piso-hamate ligament). (Book p115)"
+  },
+  {
+   "id": "ORTHO-C14-042",
+   "sec": "Ulnar nerve",
+   "page": 115,
+   "q": "Ulnar nerve injury at wrist (Guyon's canal) manifests as:",
+   "opts": [
+    "Partial clawing of hand, hypothenar wasting, loss of sensations in medial 1½ hand",
+    "Complete clawing",
+    "Wrist drop",
+    "Thenar wasting"
+   ],
+   "ans": 0,
+   "exp": "Partial clawing of hand; hypothenar wasting; loss of sensations in medial 1½ hand. (Book p115)"
+  },
+  {
+   "id": "ORTHO-C14-043",
+   "sec": "Ulnar nerve",
+   "page": 115,
+   "q": "Complete clawing of hand results from:",
+   "opts": [
+    "Median + ulnar nerve palsy",
+    "Ulnar palsy alone",
+    "Median palsy alone",
+    "Radial palsy"
+   ],
+   "ans": 0,
+   "exp": "Note: complete clawing = median + ulnar nerve palsy. (Book p115)"
+  },
+  {
+   "id": "ORTHO-C14-044",
+   "sec": "Ulnar tests",
+   "page": 116,
+   "q": "Treatment splint for ulnar nerve injury is:",
+   "opts": [
+    "Knuckle bender splint",
+    "Opponens splint",
+    "Cock-up splint",
+    "AFO"
+   ],
+   "ans": 0,
+   "exp": "Treatment: knuckle bender splint. (Book p116)"
+  },
+  {
+   "id": "ORTHO-C14-045",
+   "sec": "Ulnar tests",
+   "page": 116,
+   "q": "Card test evaluates:",
+   "opts": [
+    "Palmar interossei (adduction of fingers)",
+    "Dorsal interossei",
+    "Adductor pollicis",
+    "APB"
+   ],
+   "ans": 0,
+   "exp": "Card test: palmar interossei (adduction of fingers). (Book p116)"
+  },
+  {
+   "id": "ORTHO-C14-046",
+   "sec": "Ulnar tests",
+   "page": 116,
+   "q": "A positive card test is when:",
+   "opts": [
+    "Card inserted between two extended fingers slips out easily due to weak interossei",
+    "Patient cannot grip the card with thumb",
+    "Card cannot be inserted",
+    "Fingers abduct"
+   ],
+   "ans": 0,
+   "exp": "Examiner pulls card; weak interossei → card slips out easily (positive card test). (Book p116)"
+  },
+  {
+   "id": "ORTHO-C14-047",
+   "sec": "Ulnar tests",
+   "page": 116,
+   "q": "Egawa test evaluates:",
+   "opts": [
+    "Dorsal interossei (abduction of 2nd-5th fingers) by moving middle finger away from midline",
+    "Palmar interossei",
+    "Adductor pollicis",
+    "Lumbricals"
+   ],
+   "ans": 0,
+   "exp": "Egawa test: dorsal interossei (abduction of 2nd, 3rd, 4th, 5th fingers); method: moving middle finger away from midline. (Book p116)"
+  },
+  {
+   "id": "ORTHO-C14-048",
+   "sec": "Ulnar tests",
+   "page": 116,
+   "q": "Fanning fingers against resistance evaluates:",
+   "opts": [
+    "Dorsal interossei",
+    "Palmar interossei",
+    "Thenar muscles",
+    "Hypothenar only"
+   ],
+   "ans": 0,
+   "exp": "Fanning fingers against resistance: to evaluate dorsal interossei. (Book p116)"
+  },
+  {
+   "id": "ORTHO-C14-049",
+   "sec": "Ulnar tests",
+   "page": 116,
+   "q": "Book test evaluates:",
+   "opts": [
+    "Adductor pollicis",
+    "Palmar interossei",
+    "Dorsal interossei",
+    "Opponens pollicis"
+   ],
+   "ans": 0,
+   "exp": "Book test: adductor pollicis. (Book p116)"
+  },
+  {
+   "id": "ORTHO-C14-050",
+   "sec": "Ulnar tests",
+   "page": 116,
+   "q": "In book test, lack of adduction is compensated by flexors (AIN supply +), producing thumb flexion known as:",
+   "opts": [
+    "Froment sign",
+    "Tinel sign",
+    "Phalen sign",
+    "Egawa sign"
+   ],
+   "ans": 0,
+   "exp": "Lack of adduction compensated by flexors → flexion of thumb (Froment sign). (Book p116)"
+  },
+  {
+   "id": "ORTHO-C14-051",
+   "sec": "Ulnar tests",
+   "page": 116,
+   "q": "Ulnar nerve injury at elbow occurs at:",
+   "opts": [
+    "Cubital tunnel, behind medial condyle",
+    "Guyon's canal",
+    "Spiral groove",
+    "Axilla"
+   ],
+   "ans": 0,
+   "exp": "Site of injury: in cubital tunnel, behind medial condyle. (Book p116)"
+  },
+  {
+   "id": "ORTHO-C14-052",
+   "sec": "Ulnar tests",
+   "page": 116,
+   "q": "In ulnar injury at elbow, loss of medial half of FDP causes:",
+   "opts": [
+    "Loss of flexion at DIP, PIP and MCP joints with LESS significant clawing",
+    "More clawing",
+    "Complete clawing",
+    "No clawing at all"
+   ],
+   "ans": 0,
+   "exp": "Loss of flexion at DIP, PIP and MCP joints → less significant clawing. (Book p116)"
+  },
+  {
+   "id": "ORTHO-C14-053",
+   "sec": "Ulnar tests",
+   "page": 117,
+   "q": "Ulnar paradox states:",
+   "opts": [
+    "Higher the injury of ulnar nerve, lesser the clawing/deformity",
+    "Higher the injury, more the clawing",
+    "Clawing is same at all levels",
+    "Lower injury gives no clawing"
+   ],
+   "ans": 0,
+   "exp": "Ulnar paradox: higher the injury → lesser the clawing/deformity. (Book p117)"
+  },
+  {
+   "id": "ORTHO-C14-054",
+   "sec": "Ulnar tests",
+   "page": 117,
+   "q": "As per ulnar assessment summary, palmar interossei are tested by ___ and adductor pollicis by ___:",
+   "opts": [
+    "Card test; book test",
+    "Egawa test; card test",
+    "Book test; card test",
+    "Fanning; Egawa"
+   ],
+   "ans": 0,
+   "exp": "Palmar: card test; dorsal: Egawa test/fanning; adductor pollicis: book test. (Book p117)"
+  },
+  {
+   "id": "ORTHO-C14-055",
+   "sec": "Radial nerve",
+   "page": 117,
+   "q": "Radial nerve is:",
+   "opts": [
+    "m/c injured nerve but best prognosis (purely motor nerve)",
+    "Least injured nerve",
+    "Purely sensory nerve",
+    "Mixed with poor prognosis"
+   ],
+   "ans": 0,
+   "exp": "m/c injured nerve but best prognosis (purely motor nerve). (Book p117)"
+  },
+  {
+   "id": "ORTHO-C14-056",
+   "sec": "Radial nerve",
+   "page": 117,
+   "q": "Function of radial nerve is:",
+   "opts": [
+    "Extension of elbow, wrist and fingers",
+    "Flexion of wrist",
+    "Abduction of shoulder",
+    "Opposition of thumb"
+   ],
+   "ans": 0,
+   "exp": "Extension of elbow, wrist & fingers. (Book p117)"
+  },
+  {
+   "id": "ORTHO-C14-057",
+   "sec": "Radial nerve",
+   "page": 117,
+   "q": "Radial nerve originates from:",
+   "opts": [
+    "Posterior cord of brachial plexus",
+    "Lateral cord",
+    "Medial cord",
+    "C5, C6 roots directly"
+   ],
+   "ans": 0,
+   "exp": "Origin: posterior cord of brachial plexus. (Book p117)"
+  },
+  {
+   "id": "ORTHO-C14-058",
+   "sec": "Radial nerve",
+   "page": 117,
+   "q": "The first elbow extensor is:",
+   "opts": [
+    "Branch of long head of triceps",
+    "Branch to anconeus",
+    "Branch to medial head of triceps",
+    "Brachioradialis"
+   ],
+   "ans": 0,
+   "exp": "First elbow extensor: branch of long head of triceps. (Book p117)"
+  },
+  {
+   "id": "ORTHO-C14-059",
+   "sec": "Radial nerve",
+   "page": 117,
+   "q": "The first wrist extensor is:",
+   "opts": [
+    "Extensor carpi radialis longus (ECRL)",
+    "ECRB",
+    "Extensor digitorum",
+    "Supinator"
+   ],
+   "ans": 0,
+   "exp": "ECRL (first wrist extensor). (Book p117)"
+  },
+  {
+   "id": "ORTHO-C14-060",
+   "sec": "Radial nerve",
+   "page": 117,
+   "q": "Branches of posterior interosseous nerve (PIN) include:",
+   "opts": [
+    "Branch to supinator, ECRB and extensors of fingers & thumb",
+    "Branch to brachioradialis",
+    "Branch to anconeus",
+    "Superficial sensory branch"
+   ],
+   "ans": 0,
+   "exp": "Branches of PIN: supinator, extensor carpi radialis brevis, extensors of fingers & thumb. (Book p117)"
+  },
+  {
+   "id": "ORTHO-C14-061",
+   "sec": "Radial nerve",
+   "page": 117,
+   "q": "The superficial branch of radial nerve is a sensory branch; its autonomous zone is:",
+   "opts": [
+    "Dorsum of first web space",
+    "Tip of index finger",
+    "Tip of little finger",
+    "Whole palmar area"
+   ],
+   "ans": 0,
+   "exp": "Superficial branch is the sensory branch (fingers excluding tips); autonomous zone: dorsum of first web space. (Book p117)"
+  },
+  {
+   "id": "ORTHO-C14-062",
+   "sec": "Radial nerve",
+   "page": 117,
+   "q": "PIN palsy (injury at radial head) manifests as:",
+   "opts": [
+    "Finger drop and thumb drop without sensory loss",
+    "Wrist drop with sensory loss",
+    "Inability to extend elbow",
+    "Complete anaesthesia of dorsum"
+   ],
+   "ans": 0,
+   "exp": "PIN palsy at radial head: finger drop, thumb drop (no sensory loss). (Book p117)"
+  },
+  {
+   "id": "ORTHO-C14-063",
+   "sec": "Radial nerve",
+   "page": 117,
+   "q": "Low radial nerve palsy occurs at ___ with manifestations ___:",
+   "opts": [
+    "Lateral condyle; finger drop, thumb drop, sensory loss",
+    "Radial head; only finger drop",
+    "Spiral groove; wrist drop",
+    "Axilla; elbow extension loss"
+   ],
+   "ans": 0,
+   "exp": "Low radial nerve palsy at lateral condyle: finger drop, thumb drop, sensory loss. (Book p117)"
+  },
+  {
+   "id": "ORTHO-C14-064",
+   "sec": "Radial nerve",
+   "page": 117,
+   "q": "High radial nerve palsy (m/c) occurs at ___ adding ___:",
+   "opts": [
+    "Spiral groove; wrist drop",
+    "Axilla; elbow extension loss",
+    "Lateral condyle; sensory loss",
+    "Radial head; nothing"
+   ],
+   "ans": 0,
+   "exp": "High radial nerve palsy (m/c) at spiral groove: finger drop, thumb drop, sensory loss, wrist drop. (Book p117)"
+  },
+  {
+   "id": "ORTHO-C14-065",
+   "sec": "Radial nerve",
+   "page": 117,
+   "q": "Very high radial nerve palsy occurs at ___ with the extra feature ___:",
+   "opts": [
+    "Axilla; inability to extend elbow",
+    "Spiral groove; wrist drop",
+    "Lateral condyle; finger drop",
+    "Radial head; thumb drop"
+   ],
+   "ans": 0,
+   "exp": "Very high palsy at axilla: adds inability to extend elbow. (Book p117)"
+  },
+  {
+   "id": "ORTHO-C14-066",
+   "sec": "Radial nerve",
+   "page": 117,
+   "q": "Injury proximal to ECRL (spiral groove) gives wrist drop ___; distal to ECRL gives wrist drop ___:",
+   "opts": [
+    "+ ; −",
+    "− ; +",
+    "+ ; +",
+    "− ; −"
+   ],
+   "ans": 0,
+   "exp": "Proximal to ECRL (spiral groove): wrist drop +; distal to ECRL: wrist drop −. (Book p117)"
+  },
+  {
+   "id": "ORTHO-C14-067",
+   "sec": "Radial nerve",
+   "page": 118,
+   "q": "Holstein-Lewis fracture is:",
+   "opts": [
+    "m/c cause of radial nerve injury — humeral shaft fracture between upper 1/3 and lower 1/3 entrapping the nerve",
+    "A scaphoid fracture",
+    "A supracondylar fracture",
+    "A fibular neck fracture"
+   ],
+   "ans": 0,
+   "exp": "m/c cause of radial nerve injury: fracture of shaft of humerus between upper 1/3 and lower 1/3 causing radial nerve entrapment. (Book p118)"
+  },
+  {
+   "id": "ORTHO-C14-068",
+   "sec": "Radial nerve",
+   "page": 118,
+   "q": "Holstein-Lewis fracture produces:",
+   "opts": [
+    "Wrist drop, finger drop, thumb drop, sensory loss",
+    "Only sensory loss",
+    "Elbow extension loss",
+    "Claw hand"
+   ],
+   "ans": 0,
+   "exp": "Causes radial nerve entrapment → wrist drop, finger drop, thumb drop, sensory loss. (Book p118)"
+  },
+  {
+   "id": "ORTHO-C14-069",
+   "sec": "Radial nerve",
+   "page": 118,
+   "q": "Cock-up splint is Rx for:",
+   "opts": [
+    "Wrist drop",
+    "Foot drop",
+    "Claw hand",
+    "Ape thumb"
+   ],
+   "ans": 0,
+   "exp": "Cock up splint (Rx for wrist drop). (Book p118)"
+  },
+  {
+   "id": "ORTHO-C14-070",
+   "sec": "Radial nerve",
+   "page": 118,
+   "q": "Static cock-up splint ___ while dynamic cock-up splint ___:",
+   "opts": [
+    "Extends wrist; extends wrist + allows flexion of fingers",
+    "Allows finger flexion; extends wrist only",
+    "Extends elbow; extends wrist",
+    "Immobilises thumb; immobilises wrist"
+   ],
+   "ans": 0,
+   "exp": "Static: extends wrist; dynamic: extends wrist + allows flexion of fingers. (Book p118)"
+  },
+  {
+   "id": "ORTHO-C14-071",
+   "sec": "Radial nerve",
+   "page": 118,
+   "q": "As per the nerve test summary, Froment sign means:",
+   "opts": [
+    "Flexor pollicis substitutes for adductor pollicis",
+    "APB substitutes for opponens",
+    "FDS substitutes for FDP",
+    "ECRB substitutes for ECRL"
+   ],
+   "ans": 0,
+   "exp": "Froment sign: flexor pollicis substitutes for adductor pollicis. (Book p118)"
+  },
+  {
+   "id": "ORTHO-C14-072",
+   "sec": "Radial nerve",
+   "page": 118,
+   "q": "Kiloh-Nevin sign / pincer grasp tests:",
+   "opts": [
+    "FDP + FPL (AIN)",
+    "APB",
+    "FDS only",
+    "Adductor pollicis"
+   ],
+   "ans": 0,
+   "exp": "Kiloh Nevin sign/pincer grasp: flexor digitorum profundus + flexor pollicis longus (AIN). (Book p118)"
+  },
+  {
+   "id": "ORTHO-C14-073",
+   "sec": "Radial nerve",
+   "page": 118,
+   "q": "In the summary table, finger & thumb drop indicates ___ and wrist drop indicates ___:",
+   "opts": [
+    "Extensors (PIN); extensors of wrist ECRL",
+    "ECRL; PIN",
+    "Supinator; ECRL",
+    "Sensory branch; PIN"
+   ],
+   "ans": 0,
+   "exp": "Finger & thumb drop: extensors (PIN); wrist drop: extensors of wrist ECRL. (Book p118)"
+  },
+  {
+   "id": "ORTHO-C14-074",
+   "sec": "Lower limb nerves",
+   "page": 119,
+   "q": "Sciatic nerve injury causes manifestations of:",
+   "opts": [
+    "CPN (common peroneal) nerve injury",
+    "Tibial nerve injury only",
+    "Femoral nerve injury",
+    "Obturator nerve injury"
+   ],
+   "ans": 0,
+   "exp": "If injured causes manifestations of CPN nerve injury. (Book p119)"
+  },
+  {
+   "id": "ORTHO-C14-075",
+   "sec": "Lower limb nerves",
+   "page": 119,
+   "q": "On sciatic nerve cross-section:",
+   "opts": [
+    "Common peroneal fibres lie peripheral, tibial fibres central",
+    "Tibial fibres peripheral",
+    "Only peroneal fibres exist",
+    "Fibres are randomly mixed"
+   ],
+   "ans": 0,
+   "exp": "Cross section: CPN fibres outer, tibial nerve fibres inner. (Book p119)"
+  },
+  {
+   "id": "ORTHO-C14-076",
+   "sec": "Lower limb nerves",
+   "page": 119,
+   "q": "The m/c cause of sciatic nerve injury is:",
+   "opts": [
+    "Iatrogenic (hip surgeries)",
+    "Posterior dislocation of hip",
+    "Gunshot injuries",
+    "Gluteal injections"
+   ],
+   "ans": 0,
+   "exp": "Iatrogenic (hip surgeries): m/c cause; also posterior dislocation, gunshot, gluteal injections. (Book p119)"
+  },
+  {
+   "id": "ORTHO-C14-077",
+   "sec": "Lower limb nerves",
+   "page": 119,
+   "q": "Superficial branch of common peroneal nerve supplies:",
+   "opts": [
+    "Motor: lateral compartment of leg (evertors of foot); sensory: dorsum of foot",
+    "Motor: anterior compartment; sensory: first web space",
+    "Motor: posterior compartment; sensory: sole",
+    "Sensory only to heel"
+   ],
+   "ans": 0,
+   "exp": "Superficial branch: motor lateral compartment (evertors); sensory dorsum of foot. (Book p119)"
+  },
+  {
+   "id": "ORTHO-C14-078",
+   "sec": "Lower limb nerves",
+   "page": 119,
+   "q": "Deep branch of common peroneal nerve supplies:",
+   "opts": [
+    "Motor: anterior compartment (dorsiflexors of ankle, inversion of foot); sensory: 1st web space of foot",
+    "Motor: evertors; sensory: dorsum",
+    "Sensory: sole; motor: calf",
+    "Motor: gluteals"
+   ],
+   "ans": 0,
+   "exp": "Deep branch: sensory 1st web space; motor anterior compartment: dorsiflexors of ankle, inversion of foot. (Book p119)"
+  },
+  {
+   "id": "ORTHO-C14-079",
+   "sec": "Lower limb nerves",
+   "page": 119,
+   "q": "Common peroneal nerve is classically injured by:",
+   "opts": [
+    "Fracture of neck of fibula",
+    "Fracture of tibial plateau",
+    "Hip dislocation",
+    "Ankle sprain"
+   ],
+   "ans": 0,
+   "exp": "Causes of injury: fracture of neck of fibula. (Book p119)"
+  },
+  {
+   "id": "ORTHO-C14-080",
+   "sec": "Lower limb nerves",
+   "page": 119,
+   "q": "Common peroneal nerve injury causes loss of ankle dorsiflexion and eversion, producing:",
+   "opts": [
+    "Equinovarus deformity (plantar flexion & inversion)",
+    "Calcaneovalgus deformity",
+    "Hallux valgus",
+    "Genu valgum"
+   ],
+   "ans": 0,
+   "exp": "Loss of dorsiflexion & eversion → equinovarus deformity (plantar flexion & inversion). (Book p119)"
+  },
+  {
+   "id": "ORTHO-C14-081",
+   "sec": "Lower limb nerves",
+   "page": 119,
+   "q": "Gait in foot drop is:",
+   "opts": [
+    "High stepping/foot-drop gait/steppage gait to overcome dragging of foot",
+    "Antalgic gait",
+    "Scissoring gait",
+    "Trendelenburg gait"
+   ],
+   "ans": 0,
+   "exp": "High stepping/foot-drop gait/steppage gait (to overcome dragging of foot d/t foot drop). (Book p119)"
+  },
+  {
+   "id": "ORTHO-C14-082",
+   "sec": "Lower limb nerves",
+   "page": 120,
+   "q": "Splint used for foot drop is:",
+   "opts": [
+    "Foot drop splint/Ankle Foot Orthosis (AFO)",
+    "Cock-up splint",
+    "Knuckle bender splint",
+    "Opponens splint"
+   ],
+   "ans": 0,
+   "exp": "Splint: foot drop splint/Ankle Foot Orthosis (AFO). (Book p120)"
+  },
+  {
+   "id": "ORTHO-C14-083",
+   "sec": "Entrapment neuropathies",
+   "page": 120,
+   "q": "Entrapment neuropathy means:",
+   "opts": [
+    "Nerve trapped under a structure causing delayed conduction of stimulus",
+    "Nerve cut completely",
+    "Nerve tumour",
+    "Nerve infection"
+   ],
+   "ans": 0,
+   "exp": "Nerve trapped under a structure → delayed conduction of stimulus. (Book p120)"
+  },
+  {
+   "id": "ORTHO-C14-084",
+   "sec": "Carpal tunnel syndrome",
+   "page": 120,
+   "q": "Carpal tunnel syndrome is entrapment of median nerve under:",
+   "opts": [
+    "Flexor retinaculum/transverse carpal ligament",
+    "Piso-hamate ligament",
+    "Inguinal ligament",
+    "Extensor retinaculum"
+   ],
+   "ans": 0,
+   "exp": "Median nerve entrapment in carpal tunnel (at wrist) under flexor retinaculum/transverse carpal ligament. (Book p120)"
+  },
+  {
+   "id": "ORTHO-C14-085",
+   "sec": "Carpal tunnel syndrome",
+   "page": 120,
+   "q": "The m/c entrapment neuropathy and m/c entrapped nerve are:",
+   "opts": [
+    "Carpal tunnel syndrome; median nerve",
+    "Cubital tunnel; ulnar nerve",
+    "Tarsal tunnel; tibial nerve",
+    "Pronator syndrome; median"
+   ],
+   "ans": 0,
+   "exp": "m/c entrapment neuropathy; m/c entrapped nerve: median nerve. (Book p120)"
+  },
+  {
+   "id": "ORTHO-C14-086",
+   "sec": "Carpal tunnel syndrome",
+   "page": 120,
+   "q": "The m/c cause of carpal tunnel syndrome is:",
+   "opts": [
+    "Idiopathic",
+    "Hypothyroidism",
+    "Pregnancy",
+    "Rheumatoid arthritis"
+   ],
+   "ans": 0,
+   "exp": "Idiopathic: m/c cause. (Book p120)"
+  },
+  {
+   "id": "ORTHO-C14-087",
+   "sec": "Carpal tunnel syndrome",
+   "page": 120,
+   "q": "Which endocrine conditions cause carpal tunnel syndrome by raising tunnel pressure?",
+   "opts": [
+    "Hypothyroidism (myxedema), pregnancy (fluid retention), acromegaly and diabetes mellitus",
+    "Only diabetes insipidus",
+    "Addison's disease",
+    "Cushing's disease only"
+   ],
+   "ans": 0,
+   "exp": "Hypothyroidism (myxedema), pregnancy (fluid retention), acromegaly (bone & soft tissue overgrowth), diabetes mellitus. (Book p120)"
+  },
+  {
+   "id": "ORTHO-C14-088",
+   "sec": "Carpal tunnel syndrome",
+   "page": 120,
+   "q": "Which fracture can cause carpal tunnel syndrome via hematoma?",
+   "opts": [
+    "Colles' fracture",
+    "Scaphoid fracture",
+    "Humeral shaft fracture",
+    "Fibula fracture"
+   ],
+   "ans": 0,
+   "exp": "Colles' fracture (hematoma → compression). (Book p120)"
+  },
+  {
+   "id": "ORTHO-C14-089",
+   "sec": "Carpal tunnel syndrome",
+   "page": 121,
+   "q": "Carpal tunnel syndrome classically affects:",
+   "opts": [
+    "Middle aged females",
+    "Young males",
+    "Children",
+    "Elderly males"
+   ],
+   "ans": 0,
+   "exp": "Middle aged female. (Book p121)"
+  },
+  {
+   "id": "ORTHO-C14-090",
+   "sec": "Carpal tunnel syndrome",
+   "page": 121,
+   "q": "The pain of CTS is ___ in type, distributed along ___ and maximum ___:",
+   "opts": [
+    "Burning pins & needles; lateral 3½ fingers; at night",
+    "Dull aching; whole arm; at morning",
+    "Sharp; medial fingers; on exertion",
+    "Throbbing; palm; at noon"
+   ],
+   "ans": 0,
+   "exp": "Burning pins & needle type of pain along lateral 3½ fingers, maximum at night. (Book p121)"
+  },
+  {
+   "id": "ORTHO-C14-091",
+   "sec": "Carpal tunnel syndrome",
+   "page": 121,
+   "q": "CTS pain is relieved by:",
+   "opts": [
+    "Shaking the hand or hanging hand at the edge of bed",
+    "Clenching the fist",
+    "Lifting weights",
+    "Cold compression only"
+   ],
+   "ans": 0,
+   "exp": "Relieved on shaking her hand; hanging hand at the edge of bed. (Book p121)"
+  },
+  {
+   "id": "ORTHO-C14-092",
+   "sec": "Carpal tunnel syndrome",
+   "page": 121,
+   "q": "Phalen's test and reverse Phalen's test require holding the position for:",
+   "opts": [
+    "Approx 1 minute, producing dull aching pain, numbness, paraesthesia, tingling along median nerve distribution",
+    "30 seconds",
+    "5 minutes",
+    "10 seconds"
+   ],
+   "ans": 0,
+   "exp": "Position held for approx 1 minute → dull aching pain, numbness, paraesthesia, tingling along median nerve distribution. (Book p121)"
+  },
+  {
+   "id": "ORTHO-C14-093",
+   "sec": "Carpal tunnel syndrome",
+   "page": 121,
+   "q": "The BEST clinical test for CTS is:",
+   "opts": [
+    "Durkan's test — direct median nerve compression between thenar & hypothenar eminence for 30 seconds",
+    "Phalen's test",
+    "Tourniquet test",
+    "Tinel's at elbow"
+   ],
+   "ans": 0,
+   "exp": "Durkan's test: best clinical test; direct median nerve compression between thenar & hypothenar eminence for 30 seconds → reproduces symptoms. (Book p121)"
+  },
+  {
+   "id": "ORTHO-C14-094",
+   "sec": "Carpal tunnel syndrome",
+   "page": 121,
+   "q": "IOC for carpal tunnel syndrome is:",
+   "opts": [
+    "Nerve conduction studies — decreased velocity due to compression under flexor retinaculum",
+    "X-ray",
+    "MRI wrist",
+    "USG"
+   ],
+   "ans": 0,
+   "exp": "Nerve conduction studies: IOC; determines velocity; decreased velocity d/t nerve compression under flexor retinaculum. (Book p121)"
+  },
+  {
+   "id": "ORTHO-C14-095",
+   "sec": "Carpal tunnel syndrome",
+   "page": 121,
+   "q": "Treatment of CTS proceeds as:",
+   "opts": [
+    "Conservative (rest, steroids, splints); if no improvement, surgery releasing flexor retinaculum/transverse carpal ligament",
+    "Surgery first line always",
+    "Only steroids forever",
+    "Amputation"
+   ],
+   "ans": 0,
+   "exp": "Conservative: rest, steroids, splints; no improvement → surgery: release of flexor retinaculum/transverse carpal ligament. (Book p121)"
+  },
+  {
+   "id": "ORTHO-C14-096",
+   "sec": "Carpal tunnel syndrome",
+   "page": 121,
+   "q": "Allen's test is used to:",
+   "opts": [
+    "Assess patency of vasculature of hand before performing arterial procedures (arterial line)",
+    "Diagnose CTS",
+    "Test ulnar nerve",
+    "Test radial nerve palsy"
+   ],
+   "ans": 0,
+   "exp": "Allen's test: to assess patency of vasculature of hand before performing arterial procedures (arterial line). (Book p121)"
+  },
+  {
+   "id": "ORTHO-C14-097",
+   "sec": "Entrapment table",
+   "page": 122,
+   "q": "Opposition of thumb is performed by ___ supplied by ___:",
+   "opts": [
+    "Opponens pollicis; deep branch of median nerve",
+    "Adductor pollicis; ulnar",
+    "APB; superficial median",
+    "FPB; radial"
+   ],
+   "ans": 0,
+   "exp": "Opponens pollicis → supplied by deep branch of median nerve. (Book p122)"
+  },
+  {
+   "id": "ORTHO-C14-098",
+   "sec": "Entrapment table",
+   "page": 122,
+   "q": "The only function completely lost in CTS is:",
+   "opts": [
+    "Opposition of thumb",
+    "Abduction of thumb",
+    "Flexion of wrist",
+    "Adduction of fingers"
+   ],
+   "ans": 0,
+   "exp": "Only function completely lost in CTS: opposition of thumb. (Book p122)"
+  },
+  {
+   "id": "ORTHO-C14-099",
+   "sec": "Entrapment table",
+   "page": 122,
+   "q": "Meralgia paraesthetica is entrapment of:",
+   "opts": [
+    "Lateral cutaneous nerve of thigh under inguinal ligament",
+    "Femoral nerve in femoral triangle",
+    "Sciatic nerve in piriformis",
+    "Obturator nerve"
+   ],
+   "ans": 0,
+   "exp": "Entrapment of lateral cutaneous nerve of thigh under inguinal ligament. (Book p122)"
+  },
+  {
+   "id": "ORTHO-C14-100",
+   "sec": "Entrapment table",
+   "page": 122,
+   "q": "Meralgia paraesthetica causes ___ and is caused by ___:",
+   "opts": [
+    "Burning sensation along lateral aspect of thigh; overweight and tight clothing around hip",
+    "Numb sole; diabetes",
+    "Thigh weakness; trauma",
+    "Knee pain; running"
+   ],
+   "ans": 0,
+   "exp": "Burning sensation along lateral aspect of thigh; etiology: overweight, tight clothing around hip. (Book p122)"
+  },
+  {
+   "id": "ORTHO-C14-101",
+   "sec": "Entrapment table",
+   "page": 122,
+   "q": "Cubital tunnel entrapment involves which nerve at which site?",
+   "opts": [
+    "Ulnar; behind the medial condyle humerus",
+    "Ulnar; under piso-hamate ligament",
+    "Median; at wrist",
+    "Median; heads of pronator teres"
+   ],
+   "ans": 0,
+   "exp": "Cubital tunnel: ulnar behind the medial condyle humerus. (Book p122)"
+  },
+  {
+   "id": "ORTHO-C14-102",
+   "sec": "Entrapment table",
+   "page": 122,
+   "q": "Guyon's canal entrapment involves which nerve at which site?",
+   "opts": [
+    "Ulnar; under the piso-hamate ligament",
+    "Median; at wrist",
+    "Radial; at spiral groove",
+    "Ulnar; behind medial condyle"
+   ],
+   "ans": 0,
+   "exp": "Guyon's canal: ulnar under the piso-hamate ligament. (Book p122)"
+  },
+  {
+   "id": "ORTHO-C14-103",
+   "sec": "Entrapment table",
+   "page": 122,
+   "q": "Pronator syndrome is entrapment of:",
+   "opts": [
+    "Median nerve at heads of pronator teres",
+    "Ulnar nerve at pronator",
+    "AIN at supinator",
+    "Radial nerve at spiral groove"
+   ],
+   "ans": 0,
+   "exp": "Pronator syndrome: median nerve at heads of pronator teres. (Book p122)"
+  },
+  {
+   "id": "ORTHO-C14-104",
+   "sec": "Entrapment table",
+   "page": 122,
+   "q": "Kiloh-Nevin syndrome is entrapment of ___ at ___:",
+   "opts": [
+    "AIN; supracondylar humerus fracture",
+    "Median; carpal tunnel",
+    "Ulnar; cubital tunnel",
+    "Radial; spiral groove"
+   ],
+   "ans": 0,
+   "exp": "Kiloh Nevin syndrome: AIN at supracondylar humerus fracture. (Book p122)"
+  },
+  {
+   "id": "ORTHO-C14-105",
+   "sec": "Entrapment table",
+   "page": 122,
+   "q": "Cheiralgia paraesthetica is entrapment of:",
+   "opts": [
+    "Superficial radial nerve at radial styloid/brachioradialis insertion (wrist watch, cuffs, bangles)",
+    "Deep radial nerve at spiral groove",
+    "Median nerve at wrist",
+    "Ulnar nerve at wrist"
+   ],
+   "ans": 0,
+   "exp": "Superficial radial nerve at radial styloid, insertion of brachioradialis (wrist watch, cuffs, bangles). (Book p122)"
+  },
+  {
+   "id": "ORTHO-C14-106",
+   "sec": "Entrapment table",
+   "page": 122,
+   "q": "Pyriformis syndrome entraps:",
+   "opts": [
+    "Sciatic nerve between pyriformis & obturator internus muscle",
+    "Pudendal nerve",
+    "Femoral nerve",
+    "Tibial nerve"
+   ],
+   "ans": 0,
+   "exp": "Sciatic nerve at pyriformis & obturator internus muscle. (Book p122)"
+  },
+  {
+   "id": "ORTHO-C14-107",
+   "sec": "Entrapment table",
+   "page": 122,
+   "q": "Tarsal tunnel syndrome entraps:",
+   "opts": [
+    "Posterior tibial nerve behind medial malleolus below flexor retinaculum of foot (RA)",
+    "Common peroneal at fibula",
+    "Sural nerve",
+    "Saphenous nerve"
+   ],
+   "ans": 0,
+   "exp": "Posterior tibial nerve behind medial malleolus below the flexor retinaculum of foot (RA). (Book p122)"
+  },
+  {
+   "id": "ORTHO-C14-108",
+   "sec": "Entrapment table",
+   "page": 122,
+   "q": "Morton metatarsalgia entraps:",
+   "opts": [
+    "Interdigital nerve of foot between 3rd & 4th toe",
+    "Plantar nerve at heel",
+    "Deep peroneal at ankle",
+    "Sural nerve at calf"
+   ],
+   "ans": 0,
+   "exp": "Interdigital nerve of foot between 3rd & 4th toe. (Book p122)"
+  }
+ ],
+ "units": [
+  {
+   "id": "ORTHO-U14-1",
+   "ch": 14,
+   "n": 1,
+   "title": "Median Nerve: Labourer's Nerve",
+   "sec": "Median · p112",
+   "qs": [
+    "ORTHO-C14-001",
+    "ORTHO-C14-002",
+    "ORTHO-C14-003",
+    "ORTHO-C14-004",
+    "ORTHO-C14-005",
+    "ORTHO-C14-006",
+    "ORTHO-C14-007",
+    "ORTHO-C14-008"
+   ],
+   "guide": "The labourer's nerve is mixed: motor to forearm flexors and thenar muscles, sensory to lateral 3½ palm and only the tips dorsally. At the retinaculum it splits — deep branch (thenar motor + tip sensation) and superficial (palmar sensation). CTS squeezes the deep branch, sparing palmar feeling."
+  },
+  {
+   "id": "ORTHO-U14-2",
+   "ch": 14,
+   "n": 2,
+   "title": "Autonomous Zones",
+   "sec": "Median · p113",
+   "qs": [
+    "ORTHO-C14-009",
+    "ORTHO-C14-010",
+    "ORTHO-C14-011",
+    "ORTHO-C14-012"
+   ],
+   "guide": "An autonomous zone is one nerve's private patch: index tip (median), little finger tip (ulnar), first web space dorsum (radial)."
+  },
+  {
+   "id": "ORTHO-U14-3",
+   "ch": 14,
+   "n": 3,
+   "title": "Median Motor Map & LOAF",
+   "sec": "Median · p113",
+   "qs": [
+    "ORTHO-C14-013",
+    "ORTHO-C14-014",
+    "ORTHO-C14-015",
+    "ORTHO-C14-016",
+    "ORTHO-C14-017",
+    "ORTHO-C14-018"
+   ],
+   "guide": "Arm: nothing. Forearm: every flexor except FCU and medial FDP (ulnar's share). Hand: the LOAF — lumbricals 1,2, opponens, abductor and flexor pollicis brevis — all thenar but adductor pollicis, which is ulnar."
+  },
+  {
+   "id": "ORTHO-U14-4",
+   "ch": 14,
+   "n": 4,
+   "title": "Median Injuries: Wrist & Elbow",
+   "sec": "Median · p113",
+   "qs": [
+    "ORTHO-C14-019",
+    "ORTHO-C14-020",
+    "ORTHO-C14-021",
+    "ORTHO-C14-022",
+    "ORTHO-C14-023",
+    "ORTHO-C14-024"
+   ],
+   "guide": "Wrist lesions come from carpal tunnel, elbow lesions from supracondylar fractures — where AIN tops the injury order ahead of median, radial, ulnar. Wrist injury: numb lateral 3½, wasted thenar, ape thumb; add FPL/FDS/FDP loss at elbow. Opponens splint treats."
+  },
+  {
+   "id": "ORTHO-U14-5",
+   "ch": 14,
+   "n": 5,
+   "title": "Median Tests & AIN",
+   "sec": "Median · p114",
+   "qs": [
+    "ORTHO-C14-025",
+    "ORTHO-C14-026",
+    "ORTHO-C14-027",
+    "ORTHO-C14-028",
+    "ORTHO-C14-029",
+    "ORTHO-C14-030",
+    "ORTHO-C14-031",
+    "ORTHO-C14-032",
+    "ORTHO-C14-033",
+    "ORTHO-C14-034"
+   ],
+   "guide": "Pen test lifts the thumb (APB); pointing index/benediction exposes FDS+FDP failure with the unflexed index; AIN — purely motor to FPL and lateral FDP — shows a weak OK (Miloh-Nevin) sign with no sensory loss and an easy fist. Lunate dislocation can squeeze the median."
+  },
+  {
+   "id": "ORTHO-U14-6",
+   "ch": 14,
+   "n": 6,
+   "title": "Ulnar: Musician's Nerve",
+   "sec": "Ulnar · p115",
+   "qs": [
+    "ORTHO-C14-035",
+    "ORTHO-C14-036",
+    "ORTHO-C14-037",
+    "ORTHO-C14-038",
+    "ORTHO-C14-039",
+    "ORTHO-C14-040",
+    "ORTHO-C14-041",
+    "ORTHO-C14-042",
+    "ORTHO-C14-043"
+   ],
+   "guide": "C8-T1 musician's nerve: forearm FCU and medial FDP; hand hypothenar, adductor pollicis, interossei (palmar adduct, dorsal abduct), lumbricals 3,4; senses medial 1½ all round. Cubital tunnel and Guyon's canal trap it; wrist lesions claw partially — complete clawing needs median too."
+  },
+  {
+   "id": "ORTHO-U14-7",
+   "ch": 14,
+   "n": 7,
+   "title": "Ulnar Tests & the Paradox",
+   "sec": "Ulnar · p116",
+   "qs": [
+    "ORTHO-C14-044",
+    "ORTHO-C14-045",
+    "ORTHO-C14-046",
+    "ORTHO-C14-047",
+    "ORTHO-C14-048",
+    "ORTHO-C14-049",
+    "ORTHO-C14-050",
+    "ORTHO-C14-051",
+    "ORTHO-C14-052",
+    "ORTHO-C14-053",
+    "ORTHO-C14-054"
+   ],
+   "guide": "Knuckle bender splint supports the claw. Card test = palmar interossei (card slips), Egawa and fanning = dorsal interossei, book test = adductor pollicis with Froment's thumb-flexion cheat. Elbow lesions spare clawing because FDP's medial half dies too — the ulnar paradox: higher injury, lesser claw."
+  },
+  {
+   "id": "ORTHO-U14-8",
+   "ch": 14,
+   "n": 8,
+   "title": "Radial Nerve: Levels of Palsy",
+   "sec": "Radial · p117",
+   "qs": [
+    "ORTHO-C14-055",
+    "ORTHO-C14-056",
+    "ORTHO-C14-057",
+    "ORTHO-C14-058",
+    "ORTHO-C14-059",
+    "ORTHO-C14-060",
+    "ORTHO-C14-061",
+    "ORTHO-C14-062",
+    "ORTHO-C14-063",
+    "ORTHO-C14-064",
+    "ORTHO-C14-065",
+    "ORTHO-C14-066"
+   ],
+   "guide": "Most injured yet best prognosis — purely motor, extending elbow, wrist, fingers from the posterior cord. Long-head triceps branch fires first; ECRL is the first wrist extensor; PIN takes supinator, ECRB and finger extensors. Levels: radial head (PIN: finger+thumb drop), lateral condyle (+sensory), spiral groove (+wrist drop, m/c), axilla (+elbow extension lost). Below ECRL, no wrist drop."
+  },
+  {
+   "id": "ORTHO-U14-9",
+   "ch": 14,
+   "n": 9,
+   "title": "Holstein-Lewis, Splints & Test Tables",
+   "sec": "Radial · p118",
+   "qs": [
+    "ORTHO-C14-067",
+    "ORTHO-C14-068",
+    "ORTHO-C14-069",
+    "ORTHO-C14-070",
+    "ORTHO-C14-071",
+    "ORTHO-C14-072",
+    "ORTHO-C14-073"
+   ],
+   "guide": "Holstein-Lewis — humeral shaft fracture at the upper/lower third junction — entraps radial nerve, the m/c cause. Cock-up splint answers wrist drop: static extends wrist, dynamic also lets fingers flex. The summary tables pair every sign with its muscle, Froment to pincer grasp."
+  },
+  {
+   "id": "ORTHO-U14-10",
+   "ch": 14,
+   "n": 10,
+   "title": "Sciatic & Common Peroneal",
+   "sec": "Lower limb · p119",
+   "qs": [
+    "ORTHO-C14-074",
+    "ORTHO-C14-075",
+    "ORTHO-C14-076",
+    "ORTHO-C14-077",
+    "ORTHO-C14-078",
+    "ORTHO-C14-079",
+    "ORTHO-C14-080",
+    "ORTHO-C14-081",
+    "ORTHO-C14-082"
+   ],
+   "guide": "Sciatic injury behaves like CPN injury — peroneal fibres ride peripherally around the tibial core; hip surgeries top the causes. At the fibular neck the CPN splits: superficial everts and feels the dorsum, deep dorsiflexes and feels the first web. Fibular neck fracture drops the foot into equinovarus and a steppage gait; AFO splints it."
+  },
+  {
+   "id": "ORTHO-U14-11",
+   "ch": 14,
+   "n": 11,
+   "title": "Carpal Tunnel Syndrome",
+   "sec": "Entrapment · p120",
+   "qs": [
+    "ORTHO-C14-083",
+    "ORTHO-C14-084",
+    "ORTHO-C14-085",
+    "ORTHO-C14-086",
+    "ORTHO-C14-087",
+    "ORTHO-C14-088",
+    "ORTHO-C14-089",
+    "ORTHO-C14-090",
+    "ORTHO-C14-091",
+    "ORTHO-C14-092",
+    "ORTHO-C14-093",
+    "ORTHO-C14-094",
+    "ORTHO-C14-095",
+    "ORTHO-C14-096"
+   ],
+   "guide": "Trapped under the flexor retinaculum, the median — m/c entrapped nerve in the m/c entrapment neuropathy — burns at night along lateral 3½ fingers in middle-aged women, eased by shaking or hanging the hand. Idiopathic leads causes; myxedema, pregnancy, acromegaly, Colles' hematoma, gout, amyloid, diabetes follow. Durkan's 30-second compression is the best clinical test, NCS the IOC; rest-steroid-splint first, then release the ligament. Allen's test clears the hand's vessels before arterial lines."
+  },
+  {
+   "id": "ORTHO-U14-12",
+   "ch": 14,
+   "n": 12,
+   "title": "Opposition & Meralgia",
+   "sec": "Entrapment · p122",
+   "qs": [
+    "ORTHO-C14-097",
+    "ORTHO-C14-098",
+    "ORTHO-C14-099",
+    "ORTHO-C14-100"
+   ],
+   "guide": "Opponens pollicis, deep median branch, performs opposition — the single function CTS destroys completely. Meralgia paraesthetica burns the lateral thigh where the lateral cutaneous nerve ducks under the inguinal ligament, pinched by overweight and tight clothing."
+  },
+  {
+   "id": "ORTHO-U14-13",
+   "ch": 14,
+   "n": 13,
+   "title": "The Entrapment Table",
+   "sec": "Entrapment · p122",
+   "qs": [
+    "ORTHO-C14-101",
+    "ORTHO-C14-102",
+    "ORTHO-C14-103",
+    "ORTHO-C14-104",
+    "ORTHO-C14-105",
+    "ORTHO-C14-106",
+    "ORTHO-C14-107",
+    "ORTHO-C14-108"
+   ],
+   "guide": "Memorise the grid: cubital tunnel — ulnar behind medial condyle; Guyon's — ulnar under piso-hamate; pronator syndrome — median at pronator teres heads; Kiloh-Nevin — AIN in supracondylar fracture; cheiralgia — superficial radial at the styloid (watch, cuffs, bangles); meralgia — lateral femoral cutaneous under inguinal ligament; pyriformis — sciatic; tarsal tunnel — posterior tibial behind medial malleolus; Morton — interdigital nerve, 3rd-4th toe."
+  }
+ ]
+}
