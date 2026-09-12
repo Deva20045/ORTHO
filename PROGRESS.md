@@ -19,9 +19,9 @@ line-by-line questions, first line → last line, strict book order, identical s
 - Deliverable format inside HTML: `const QUESTIONS = [{...}]`, `const UNITS = [{...}]` (compact JSON, natural key order), `const CHAPTERS = [{n,t,p,live:true}]`.
 
 ## Chapter page map (book pages)
-12: 90-104 DONE (195 qs, 28 units) | 13: 105-111 DONE (89 qs, 13 units) | 14: 112-122 DONE (108 qs, 13 units) | 15: 123-128 DONE (68 qs, 13 units)
-16: 129-136 | 17: 137-147 | 18: 148-153 | 19: 154-159 | 20: 160-165 | 21: 166-172 | 22: 173-180 | 23: 181-189 | 24: 190-202
-→ ch16 = file2 pdf pages 31-38; ch17 = 39-49; ch18 = 50-55; ch19 = 56-61; ch20 = 62-67; ch21 = 68-74; ch22 = 75-82; ch23 = 83-91; ch24 = 92-104.
+12: 90-104 DONE (195 qs, 28 units) | 13: 105-111 DONE (89 qs, 13 units) | 14: 112-122 DONE (108 qs, 13 units) | 15: 123-128 DONE (68 qs, 13 units) | 16: 129-136 DONE (130 qs, 24 units)
+17: 137-147 | 18: 148-153 | 19: 154-159 | 20: 160-165 | 21: 166-172 | 22: 173-180 | 23: 181-189 | 24: 190-202
+→ ch17 = file2 pdf pages 39-49; ch18 = 50-55; ch19 = 56-61; ch20 = 62-67; ch21 = 68-74; ch22 = 75-82; ch23 = 83-91; ch24 = 92-104.
 
 ## Pipeline per chapter
 1. user uploads the needed source PDF part(s) into `uploads/`
@@ -42,8 +42,14 @@ line-by-line questions, first line → last line, strict book order, identical s
 
 ## Status
 - DONE: ch 1-11 (original 1497 qs), ch12 (195 qs, 28 units), ch13 (89 qs, 13 units),
-  ch14 Nerve Injuries: Part 2 (108 qs, 13 units), ch15 Orthopaedic Oncology: Part 1 (68 qs, 13 units)
-  → total 1957 qs, 254 units, 15 live chapters in pulse-ortho-complete.html.
-- NEXT: ch16 (book 129-136 → file2 pdf pages 31-38). Then 17..24 per map above.
+  ch14 Nerve Injuries: Part 2 (108 qs, 13 units), ch15 Orthopaedic Oncology: Part 1 (68 qs, 13 units),
+  ch16 Orthopaedic Oncology: Part 2 (130 qs, 24 units)
+  → total 2087 qs, 278 units, 16 live chapters in pulse-ortho-complete.html.
+- NEXT: ch17 (book 137-147 → file2 pdf pages 39-49). Then 18..24 per map above.
+- NOTE (2026-09-13): user's fine-grained token got REGENERATED during a permission edit -> old token
+  now 401. Waiting for user to paste the NEW token (needs Contents: Read and write). After receiving:
+  `bash work/push.sh Deva20045 <token> ORTHO`, then enable GitHub Pages (Settings->Pages or via API
+  with "Pages: Read and write" permission) -> live link https://deva20045.github.io/ORTHO/pulse-ortho-complete.html
+  User asked for the live link + auto-update after EVERY chapter.
 - Deliverable file: `pulse-ortho-complete.html` (workspace root / repo root).
 - GitHub repo: see REMOTE.md (created once user provides PAT; repo kept PRIVATE — copyrighted source).

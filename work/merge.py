@@ -46,6 +46,8 @@ news = []
 for f in sorted(glob.glob("data/ch[0-9]*.json"),
                 key=lambda p: int(re.search(r"ch(\d+)", p).group(1))):
     ch = int(re.search(r"ch(\d+)", f).group(1))
+    if not re.fullmatch(r"data/ch\d+\.json", f):  # skip part files chNN_a.json etc.
+        continue
     if ch in emb or ch <= max(emb, default=0):
         continue
     d = json.load(open(f, encoding="utf-8"))
