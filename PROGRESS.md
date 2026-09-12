@@ -46,8 +46,12 @@ line-by-line questions, first line → last line, strict book order, identical s
   ch16 Orthopaedic Oncology: Part 2 (130 qs, 24 units)
   → total 2087 qs, 278 units, 16 live chapters in pulse-ortho-complete.html.
 - NEXT: ch17 (book 137-147 → file2 pdf pages 39-49). Then 18..24 per map above.
+- LIVE LINK: https://deva20045.github.io/ORTHO/ (index.html redirects -> pulse-ortho-complete.html).
+  Pages enabled 2026-09-13; site rebuilds after every push (~1 min).
+- GIT CAVEAT: .git/config is NOT persisted between sessions (credential-safe sandbox) -> before any
+  push in a NEW session re-add: git remote add origin "https://Deva20045:<TOKEN>@github.com/Deva20045/ORTHO.git"
 - NOTE (2026-09-13): PUSHED to https://github.com/Deva20045/ORTHO (main). Token works for Contents
-  write but NOT Pages write -> user must enable Pages manually once:
+  write; Pages was enabled by user manually (Pages write not in token):
   Repo -> Settings -> Pages -> Source "Deploy from a branch" -> main /(root) -> Save.
   Live link after that: https://deva20045.github.io/ORTHO/pulse-ortho-complete.html
   User asked for the live link + auto-update after EVERY chapter. push.sh default repo = ORTHO.
