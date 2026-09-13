@@ -1,0 +1,2386 @@
+{
+ "questions": [
+  {
+   "id": "ORTHO-C23-001",
+   "sec": "Prolapsed Intervertebral Disc (PIVD)",
+   "page": 181,
+   "q": "Prolapsed intervertebral disc (PIVD) is best described as:",
+   "opts": [
+    "Protrusion of disc causing compression of spinal cord/nerve",
+    "Inflammation of the vertebral body",
+    "Osteoarthritis of facet joints",
+    "Tumour of the disc"
+   ],
+   "ans": 0,
+   "exp": "PIVD: protrusion of disc → compression of spinal cord/nerves. (Book p181)"
+  },
+  {
+   "id": "ORTHO-C23-002",
+   "sec": "Prolapsed Intervertebral Disc (PIVD)",
+   "page": 181,
+   "q": "m/c disc to prolapse is:",
+   "opts": [
+    "L4-L5",
+    "L5-S1",
+    "L3-L4",
+    "C5-C6"
+   ],
+   "ans": 0,
+   "exp": "m/c disc to prolapse: L4-L5 > L5-S1. (Book p181)"
+  },
+  {
+   "id": "ORTHO-C23-003",
+   "sec": "Prolapsed Intervertebral Disc (PIVD)",
+   "page": 181,
+   "q": "Nucleus pulposus (NP) is composed of:",
+   "opts": [
+    "Type II collagen",
+    "Type I collagen",
+    "Elastic fibres only",
+    "Hyaline cartilage"
+   ],
+   "ans": 0,
+   "exp": "Nucleus pulposus (NP): type II collagen; annulus fibrosus: type I. (Book p181)"
+  },
+  {
+   "id": "ORTHO-C23-004",
+   "sec": "Prolapsed Intervertebral Disc (PIVD)",
+   "page": 181,
+   "q": "Annulus fibrosus (AF) is composed of:",
+   "opts": [
+    "Type I collagen",
+    "Type II collagen",
+    "Type III collagen",
+    "Elastic cartilage"
+   ],
+   "ans": 0,
+   "exp": "Annulus fibrosus (AF): type I collagen. (Book p181)"
+  },
+  {
+   "id": "ORTHO-C23-005",
+   "sec": "Mechanism of injury",
+   "page": 181,
+   "q": "Mechanism of injury in PIVD includes:",
+   "opts": [
+    "Abnormal loading of spine",
+    "Direct trauma only",
+    "Viral infection",
+    "Tumour of the disc"
+   ],
+   "ans": 0,
+   "exp": "Mechanism of injury: abnormal loading of spine and degeneration of spine. (Book p181)"
+  },
+  {
+   "id": "ORTHO-C23-006",
+   "sec": "Mechanism of injury",
+   "page": 181,
+   "q": "Other mechanism of injury leading to PIVD is:",
+   "opts": [
+    "Degeneration of spine",
+    "Rheumatoid arthritis",
+    "Spondylolisthesis only",
+    "Hypothyroidism"
+   ],
+   "ans": 0,
+   "exp": "Mechanism of injury: degeneration of spine. (Book p181)"
+  },
+  {
+   "id": "ORTHO-C23-007",
+   "sec": "Progression of disc degeneration",
+   "page": 181,
+   "q": "First stage in progression of disc degeneration is:",
+   "opts": [
+    "Degeneration",
+    "Prolapse",
+    "Extrusion",
+    "Sequestration"
+   ],
+   "ans": 0,
+   "exp": "Progression of disc degeneration: Degeneration → Prolapse → Extrusion → Sequestration. (Book p181)"
+  },
+  {
+   "id": "ORTHO-C23-008",
+   "sec": "Progression of disc degeneration",
+   "page": 181,
+   "q": "'Prolapse' stage in disc degeneration corresponds to:",
+   "opts": [
+    "Bulging of nucleus pulposus",
+    "Break of annulus fibrosus",
+    "NP coming out",
+    "NP fragment breaking away"
+   ],
+   "ans": 0,
+   "exp": "Prolapse stage: bulging of nucleus pulposus. (Book p181)"
+  },
+  {
+   "id": "ORTHO-C23-009",
+   "sec": "Progression of disc degeneration",
+   "page": 181,
+   "q": "'Extrusion' in disc degeneration means:",
+   "opts": [
+    "AF breaks and NP comes out",
+    "Bulging of nucleus pulposus",
+    "Extruded NP breaks away",
+    "Healing of the disc"
+   ],
+   "ans": 0,
+   "exp": "Extrusion: AF breaks and NP comes out. (Book p181)"
+  },
+  {
+   "id": "ORTHO-C23-010",
+   "sec": "Progression of disc degeneration",
+   "page": 181,
+   "q": "'Sequestration' in disc degeneration means:",
+   "opts": [
+    "Extruded NP breaks away",
+    "Bulging of NP",
+    "Intact annulus fibrosus",
+    "Meningeal compression"
+   ],
+   "ans": 0,
+   "exp": "Sequestration: extruded NP breaks away. (Book p181)"
+  },
+  {
+   "id": "ORTHO-C23-011",
+   "sec": "Canal stenosis",
+   "page": 181,
+   "q": "Causes of canal stenosis include:",
+   "opts": [
+    "PIVD",
+    "Congenital bony spurs only",
+    "TB of spine only",
+    "Metastatic deposits only"
+   ],
+   "ans": 0,
+   "exp": "Causes of canal stenosis: PIVD and vertebral degeneration in OA. (Book p181)"
+  },
+  {
+   "id": "ORTHO-C23-012",
+   "sec": "Canal stenosis",
+   "page": 181,
+   "q": "Vertebral degeneration in OA causes canal stenosis by:",
+   "opts": [
+    "Excessive growth of abnormal bone",
+    "Soft disc protrusion only",
+    "Infection of the canal",
+    "Tumour of the dura"
+   ],
+   "ans": 0,
+   "exp": "Vertebral degeneration in OA → excessive growth of abnormal bone → stenosis. (Book p181)"
+  },
+  {
+   "id": "ORTHO-C23-013",
+   "sec": "Canal stenosis",
+   "page": 181,
+   "q": "m/c site of canal stenosis is:",
+   "opts": [
+    "Lumbar",
+    "Cervical",
+    "Thoracic",
+    "Sacral"
+   ],
+   "ans": 0,
+   "exp": "m/c site of canal stenosis: lumbar. (Book p181)"
+  },
+  {
+   "id": "ORTHO-C23-014",
+   "sec": "Canal stenosis",
+   "page": 181,
+   "q": "Age at presentation in PIVD is typically:",
+   "opts": [
+    "Young",
+    "Elderly",
+    "Neonates",
+    "Middle aged only"
+   ],
+   "ans": 0,
+   "exp": "PIVD: age at presentation young, onset acute (canal stenosis: elderly, chronic). (Book p181)"
+  },
+  {
+   "id": "ORTHO-C23-015",
+   "sec": "Canal stenosis",
+   "page": 181,
+   "q": "Onset of disease in canal stenosis is typically:",
+   "opts": [
+    "Chronic",
+    "Acute",
+    "Fulminant",
+    "Paroxysmal"
+   ],
+   "ans": 0,
+   "exp": "Canal stenosis: elderly, chronic onset; PIVD: young, acute onset. (Book p181)"
+  },
+  {
+   "id": "ORTHO-C23-016",
+   "sec": "Types of PIVD",
+   "page": 181,
+   "q": "Far lateral PIVD impinges on:",
+   "opts": [
+    "Exiting nerve roots",
+    "Traversing nerve roots",
+    "Spinal cord",
+    "Dural sac only"
+   ],
+   "ans": 0,
+   "exp": "Far lateral PIVD: impinges exiting nerve roots. (Book p181)"
+  },
+  {
+   "id": "ORTHO-C23-017",
+   "sec": "Types of PIVD",
+   "page": 181,
+   "q": "Paracentral (m/c) PIVD impinges on:",
+   "opts": [
+    "Traversing nerve roots",
+    "Exiting nerve roots",
+    "Spinal cord",
+    "Nerve root sleeve"
+   ],
+   "ans": 0,
+   "exp": "Paracentral (m/c): impinges traversing nerve roots. (Book p181)"
+  },
+  {
+   "id": "ORTHO-C23-018",
+   "sec": "Types of PIVD",
+   "page": 181,
+   "q": "m/c injured nerve in lumbar PIVD is:",
+   "opts": [
+    "L5",
+    "L4",
+    "S1",
+    "L3"
+   ],
+   "ans": 0,
+   "exp": "m/c injured nerve: L5 (LMNL d/t nerve root involvement). (Book p181)"
+  },
+  {
+   "id": "ORTHO-C23-019",
+   "sec": "Clinical features",
+   "page": 182,
+   "q": "History in presentation of PIVD typically includes:",
+   "opts": [
+    "Lifting heavy objects",
+    "Prolonged fever",
+    "Neck trauma",
+    "Loss of consciousness"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: H/o lifting heavy objects, low back ache, sciatica, neurological deficits. (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-020",
+   "sec": "Clinical features",
+   "page": 182,
+   "q": "m/c cause of sciatica is:",
+   "opts": [
+    "PIVD",
+    "TB of spine",
+    "Diabetic neuropathy",
+    "Vascular claudication"
+   ],
+   "ans": 0,
+   "exp": "m/c cause of sciatica: PIVD. (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-021",
+   "sec": "Clinical features",
+   "page": 182,
+   "q": "Sciatica is defined as:",
+   "opts": [
+    "Back pain radiating to lower limb",
+    "Pain confined to low back",
+    "Calf pain on walking",
+    "Burning pain in sole of foot"
+   ],
+   "ans": 0,
+   "exp": "Sciatica: back pain radiating to lower limb. (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-022",
+   "sec": "Clinical features",
+   "page": 182,
+   "q": "Sciatica increases with all EXCEPT:",
+   "opts": [
+    "Standing upright",
+    "Flexion",
+    "Sneezing",
+    "Coughing"
+   ],
+   "ans": 0,
+   "exp": "Sciatica increases with flexion, sneezing, coughing and sitting for prolonged duration. (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-023",
+   "sec": "Evaluation",
+   "page": 182,
+   "q": "SLRT is positive when hip cannot be flexed more than:",
+   "opts": [
+    "30-35°",
+    "60°",
+    "90°",
+    "120°"
+   ],
+   "ans": 0,
+   "exp": "SLRT (Straight Leg Raising Test): positive when unable to flex hip >30-35°. (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-024",
+   "sec": "Evaluation",
+   "page": 182,
+   "q": "SLRT becomes positive because raising the leg:",
+   "opts": [
+    "Causes stretching of compressed nerve → produces pain",
+    "Stretches the psoas tendon",
+    "Compresses the femoral artery",
+    "Causes hip subluxation"
+   ],
+   "ans": 0,
+   "exp": "SLRT: causes stretching of compressed nerve → produces pain. (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-025",
+   "sec": "Evaluation",
+   "page": 182,
+   "q": "IOC for PIVD is:",
+   "opts": [
+    "MRI",
+    "Plain X-ray",
+    "CT myelography",
+    "Bone scan"
+   ],
+   "ans": 0,
+   "exp": "MRI (IOC) for PIVD. (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-026",
+   "sec": "Evaluation",
+   "page": 182,
+   "q": "Neurological examination in PIVD is done to:",
+   "opts": [
+    "Localize the lesion depending on nerve roots involved",
+    "Assess cardiac output",
+    "Measure intraocular pressure",
+    "Evaluate liver span"
+   ],
+   "ans": 0,
+   "exp": "Neurological examination: to localize the lesion depending on nerve roots involved. (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-027",
+   "sec": "Neurological examination",
+   "page": 182,
+   "q": "C5 myotome is:",
+   "opts": [
+    "Elbow flexion",
+    "Wrist extension",
+    "Elbow extension",
+    "Finger flexion"
+   ],
+   "ans": 0,
+   "exp": "C5 myotome: elbow flexion. (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-028",
+   "sec": "Neurological examination",
+   "page": 182,
+   "q": "C6 myotome is:",
+   "opts": [
+    "Wrist extension",
+    "Elbow flexion",
+    "Finger abduction",
+    "Knee extension"
+   ],
+   "ans": 0,
+   "exp": "C6 myotome: wrist extension. (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-029",
+   "sec": "Neurological examination",
+   "page": 182,
+   "q": "C7 myotome is:",
+   "opts": [
+    "Elbow extension & wrist flexion",
+    "Wrist extension",
+    "Finger flexion",
+    "Toe extension"
+   ],
+   "ans": 0,
+   "exp": "C7 myotome: elbow extension & wrist flexion. (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-030",
+   "sec": "Neurological examination",
+   "page": 182,
+   "q": "C8 myotome is:",
+   "opts": [
+    "Finger flexion",
+    "Finger abduction",
+    "Elbow flexion",
+    "Ankle plantar flexion"
+   ],
+   "ans": 0,
+   "exp": "C8 myotome: finger flexion. (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-031",
+   "sec": "Neurological examination",
+   "page": 182,
+   "q": "T1 myotome is:",
+   "opts": [
+    "Finger abduction",
+    "Finger flexion",
+    "Wrist extension",
+    "Elbow extension"
+   ],
+   "ans": 0,
+   "exp": "T1 myotome: finger abduction. (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-032",
+   "sec": "Neurological examination",
+   "page": 182,
+   "q": "L2 myotome is:",
+   "opts": [
+    "Hip flexion/iliopsoas",
+    "Knee extension",
+    "Ankle dorsiflexion",
+    "Toe extension"
+   ],
+   "ans": 0,
+   "exp": "L2 myotome: hip flexion/iliopsoas. (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-033",
+   "sec": "Neurological examination",
+   "page": 182,
+   "q": "L3 myotome is:",
+   "opts": [
+    "Knee extension/quadriceps",
+    "Hip flexion",
+    "Ankle dorsiflexion",
+    "Ankle plantar flexion"
+   ],
+   "ans": 0,
+   "exp": "L3 myotome: knee extension/quadriceps. (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-034",
+   "sec": "Neurological examination",
+   "page": 182,
+   "q": "L4 myotome is:",
+   "opts": [
+    "Ankle dorsiflexors/tibialis anterior",
+    "Knee extension",
+    "Toe extension",
+    "Ankle plantar flexion"
+   ],
+   "ans": 0,
+   "exp": "L4 myotome: ankle dorsiflexors/tibialis anterior. (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-035",
+   "sec": "Neurological examination",
+   "page": 182,
+   "q": "L5 myotome is:",
+   "opts": [
+    "Toe extensors/extensor hallucis longus",
+    "Ankle dorsiflexors",
+    "Knee extension",
+    "Ankle plantar flexors"
+   ],
+   "ans": 0,
+   "exp": "L5 myotome: toe extensors/extensor hallucis longus. (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-036",
+   "sec": "Neurological examination",
+   "page": 182,
+   "q": "S1 myotome is:",
+   "opts": [
+    "Ankle plantar flexors/gastrosoleus",
+    "Ankle dorsiflexors",
+    "Toe extensors",
+    "Finger flexion"
+   ],
+   "ans": 0,
+   "exp": "S1 myotome: ankle plantar flexors/gastrosoleus. (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-037",
+   "sec": "Neurological examination",
+   "page": 182,
+   "q": "C5 reflex is:",
+   "opts": [
+    "Biceps",
+    "Supinator",
+    "Triceps",
+    "Knee jerk"
+   ],
+   "ans": 0,
+   "exp": "C5 reflex: biceps. (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-038",
+   "sec": "Neurological examination",
+   "page": 182,
+   "q": "C6 reflex is:",
+   "opts": [
+    "Supinator (brachioradialis)",
+    "Biceps",
+    "Triceps",
+    "Ankle jerk"
+   ],
+   "ans": 0,
+   "exp": "C6 reflex: supinator (brachioradialis). (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-039",
+   "sec": "Neurological examination",
+   "page": 182,
+   "q": "C7 reflex is:",
+   "opts": [
+    "Triceps",
+    "Biceps",
+    "Supinator",
+    "Patellar jerk"
+   ],
+   "ans": 0,
+   "exp": "C7 reflex: triceps. (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-040",
+   "sec": "Neurological examination",
+   "page": 182,
+   "q": "L3-L4 reflex is:",
+   "opts": [
+    "Knee (quadriceps)",
+    "Ankle (gastrosoleus)",
+    "Biceps",
+    "Triceps"
+   ],
+   "ans": 0,
+   "exp": "L3, L4 reflex: knee (quadriceps). (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-041",
+   "sec": "Neurological examination",
+   "page": 182,
+   "q": "S1 reflex is:",
+   "opts": [
+    "Ankle (gastrosoleus)",
+    "Knee (quadriceps)",
+    "Biceps",
+    "Supinator"
+   ],
+   "ans": 0,
+   "exp": "S1 reflex: ankle (gastrosoleus). (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-042",
+   "sec": "Treatment",
+   "page": 182,
+   "q": "First conservative treatment of PIVD is:",
+   "opts": [
+    "Rest in semi-fowler position (supine with 30-40° flexion of spine)",
+    "Immediate laminectomy",
+    "Transforaminal injection",
+    "External radiotherapy"
+   ],
+   "ans": 0,
+   "exp": "Treatment 1: rest in semi-fowler position (supine with 30-40° flexion of spine). (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-043",
+   "sec": "Treatment",
+   "page": 182,
+   "q": "Second conservative treatment of PIVD is:",
+   "opts": [
+    "Physiotherapy",
+    "Discectomy",
+    "Spinal fusion",
+    "Traction only"
+   ],
+   "ans": 0,
+   "exp": "Treatment 2: physiotherapy. (Book p182)"
+  },
+  {
+   "id": "ORTHO-C23-044",
+   "sec": "Surgical disc compression",
+   "page": 183,
+   "q": "Surgical disc compression in PIVD is done by:",
+   "opts": [
+    "Total/hemi-laminectomy or laminotomy + discectomy",
+    "Discectomy without any laminectomy",
+    "Corpectomy of L1",
+    "Laminectomy of cervical spine only"
+   ],
+   "ans": 0,
+   "exp": "Surgical disc compression: total/hemi-laminectomy or laminotomy + discectomy. (Book p183)"
+  },
+  {
+   "id": "ORTHO-C23-045",
+   "sec": "Surgical disc compression",
+   "page": 183,
+   "q": "Indication for surgery in PIVD is:",
+   "opts": [
+    "Worsening symptoms despite conservative Rx",
+    "Mild back pain for 2 days",
+    "Occasional stiffness",
+    "Positive SLRT alone"
+   ],
+   "ans": 0,
+   "exp": "Indications: worsening symptoms despite conservative Rx. (Book p183)"
+  },
+  {
+   "id": "ORTHO-C23-046",
+   "sec": "Surgical disc compression",
+   "page": 183,
+   "q": "Another indication for surgery in PIVD is:",
+   "opts": [
+    "Bowel & bladder involvement",
+    "Mild radicular pain",
+    "Occasional stiffness",
+    "Positive SLRT alone"
+   ],
+   "ans": 0,
+   "exp": "Indications: bowel & bladder involvement. (Book p183)"
+  },
+  {
+   "id": "ORTHO-C23-047",
+   "sec": "Surgical disc compression",
+   "page": 183,
+   "q": "Massive central disc prolapse compressing multiple nerve roots is:",
+   "opts": [
+    "An indication for surgery",
+    "A contraindication for surgery",
+    "Managed with physiotherapy only",
+    "A normal variant"
+   ],
+   "ans": 0,
+   "exp": "Indications: massive central disc prolapse compressing multiple nerve roots. (Book p183)"
+  },
+  {
+   "id": "ORTHO-C23-048",
+   "sec": "Surgical disc compression",
+   "page": 183,
+   "q": "Cauda equina syndrome in PIVD is:",
+   "opts": [
+    "An indication for surgery",
+    "A contraindication for surgery",
+    "Treated with oral analgesics only",
+    "Self-limiting"
+   ],
+   "ans": 0,
+   "exp": "Indications: cauda equina syndrome. (Book p183)"
+  },
+  {
+   "id": "ORTHO-C23-049",
+   "sec": "Conus medullaris v/s cauda equina syndrome",
+   "page": 183,
+   "q": "Structure involved in conus medullaris syndrome is:",
+   "opts": [
+    "Spinal cord (nucleus of Onuf S2)",
+    "Spinal nerves only",
+    "Dural sac only",
+    "Cerebellum"
+   ],
+   "ans": 0,
+   "exp": "Conus medullaris: spinal cord involved (nucleus of Onuf S2); cauda equina: spinal nerves. (Book p183)"
+  },
+  {
+   "id": "ORTHO-C23-050",
+   "sec": "Conus medullaris v/s cauda equina syndrome",
+   "page": 183,
+   "q": "Structure involved in cauda equina syndrome is:",
+   "opts": [
+    "Spinal nerves",
+    "Spinal cord",
+    "Brainstem",
+    "Cerebral cortex"
+   ],
+   "ans": 0,
+   "exp": "Cauda equina: spinal nerves involved. (Book p183)"
+  },
+  {
+   "id": "ORTHO-C23-051",
+   "sec": "Conus medullaris v/s cauda equina syndrome",
+   "page": 183,
+   "q": "Presentation of conus medullaris syndrome is:",
+   "opts": [
+    "UMNL with LMNL features",
+    "Pure LMNL",
+    "Pure UMNL",
+    "Sensory loss only"
+   ],
+   "ans": 0,
+   "exp": "Conus medullaris: UMNL with LMNL features; cauda equina: LMNL. (Book p183)"
+  },
+  {
+   "id": "ORTHO-C23-052",
+   "sec": "Conus medullaris v/s cauda equina syndrome",
+   "page": 183,
+   "q": "Presentation of cauda equina syndrome is:",
+   "opts": [
+    "LMNL",
+    "UMNL with LMNL features",
+    "Pure spastic paraplegia",
+    "Ataxia only"
+   ],
+   "ans": 0,
+   "exp": "Cauda equina: LMNL presentation. (Book p183)"
+  },
+  {
+   "id": "ORTHO-C23-053",
+   "sec": "Conus medullaris v/s cauda equina syndrome",
+   "page": 183,
+   "q": "Both conus medullaris and cauda equina syndromes show:",
+   "opts": [
+    "Saddle anaesthesia",
+    "Facial droop",
+    "Aphasia",
+    "Horner's syndrome"
+   ],
+   "ans": 0,
+   "exp": "Both show: B/L symptoms, bowel & bladder involvement, saddle anaesthesia. (Book p183)"
+  },
+  {
+   "id": "ORTHO-C23-054",
+   "sec": "Conus medullaris v/s cauda equina syndrome",
+   "page": 183,
+   "q": "Paralysis in conus medullaris syndrome is:",
+   "opts": [
+    "Symmetric, areflexic, flaccid",
+    "Asymmetric, areflexic, flaccid",
+    "Symmetric spastic",
+    "Asymmetric spastic"
+   ],
+   "ans": 0,
+   "exp": "Conus medullaris: symmetric, areflexic, flaccid paralysis. (Book p183)"
+  },
+  {
+   "id": "ORTHO-C23-055",
+   "sec": "Conus medullaris v/s cauda equina syndrome",
+   "page": 183,
+   "q": "Paralysis in cauda equina syndrome is:",
+   "opts": [
+    "Asymmetric, areflexic, flaccid",
+    "Symmetric, areflexic, flaccid",
+    "Spastic paraplegia",
+    "Monoplegia"
+   ],
+   "ans": 0,
+   "exp": "Cauda equina: asymmetric, areflexic, flaccid paralysis. (Book p183)"
+  },
+  {
+   "id": "ORTHO-C23-056",
+   "sec": "Conus medullaris v/s cauda equina syndrome",
+   "page": 183,
+   "q": "Etiology of conus medullaris syndrome is:",
+   "opts": [
+    "Injury at L1",
+    "Large disc prolapse below L1",
+    "Cervical cord tumour",
+    "Aneurysm"
+   ],
+   "ans": 0,
+   "exp": "Etiology: conus medullaris = injury at L1. (Book p183)"
+  },
+  {
+   "id": "ORTHO-C23-057",
+   "sec": "Conus medullaris v/s cauda equina syndrome",
+   "page": 183,
+   "q": "Etiology of cauda equina syndrome is:",
+   "opts": [
+    "Large disc prolapse below L1",
+    "Injury at T12",
+    "Meningitis",
+    "C6-C7 disc herniation"
+   ],
+   "ans": 0,
+   "exp": "Etiology: cauda equina = large disc prolapse below L1. (Book p183)"
+  },
+  {
+   "id": "ORTHO-C23-058",
+   "sec": "Conus medullaris v/s cauda equina syndrome",
+   "page": 183,
+   "q": "Knee reflex in conus medullaris syndrome is:",
+   "opts": [
+    "Normal",
+    "Lost",
+    "Exaggerated",
+    "Clonus present"
+   ],
+   "ans": 0,
+   "exp": "Knee reflex: conus medullaris = normal; cauda equina = lost. (Book p183)"
+  },
+  {
+   "id": "ORTHO-C23-059",
+   "sec": "Conus medullaris v/s cauda equina syndrome",
+   "page": 183,
+   "q": "Knee reflex in cauda equina syndrome is:",
+   "opts": [
+    "Lost",
+    "Normal",
+    "Exaggerated",
+    "Bilateral clonus"
+   ],
+   "ans": 0,
+   "exp": "Knee reflex: cauda equina = lost. (Book p183)"
+  },
+  {
+   "id": "ORTHO-C23-060",
+   "sec": "Conus medullaris v/s cauda equina syndrome",
+   "page": 183,
+   "q": "Ankle reflex in conus medullaris and cauda equina syndromes is:",
+   "opts": [
+    "Lost in both",
+    "Normal in both",
+    "Exaggerated in both",
+    "Absent only in conus medullaris"
+   ],
+   "ans": 0,
+   "exp": "Ankle reflex: lost in both conus medullaris and cauda equina syndromes. (Book p183)"
+  },
+  {
+   "id": "ORTHO-C23-061",
+   "sec": "Lumbar Canal Stenosis (LCS)",
+   "page": 183,
+   "q": "Sequence in pathophysiology of lumbar canal stenosis is:",
+   "opts": [
+    "Spondylosis (OA of facet joints) → excessive bone formation → stenosis → neurogenic claudication",
+    "Infection → abscess → stenosis → claudication",
+    "TB → cold abscess → stenosis",
+    "Tumour → cord compression → paraplegia"
+   ],
+   "ans": 0,
+   "exp": "LCS pathophysiology: spondylosis (OA of facet joints) → excessive bone formation → stenosis of lumbar canal → neurogenic claudication. (Book p183)"
+  },
+  {
+   "id": "ORTHO-C23-062",
+   "sec": "Lumbar Canal Stenosis (LCS)",
+   "page": 183,
+   "q": "Lumbar canal stenosis classically presents with:",
+   "opts": [
+    "Neurogenic claudication",
+    "Vascular claudication",
+    "Sciatica with normal pulses",
+    "Low back ache only"
+   ],
+   "ans": 0,
+   "exp": "LCS ends with neurogenic claudication. (Book p183)"
+  },
+  {
+   "id": "ORTHO-C23-063",
+   "sec": "Clinical features",
+   "page": 184,
+   "q": "Pain of lumbar canal stenosis decreases with:",
+   "opts": [
+    "Flexion (sitting, leaning over, walking upstairs/uphill)",
+    "Standing upright",
+    "Walking on flat ground",
+    "Lifting heavy objects"
+   ],
+   "ans": 0,
+   "exp": "LCS pain: decreases with flexion - sitting, leaning over, walking upstairs/uphill. (Book p184)"
+  },
+  {
+   "id": "ORTHO-C23-064",
+   "sec": "Clinical features",
+   "page": 184,
+   "q": "Pain of lumbar canal stenosis increases with:",
+   "opts": [
+    "Extension (walking, standing upright)",
+    "Sitting",
+    "Leaning over",
+    "Climbing upstairs"
+   ],
+   "ans": 0,
+   "exp": "LCS pain: increases with extension - walking, standing upright. (Book p184)"
+  },
+  {
+   "id": "ORTHO-C23-065",
+   "sec": "Neurogenic v/s vascular claudication",
+   "page": 184,
+   "q": "In neurogenic claudication, walking (upright):",
+   "opts": [
+    "Causes symptoms",
+    "Relieves symptoms",
+    "Does not change symptoms",
+    "Causes calf pain only"
+   ],
+   "ans": 0,
+   "exp": "Neurogenic: walking (upright) causes symptoms; vascular: relieves symptoms. (Book p184)"
+  },
+  {
+   "id": "ORTHO-C23-066",
+   "sec": "Neurogenic v/s vascular claudication",
+   "page": 184,
+   "q": "In vascular claudication, walking (upright):",
+   "opts": [
+    "Relieves symptoms",
+    "Causes symptoms",
+    "Is unaffected",
+    "Causes back pain"
+   ],
+   "ans": 0,
+   "exp": "Vascular claudication: walking (upright) relieves symptoms. (Book p184)"
+  },
+  {
+   "id": "ORTHO-C23-067",
+   "sec": "Neurogenic v/s vascular claudication",
+   "page": 184,
+   "q": "Claudication pain that starts in the back is seen in:",
+   "opts": [
+    "Neurogenic claudication",
+    "Vascular claudication",
+    "Diabetic neuropathy",
+    "Charcot joint"
+   ],
+   "ans": 0,
+   "exp": "Pain starts in back: neurogenic; starts in calf: vascular. (Book p184)"
+  },
+  {
+   "id": "ORTHO-C23-068",
+   "sec": "Neurogenic v/s vascular claudication",
+   "page": 184,
+   "q": "Claudication pain that starts in the calf is seen in:",
+   "opts": [
+    "Vascular claudication",
+    "Neurogenic claudication",
+    "PIVD",
+    "Spondylitis"
+   ],
+   "ans": 0,
+   "exp": "Pain starts in calf: vascular claudication. (Book p184)"
+  },
+  {
+   "id": "ORTHO-C23-069",
+   "sec": "Neurogenic v/s vascular claudication",
+   "page": 184,
+   "q": "Standing stationary in neurogenic and vascular claudication respectively:",
+   "opts": [
+    "Causes symptoms / relieves symptoms",
+    "Relieves / causes",
+    "Both cause",
+    "Both relieve"
+   ],
+   "ans": 0,
+   "exp": "Standing stationary: neurogenic causes symptoms, vascular relieves symptoms. (Book p184)"
+  },
+  {
+   "id": "ORTHO-C23-070",
+   "sec": "Neurogenic v/s vascular claudication",
+   "page": 184,
+   "q": "Climbing upstairs in neurogenic and vascular claudication respectively:",
+   "opts": [
+    "Relieves symptoms / causes symptoms",
+    "Causes / relieves",
+    "Both relieve",
+    "Both cause"
+   ],
+   "ans": 0,
+   "exp": "Climbing upstairs: neurogenic relieves symptoms, vascular causes symptoms. (Book p184)"
+  },
+  {
+   "id": "ORTHO-C23-071",
+   "sec": "Neurogenic v/s vascular claudication",
+   "page": 184,
+   "q": "Postural changes in neurogenic and vascular claudication respectively:",
+   "opts": [
+    "Yes / No",
+    "No / Yes",
+    "Both yes",
+    "Both no"
+   ],
+   "ans": 0,
+   "exp": "Postural changes: neurogenic = yes, vascular = no. (Book p184)"
+  },
+  {
+   "id": "ORTHO-C23-072",
+   "sec": "Neurogenic v/s vascular claudication",
+   "page": 184,
+   "q": "Pulses in neurogenic and vascular claudication respectively:",
+   "opts": [
+    "Normal / abnormal",
+    "Abnormal / normal",
+    "Both abnormal",
+    "Both normal"
+   ],
+   "ans": 0,
+   "exp": "Pulses: neurogenic = normal, vascular = abnormal. (Book p184)"
+  },
+  {
+   "id": "ORTHO-C23-073",
+   "sec": "LCS v/s PIVD",
+   "page": 184,
+   "q": "Age at presentation in lumbar canal stenosis is:",
+   "opts": [
+    "Elderly",
+    "Young",
+    "Child",
+    "Neonate"
+   ],
+   "ans": 0,
+   "exp": "LCS: elderly; PIVD: young. (Book p184)"
+  },
+  {
+   "id": "ORTHO-C23-074",
+   "sec": "LCS v/s PIVD",
+   "page": 184,
+   "q": "Onset of disease in lumbar canal stenosis is:",
+   "opts": [
+    "Slow & progressive",
+    "Acute",
+    "Fulminant",
+    "Sudden"
+   ],
+   "ans": 0,
+   "exp": "LCS: slow & progressive onset; PIVD: acute. (Book p184)"
+  },
+  {
+   "id": "ORTHO-C23-075",
+   "sec": "LCS v/s PIVD",
+   "page": 184,
+   "q": "Pain on flexion in PIVD:",
+   "opts": [
+    "Increases",
+    "Decreases",
+    "Remains unchanged",
+    "Disappears completely"
+   ],
+   "ans": 0,
+   "exp": "Pain on flexion: LCS decreases, PIVD increases. (Book p184)"
+  },
+  {
+   "id": "ORTHO-C23-076",
+   "sec": "Spondylolisthesis",
+   "page": 184,
+   "q": "Spondylolisthesis is defined as:",
+   "opts": [
+    "Slipping of 1 vertebra over another",
+    "Fracture of the spinous process",
+    "Osteoporosis of vertebral body",
+    "Ossification of ligament"
+   ],
+   "ans": 0,
+   "exp": "Spondylolisthesis: slipping of 1 vertebra over another. (Book p184)"
+  },
+  {
+   "id": "ORTHO-C23-077",
+   "sec": "Spondylolisthesis",
+   "page": 184,
+   "q": "Cause of spondylolisthesis is:",
+   "opts": [
+    "Trauma/fracture of the pars interarticularis",
+    "Infection of the disc",
+    "Tumour of vertebral body",
+    "Degeneration only"
+   ],
+   "ans": 0,
+   "exp": "Cause: trauma/fracture of the pars interarticularis. (Book p184)"
+  },
+  {
+   "id": "ORTHO-C23-078",
+   "sec": "Radiological features",
+   "page": 184,
+   "q": "Radiological sign of spondylolisthesis is:",
+   "opts": [
+    "Beheaded scottish terrier sign",
+    "Scottish terrier with collar sign",
+    "Inverted Napoleon hat sign",
+    "Bamboo spine"
+   ],
+   "ans": 0,
+   "exp": "Spondylolisthesis: beheaded scottish terrier sign. (Book p184)"
+  },
+  {
+   "id": "ORTHO-C23-079",
+   "sec": "Radiological features",
+   "page": 184,
+   "q": "m/c site of spondylolisthesis is:",
+   "opts": [
+    "L5-S1",
+    "L4-L5",
+    "L3-L4",
+    "Cervical spine"
+   ],
+   "ans": 0,
+   "exp": "Spondylolisthesis m/c site: L5-S1. (Book p184)"
+  },
+  {
+   "id": "ORTHO-C23-080",
+   "sec": "Radiological features",
+   "page": 184,
+   "q": "Radiological sign of spondylolysis is:",
+   "opts": [
+    "Scottish terrier with collar sign",
+    "Beheaded scottish terrier sign",
+    "Inverted Napoleon hat sign",
+    "Dagger sign"
+   ],
+   "ans": 0,
+   "exp": "Spondylolysis: scottish terrier with collar sign. (Book p184)"
+  },
+  {
+   "id": "ORTHO-C23-081",
+   "sec": "Radiological features",
+   "page": 184,
+   "q": "m/c site of spondylolysis is:",
+   "opts": [
+    "L5",
+    "L4",
+    "L3",
+    "S1"
+   ],
+   "ans": 0,
+   "exp": "Spondylolysis m/c site: L5. (Book p184)"
+  },
+  {
+   "id": "ORTHO-C23-082",
+   "sec": "Meyerding classification",
+   "page": 185,
+   "q": "Meyerding classification is based on:",
+   "opts": [
+    "Percentage of slip",
+    "Age of the patient",
+    "Site of the slip",
+    "Severity of pain"
+   ],
+   "ans": 0,
+   "exp": "Meyerding classification: based on percentage of slip. (Book p185)"
+  },
+  {
+   "id": "ORTHO-C23-083",
+   "sec": "Meyerding classification",
+   "page": 185,
+   "q": "Meyerding grade I spondylolisthesis is:",
+   "opts": [
+    "0-25% displacement",
+    "26-50% displacement",
+    "51-75% displacement",
+    "76-100% displacement"
+   ],
+   "ans": 0,
+   "exp": "Grade I: 0-25% displacement. (Book p185)"
+  },
+  {
+   "id": "ORTHO-C23-084",
+   "sec": "Meyerding classification",
+   "page": 185,
+   "q": "Meyerding grade II spondylolisthesis is:",
+   "opts": [
+    "26-50% displacement",
+    "0-25% displacement",
+    "51-75% displacement",
+    ">100% displacement"
+   ],
+   "ans": 0,
+   "exp": "Grade II: 26-50% displacement. (Book p185)"
+  },
+  {
+   "id": "ORTHO-C23-085",
+   "sec": "Meyerding classification",
+   "page": 185,
+   "q": "Meyerding grade III spondylolisthesis is:",
+   "opts": [
+    "51-75% displacement",
+    "26-50% displacement",
+    "0-25% displacement",
+    "76-100% displacement"
+   ],
+   "ans": 0,
+   "exp": "Grade III: 51-75% displacement. (Book p185)"
+  },
+  {
+   "id": "ORTHO-C23-086",
+   "sec": "Meyerding classification",
+   "page": 185,
+   "q": "Meyerding grade IV spondylolisthesis is:",
+   "opts": [
+    "76-100% displacement",
+    "51-75% displacement",
+    "26-50% displacement",
+    ">100% displacement"
+   ],
+   "ans": 0,
+   "exp": "Grade IV: 76-100% displacement. (Book p185)"
+  },
+  {
+   "id": "ORTHO-C23-087",
+   "sec": "Meyerding classification",
+   "page": 185,
+   "q": "Meyerding grade V spondylolisthesis (>100% displacement) is called:",
+   "opts": [
+    "Spondyloptosis",
+    "Spondylolysis",
+    "Spondylitis",
+    "Bamboo spine"
+   ],
+   "ans": 0,
+   "exp": "Grade V: >100% displacement (spondyloptosis). (Book p185)"
+  },
+  {
+   "id": "ORTHO-C23-088",
+   "sec": "Clinical features",
+   "page": 185,
+   "q": "Back pain in spondylolisthesis:",
+   "opts": [
+    "Radiates to the lower limbs",
+    "Is confined to low back",
+    "Radiates to the arms",
+    "Occurs only at night"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: back pain radiating to the lower limbs. (Book p185)"
+  },
+  {
+   "id": "ORTHO-C23-089",
+   "sec": "Clinical features",
+   "page": 185,
+   "q": "Step sign in spondylolisthesis is:",
+   "opts": [
+    "Step off over the spinous process on palpation of spine",
+    "Step off over the sternum",
+    "Pain on climbing stairs",
+    "Tenderness over SI joint"
+   ],
+   "ans": 0,
+   "exp": "Step sign: on palpation of spine - step off over the spinous process. (Book p185)"
+  },
+  {
+   "id": "ORTHO-C23-090",
+   "sec": "Note",
+   "page": 185,
+   "q": "Spondylosis refers to:",
+   "opts": [
+    "Degeneration of the spine (elderly)",
+    "Inflammation of the spine",
+    "Infection of the spine",
+    "Tumour of the spine"
+   ],
+   "ans": 0,
+   "exp": "Spondylosis: degeneration of the spine (elderly). (Book p185)"
+  },
+  {
+   "id": "ORTHO-C23-091",
+   "sec": "Note",
+   "page": 185,
+   "q": "Spondylitis refers to:",
+   "opts": [
+    "Inflammation seen in ankylosing spondylitis",
+    "Degeneration of the spine",
+    "Fracture of pars interarticularis",
+    "Slipping of vertebra"
+   ],
+   "ans": 0,
+   "exp": "Spondylitis: inflammation seen in ankylosing spondylitis. (Book p185)"
+  },
+  {
+   "id": "ORTHO-C23-092",
+   "sec": "Note",
+   "page": 185,
+   "q": "Inverted Napoleon hat sign is seen in:",
+   "opts": [
+    "Spondyloptosis",
+    "Spondylolysis",
+    "Scoliosis",
+    "Bamboo spine"
+   ],
+   "ans": 0,
+   "exp": "Inverted Napoleon hat sign (in spondyloptosis). (Book p185)"
+  },
+  {
+   "id": "ORTHO-C23-093",
+   "sec": "Ankylosing spondylitis",
+   "page": 186,
+   "q": "Ankylosing spondylitis is a:",
+   "opts": [
+    "Autoimmune disease",
+    "Autoinflammatory disease",
+    "Infective disease",
+    "Metabolic disease"
+   ],
+   "ans": 0,
+   "exp": "Ankylosing spondylitis: autoimmune. (Book p186)"
+  },
+  {
+   "id": "ORTHO-C23-094",
+   "sec": "Ankylosing spondylitis",
+   "page": 186,
+   "q": "Ankylosing spondylitis typically affects:",
+   "opts": [
+    "Males > females, young patient",
+    "Females > males, elderly",
+    "Only males above 60",
+    "Only females below 20"
+   ],
+   "ans": 0,
+   "exp": "AS: males > females, young patient. (Book p186)"
+  },
+  {
+   "id": "ORTHO-C23-095",
+   "sec": "Ankylosing spondylitis",
+   "page": 186,
+   "q": "Markers in ankylosing spondylitis are:",
+   "opts": [
+    "HLA-B27 (+); Rheumatoid factor (-)",
+    "HLA-B27 (-); RF (+)",
+    "Both positive",
+    "Both negative"
+   ],
+   "ans": 0,
+   "exp": "AS: HLA-B27 (+); rheumatoid factor (-). (Book p186)"
+  },
+  {
+   "id": "ORTHO-C23-096",
+   "sec": "Ankylosing spondylitis",
+   "page": 186,
+   "q": "Pathology of ankylosing spondylitis is:",
+   "opts": [
+    "Enthesopathy",
+    "Myositis",
+    "Neuritis",
+    "Bursitis"
+   ],
+   "ans": 0,
+   "exp": "AS pathology: enthesopathy. (Book p186)"
+  },
+  {
+   "id": "ORTHO-C23-097",
+   "sec": "Ankylosing spondylitis",
+   "page": 186,
+   "q": "Characteristic feature of ankylosing spondylitis is:",
+   "opts": [
+    "Sacroiliac joint involvement (sacroiliitis)",
+    "Knee joint involvement",
+    "MCP joint involvement",
+    "Toe joint involvement"
+   ],
+   "ans": 0,
+   "exp": "AS characteristic feature: sacroiliac joint involvement (sacroiliitis). (Book p186)"
+  },
+  {
+   "id": "ORTHO-C23-098",
+   "sec": "Ankylosing spondylitis",
+   "page": 186,
+   "q": "Morning stiffness of ankylosing spondylitis:",
+   "opts": [
+    "Improves with activity",
+    "Worsens with activity",
+    "Is unaffected by activity",
+    "Occurs only at night"
+   ],
+   "ans": 0,
+   "exp": "AS: morning stiffness (inflammatory exudates collect at night) → improves with activity. (Book p186)"
+  },
+  {
+   "id": "ORTHO-C23-099",
+   "sec": "Ankylosing spondylitis",
+   "page": 186,
+   "q": "Ankylosing spondylitis is associated with:",
+   "opts": [
+    "Anterior uveitis",
+    "Posterior uveitis",
+    "Retinal detachment",
+    "Cataract"
+   ],
+   "ans": 0,
+   "exp": "AS: associated anterior uveitis. (Book p186)"
+  },
+  {
+   "id": "ORTHO-C23-100",
+   "sec": "Ankylosing spondylitis",
+   "page": 186,
+   "q": "Bamboo spine in ankylosing spondylitis is due to:",
+   "opts": [
+    "Enthesitis → vertical syndesmophyte fusion",
+    "Ossification of anterior longitudinal ligament",
+    "Disc calcification",
+    "Metastatic deposits"
+   ],
+   "ans": 0,
+   "exp": "Bamboo spine: enthesitis → vertical syndesmophyte fusion. (Book p186)"
+  },
+  {
+   "id": "ORTHO-C23-101",
+   "sec": "Ankylosing spondylitis",
+   "page": 186,
+   "q": "Trolley track sign in ankylosing spondylitis is due to:",
+   "opts": [
+    "Calcification of ligaments",
+    "Enthesitis",
+    "Disc degeneration",
+    "Infection"
+   ],
+   "ans": 0,
+   "exp": "Trolley track sign and dagger sign: d/t calcification of ligaments. (Book p186)"
+  },
+  {
+   "id": "ORTHO-C23-102",
+   "sec": "Ankylosing spondylitis",
+   "page": 186,
+   "q": "Dagger sign in ankylosing spondylitis is due to:",
+   "opts": [
+    "Calcification of ligaments",
+    "Tumour of vertebral body",
+    "Disc herniation",
+    "Fracture"
+   ],
+   "ans": 0,
+   "exp": "Dagger sign: d/t calcification of ligaments. (Book p186)"
+  },
+  {
+   "id": "ORTHO-C23-103",
+   "sec": "Diffuse idiopathic skeletal hyperostosis (DISH)",
+   "page": 186,
+   "q": "DISH is also known as:",
+   "opts": [
+    "Forestier disease",
+    "Meyerding disease",
+    "Scheuermann disease",
+    "Madelung deformity"
+   ],
+   "ans": 0,
+   "exp": "DISH (diffuse idiopathic skeletal hyperostosis): a.k.a. Forestier disease. (Book p186)"
+  },
+  {
+   "id": "ORTHO-C23-104",
+   "sec": "Diffuse idiopathic skeletal hyperostosis (DISH)",
+   "page": 186,
+   "q": "Pathology of DISH is:",
+   "opts": [
+    "Ossification of anterior longitudinal ligament",
+    "Ossification of posterior longitudinal ligament",
+    "Ossification of ligamentum flavum",
+    "Disc calcification"
+   ],
+   "ans": 0,
+   "exp": "DISH: ossification of anterior longitudinal ligament. (Book p186)"
+  },
+  {
+   "id": "ORTHO-C23-105",
+   "sec": "Diffuse idiopathic skeletal hyperostosis (DISH)",
+   "page": 186,
+   "q": "Age at presentation in DISH is:",
+   "opts": [
+    "Elderly",
+    "Young",
+    "Child",
+    "Neonate"
+   ],
+   "ans": 0,
+   "exp": "DISH: age at presentation elderly. (Book p186)"
+  },
+  {
+   "id": "ORTHO-C23-106",
+   "sec": "Ossification of posterior longitudinal ligament (OPLL)",
+   "page": 186,
+   "q": "m/c site of OPLL is:",
+   "opts": [
+    "Cervical spine",
+    "Lumbar spine",
+    "Thoracic spine",
+    "Sacrum"
+   ],
+   "ans": 0,
+   "exp": "OPLL: m/c site cervical spine. (Book p186)"
+  },
+  {
+   "id": "ORTHO-C23-107",
+   "sec": "Ossification of posterior longitudinal ligament (OPLL)",
+   "page": 186,
+   "q": "Age at presentation in OPLL is:",
+   "opts": [
+    "Elderly",
+    "Young",
+    "Child",
+    "Adolescent"
+   ],
+   "ans": 0,
+   "exp": "OPLL: age at presentation elderly. (Book p186)"
+  },
+  {
+   "id": "ORTHO-C23-108",
+   "sec": "Scoliosis",
+   "page": 186,
+   "q": "Scoliosis is defined as:",
+   "opts": [
+    "Lateral deviation of spine by >10° from central axis",
+    "Flexion deformity of spine",
+    "Kyphosis of thoracic spine",
+    "Sagittal deviation of spine by >10°"
+   ],
+   "ans": 0,
+   "exp": "Scoliosis: lateral deviation of spine by >10° from central axis. (Book p186)"
+  },
+  {
+   "id": "ORTHO-C23-109",
+   "sec": "SPINAL CURVATURES",
+   "page": 186,
+   "q": "Primary curvature of spine is:",
+   "opts": [
+    "The largest curve",
+    "The smallest curve",
+    "The secondary curve",
+    "Always lumbar"
+   ],
+   "ans": 0,
+   "exp": "Primary curvature: the largest curve. (Book p186)"
+  },
+  {
+   "id": "ORTHO-C23-110",
+   "sec": "SPINAL CURVATURES",
+   "page": 186,
+   "q": "Secondary curvature of spine is:",
+   "opts": [
+    "Other smaller curves above & below primary curve",
+    "The largest curve",
+    "Same as primary curve",
+    "Only lumbar curve"
+   ],
+   "ans": 0,
+   "exp": "Secondary curvature: other smaller curves above & below primary curve. (Book p186)"
+  },
+  {
+   "id": "ORTHO-C23-111",
+   "sec": "Types of deviation of spinal column",
+   "page": 187,
+   "q": "Types of deviation of spinal column include all EXCEPT:",
+   "opts": [
+    "Lateral, sagittal (forward bending) & rotational",
+    "Sagittal only",
+    "Rotational only",
+    "Lateral only"
+   ],
+   "ans": 0,
+   "exp": "Types of deviation of spinal column: lateral, sagittal (forward bending), rotational. (Book p187)"
+  },
+  {
+   "id": "ORTHO-C23-112",
+   "sec": "Scoliosis",
+   "page": 187,
+   "q": "Structural scoliosis is:",
+   "opts": [
+    "Fixed",
+    "Non-fixed",
+    "Postural",
+    "Compensatory"
+   ],
+   "ans": 0,
+   "exp": "Scoliosis: structural (fixed) or non-structural (postural/compensatory). (Book p187)"
+  },
+  {
+   "id": "ORTHO-C23-113",
+   "sec": "Scoliosis",
+   "page": 187,
+   "q": "Non-structural scoliosis is:",
+   "opts": [
+    "Postural/compensatory, no rotational component",
+    "Fixed with rotational component",
+    "Always idiopathic",
+    "Always congenital"
+   ],
+   "ans": 0,
+   "exp": "Non-structural (postural/compensatory): no rotational component. (Book p187)"
+  },
+  {
+   "id": "ORTHO-C23-114",
+   "sec": "Adam's forward bending test",
+   "page": 187,
+   "q": "Adam's forward bending test is a:",
+   "opts": [
+    "Screening test to differentiate structural v/s non-structural",
+    "Treatment for scoliosis",
+    "Surgical procedure",
+    "Blood test"
+   ],
+   "ans": 0,
+   "exp": "Adam's forward bending test: screening test to differentiate structural v/s non-structural scoliosis. (Book p187)"
+  },
+  {
+   "id": "ORTHO-C23-115",
+   "sec": "Adam's forward bending test",
+   "page": 187,
+   "q": "In Adam's forward bending test, structural scoliosis:",
+   "opts": [
+    "Persists on bending forward",
+    "Disappears on bending forward",
+    "Remains unchanged",
+    "Becomes painful"
+   ],
+   "ans": 0,
+   "exp": "Structural scoliosis: persists on bending forward. (Book p187)"
+  },
+  {
+   "id": "ORTHO-C23-116",
+   "sec": "Adam's forward bending test",
+   "page": 187,
+   "q": "In Adam's forward bending test, non-structural scoliosis:",
+   "opts": [
+    "Disappears on bending forward",
+    "Persists on bending forward",
+    "Worsens",
+    "Becomes painful"
+   ],
+   "ans": 0,
+   "exp": "Non-structural scoliosis: disappears on bending forward. (Book p187)"
+  },
+  {
+   "id": "ORTHO-C23-117",
+   "sec": "Classification of structural scoliosis",
+   "page": 187,
+   "q": "m/c type of structural scoliosis is:",
+   "opts": [
+    "Idiopathic",
+    "Congenital",
+    "Neuromuscular",
+    "Post-traumatic"
+   ],
+   "ans": 0,
+   "exp": "Structural scoliosis: idiopathic (m/c), congenital, neuromuscular. (Book p187)"
+  },
+  {
+   "id": "ORTHO-C23-118",
+   "sec": "Classification of structural scoliosis",
+   "page": 187,
+   "q": "Idiopathic scoliosis shows:",
+   "opts": [
+    "No visible anomaly",
+    "Visible anomaly → deformity",
+    "Infection",
+    "Tumour"
+   ],
+   "ans": 0,
+   "exp": "Idiopathic: no visible anomaly. (Book p187)"
+  },
+  {
+   "id": "ORTHO-C23-119",
+   "sec": "Classification of structural scoliosis",
+   "page": 187,
+   "q": "Subtypes of idiopathic scoliosis are:",
+   "opts": [
+    "Infantile, juvenile, adolescent (m/c)",
+    "Congenital, traumatic, neoplastic",
+    "Acute, subacute, chronic",
+    "Mild, moderate, severe"
+   ],
+   "ans": 0,
+   "exp": "Idiopathic: 1. infantile, 2. juvenile, 3. adolescent (m/c). (Book p187)"
+  },
+  {
+   "id": "ORTHO-C23-120",
+   "sec": "Classification of structural scoliosis",
+   "page": 187,
+   "q": "Congenital scoliosis is due to:",
+   "opts": [
+    "Visible anomaly → deformity",
+    "Infection",
+    "No visible anomaly",
+    "Trauma only"
+   ],
+   "ans": 0,
+   "exp": "Congenital: visible anomaly → deformity. (Book p187)"
+  },
+  {
+   "id": "ORTHO-C23-121",
+   "sec": "Classification of structural scoliosis",
+   "page": 187,
+   "q": "A vertebral anomaly in congenital scoliosis is:",
+   "opts": [
+    "Hemivertebrae",
+    "Trolley track sign",
+    "Bamboo spine",
+    "Beheaded scottish terrier sign"
+   ],
+   "ans": 0,
+   "exp": "Congenital vertebral anomalies: wedge vertebrae, hemivertebrae, u/L unsegmented bar vertebrae, block vertebrae. (Book p187)"
+  },
+  {
+   "id": "ORTHO-C23-122",
+   "sec": "Classification of structural scoliosis",
+   "page": 187,
+   "q": "Third category of structural scoliosis is:",
+   "opts": [
+    "Neuromuscular",
+    "Idiopathic",
+    "Congenital",
+    "Traumatic"
+   ],
+   "ans": 0,
+   "exp": "Structural scoliosis: idiopathic (m/c), congenital, neuromuscular. (Book p187)"
+  },
+  {
+   "id": "ORTHO-C23-123",
+   "sec": "Clinical features",
+   "page": 188,
+   "q": "Clinical features of scoliosis include:",
+   "opts": [
+    "Asymmetry of shoulder",
+    "Facial droop",
+    "Aphasia",
+    "Strabismus"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: asymmetry of shoulder, laterally deviated spine. (Book p188)"
+  },
+  {
+   "id": "ORTHO-C23-124",
+   "sec": "Clinical features",
+   "page": 188,
+   "q": "Rib hump in scoliosis is due to:",
+   "opts": [
+    "Rotational abnormality",
+    "Flexion abnormality",
+    "Extension abnormality",
+    "Ligament calcification"
+   ],
+   "ans": 0,
+   "exp": "Rib hump d/t rotational abnormality. (Book p188)"
+  },
+  {
+   "id": "ORTHO-C23-125",
+   "sec": "Clinical features",
+   "page": 188,
+   "q": "Deformity in scoliosis leads to:",
+   "opts": [
+    "Overcrowding of ribs → compresses thoracic and abdominal structures",
+    "Femoral neck fracture",
+    "Knee ligament tear",
+    "Shoulder dislocation"
+   ],
+   "ans": 0,
+   "exp": "Deformity → overcrowding of ribs → compresses thoracic and abdominal structures. (Book p188)"
+  },
+  {
+   "id": "ORTHO-C23-126",
+   "sec": "Evaluation",
+   "page": 188,
+   "q": "Cobb's angle is defined as:",
+   "opts": [
+    "Angle between abnormal vertebrae on both ends of primary curvature",
+    "Angle at the cervical spine",
+    "Angle of the knee",
+    "Angle of the hip"
+   ],
+   "ans": 0,
+   "exp": "Cobb's angle: angle between abnormal vertebrae on both ends of primary curvature. (Book p188)"
+  },
+  {
+   "id": "ORTHO-C23-127",
+   "sec": "Prognosis",
+   "page": 188,
+   "q": "Risser sign is used to:",
+   "opts": [
+    "Assess progression potential (∝ growth potential)",
+    "Measure pain",
+    "Assess blood supply",
+    "Assess nutrition"
+   ],
+   "ans": 0,
+   "exp": "Risser sign: to assess progression potential (∝ growth potential: high in children, low in adults). (Book p188)"
+  },
+  {
+   "id": "ORTHO-C23-128",
+   "sec": "Prognosis",
+   "page": 188,
+   "q": "Skeletal maturity in scoliosis is determined by:",
+   "opts": [
+    "Extent of fusion of iliac apophysysis with iliac crest",
+    "Knee reflex",
+    "Ankle reflex",
+    "Blood counts"
+   ],
+   "ans": 0,
+   "exp": "Risser sign: determine skeletal maturity based on extent of fusion of iliac apophysysis with iliac crest. (Book p188)"
+  },
+  {
+   "id": "ORTHO-C23-129",
+   "sec": "Prognosis",
+   "page": 188,
+   "q": "Risser grade 1 is:",
+   "opts": [
+    "Ossification of lateral 25%",
+    "Ossification of lateral 50%",
+    "Ossification of lateral 75%",
+    "Ossification of lateral 100%"
+   ],
+   "ans": 0,
+   "exp": "Risser grade 1: ossification of lateral 25%. (Book p188)"
+  },
+  {
+   "id": "ORTHO-C23-130",
+   "sec": "Prognosis",
+   "page": 188,
+   "q": "Risser grade 2 is:",
+   "opts": [
+    "Ossification of lateral 50%",
+    "Ossification of lateral 25%",
+    "Ossification of lateral 75%",
+    "Ossification of lateral 100%"
+   ],
+   "ans": 0,
+   "exp": "Risser grade 2: ossification of lateral 50%. (Book p188)"
+  },
+  {
+   "id": "ORTHO-C23-131",
+   "sec": "Prognosis",
+   "page": 188,
+   "q": "Risser grade 3 is:",
+   "opts": [
+    "Ossification of lateral 75%",
+    "Ossification of lateral 25%",
+    "Ossification of lateral 50%",
+    "Ossification of lateral 100%"
+   ],
+   "ans": 0,
+   "exp": "Risser grade 3: ossification of lateral 75%. (Book p188)"
+  },
+  {
+   "id": "ORTHO-C23-132",
+   "sec": "Prognosis",
+   "page": 188,
+   "q": "Risser grade 4 is:",
+   "opts": [
+    "Ossification of lateral 100%",
+    "Ossification of lateral 25%",
+    "Ossification of lateral 50%",
+    "Fusion with the ilium"
+   ],
+   "ans": 0,
+   "exp": "Risser grade 4: ossification of lateral 100%. (Book p188)"
+  },
+  {
+   "id": "ORTHO-C23-133",
+   "sec": "Prognosis",
+   "page": 188,
+   "q": "Risser grade 5 is:",
+   "opts": [
+    "Fusion with the ilium",
+    "Ossification of lateral 100%",
+    "Ossification of lateral 75%",
+    "Ossification of lateral 50%"
+   ],
+   "ans": 0,
+   "exp": "Risser grade 5: fusion with the ilium. (Book p188)"
+  },
+  {
+   "id": "ORTHO-C23-134",
+   "sec": "Treatment",
+   "page": 189,
+   "q": "Treatment of scoliosis depends on:",
+   "opts": [
+    "Severity & prognosis",
+    "Age only",
+    "Sex only",
+    "School term only"
+   ],
+   "ans": 0,
+   "exp": "Treatment: depending on severity & prognosis. (Book p189)"
+  },
+  {
+   "id": "ORTHO-C23-135",
+   "sec": "Treatment",
+   "page": 189,
+   "q": "Conservative (braces) treatment of scoliosis is indicated when:",
+   "opts": [
+    "Low Cobb's angle (low severity) + high Risser (good prognosis)",
+    "High Cobb's angle + low Risser",
+    "Surgery has already been done",
+    "No deformity is present"
+   ],
+   "ans": 0,
+   "exp": "Low Cobb's angle (low severity) + high Risser (good prognosis) → conservative (braces). (Book p189)"
+  },
+  {
+   "id": "ORTHO-C23-136",
+   "sec": "Treatment",
+   "page": 189,
+   "q": "Surgical correction of scoliosis is indicated when:",
+   "opts": [
+    "High Cobb's angle (high severity) + low Risser (bad prognosis)",
+    "Low Cobb's angle + high Risser",
+    "Mild deformity",
+    "Good prognosis"
+   ],
+   "ans": 0,
+   "exp": "High Cobb's angle (high severity) + low Risser (bad prognosis) → surgical correction. (Book p189)"
+  },
+  {
+   "id": "ORTHO-C23-137",
+   "sec": "Treatment",
+   "page": 189,
+   "q": "Milwaukee brace is a:",
+   "opts": [
+    "Cervical-thoraco-lumbo-sacral orthosis",
+    "Thoraco-lumbo-sacral orthosis",
+    "Lumbo-sacral orthosis",
+    "Cervical orthosis only"
+   ],
+   "ans": 0,
+   "exp": "Milwaukee brace: cervical-thoraco-lumbo-sacral orthosis. (Book p189)"
+  },
+  {
+   "id": "ORTHO-C23-138",
+   "sec": "Treatment",
+   "page": 189,
+   "q": "Boston brace is a:",
+   "opts": [
+    "Thoraco-lumbo-sacral orthosis",
+    "Cervical-thoraco-lumbo-sacral orthosis",
+    "Cervical orthosis",
+    "Knee brace"
+   ],
+   "ans": 0,
+   "exp": "Boston brace: thoraco-lumbo-sacral orthosis. (Book p189)"
+  },
+  {
+   "id": "ORTHO-C23-139",
+   "sec": "Treatment",
+   "page": 189,
+   "q": "Surgical correction of scoliosis is done with:",
+   "opts": [
+    "Pedicle screw fixation with Harrington rods",
+    "Discectomy",
+    "Laminectomy alone",
+    "Traction"
+   ],
+   "ans": 0,
+   "exp": "Surgical correction: pedicle screw fixation with Harrington rods. (Book p189)"
+  },
+  {
+   "id": "ORTHO-C23-140",
+   "sec": "Treatment",
+   "page": 189,
+   "q": "Screw through pedicle in scoliosis surgery involves:",
+   "opts": [
+    "All 3 spinal columns",
+    "Anterior column only",
+    "Middle column only",
+    "Posterior column only"
+   ],
+   "ans": 0,
+   "exp": "Screw through pedicle involves all 3 spinal columns. (Book p189)"
+  },
+  {
+   "id": "ORTHO-C23-141",
+   "sec": "Note",
+   "page": 189,
+   "q": "Incidence of scoliosis is:",
+   "opts": [
+    "Females > males",
+    "Males > females",
+    "Equal in both",
+    "Males only"
+   ],
+   "ans": 0,
+   "exp": "Incidence: females > males. (Book p189)"
+  },
+  {
+   "id": "ORTHO-C23-142",
+   "sec": "Note",
+   "page": 189,
+   "q": "Prognosis of scoliosis is better in:",
+   "opts": [
+    "Males",
+    "Females",
+    "Elderly",
+    "Neonates"
+   ],
+   "ans": 0,
+   "exp": "Prognosis: males > females. (Book p189)"
+  }
+ ],
+ "units": [
+  {
+   "id": "ORTHO-U23-1",
+   "ch": 23,
+   "n": 1,
+   "title": "PIVD: Disc Anatomy",
+   "sec": "Prolapsed Intervertebral Disc (PIVD) · p181",
+   "qs": [
+    "ORTHO-C23-001",
+    "ORTHO-C23-002",
+    "ORTHO-C23-003",
+    "ORTHO-C23-004"
+   ],
+   "guide": "PIVD is a protrusion of the disc compressing the cord or nerves, most often at L4-L5, then L5-S1. Remember the jelly nucleus (type II collagen) wrapped in the tough fibrous annulus (type I collagen)."
+  },
+  {
+   "id": "ORTHO-U23-2",
+   "ch": 23,
+   "n": 2,
+   "title": "PIVD: Mechanism & Degeneration Steps",
+   "sec": "Mechanism of injury · p181",
+   "qs": [
+    "ORTHO-C23-005",
+    "ORTHO-C23-006",
+    "ORTHO-C23-007",
+    "ORTHO-C23-008",
+    "ORTHO-C23-009",
+    "ORTHO-C23-010"
+   ],
+   "guide": "Abnormal loading and degeneration of the spine set the stage for a four-step cascade: degeneration → prolapse (bulging nucleus pulposus) → extrusion (AF breaks, NP comes out) → sequestration (extruded NP breaks away)."
+  },
+  {
+   "id": "ORTHO-U23-3",
+   "ch": 23,
+   "n": 3,
+   "title": "Canal Stenosis: Causes & Contrast",
+   "sec": "Canal stenosis · p181",
+   "qs": [
+    "ORTHO-C23-011",
+    "ORTHO-C23-012",
+    "ORTHO-C23-013",
+    "ORTHO-C23-014",
+    "ORTHO-C23-015"
+   ],
+   "guide": "Canal stenosis comes from PIVD or from excessive abnormal bone growth of vertebral degeneration in OA, most often in the lumbar region. Contrast it with PIVD: stenosis is elderly and chronic, PIVD is young and acute."
+  },
+  {
+   "id": "ORTHO-U23-4",
+   "ch": 23,
+   "n": 4,
+   "title": "PIVD: Types & Nerve Injured",
+   "sec": "Types of PIVD · p181",
+   "qs": [
+    "ORTHO-C23-016",
+    "ORTHO-C23-017",
+    "ORTHO-C23-018"
+   ],
+   "guide": "Far lateral prolapse hits the exiting nerve root, while the common paracentral type impinges the traversing root. The most commonly injured nerve is L5, giving a lower motor neuron lesion picture."
+  },
+  {
+   "id": "ORTHO-U23-5",
+   "ch": 23,
+   "n": 5,
+   "title": "PIVD: Clinical Features",
+   "sec": "Clinical features · p182",
+   "qs": [
+    "ORTHO-C23-019",
+    "ORTHO-C23-020",
+    "ORTHO-C23-021",
+    "ORTHO-C23-022"
+   ],
+   "guide": "Think heavy lifting history, low back ache and sciatica — back pain radiating to the lower limb that worsens with flexion, sneezing, coughing and prolonged sitting. PIVD is the most common cause of sciatica."
+  },
+  {
+   "id": "ORTHO-U23-6",
+   "ch": 23,
+   "n": 6,
+   "title": "PIVD: Evaluation",
+   "sec": "Evaluation · p182",
+   "qs": [
+    "ORTHO-C23-023",
+    "ORTHO-C23-024",
+    "ORTHO-C23-025",
+    "ORTHO-C23-026"
+   ],
+   "guide": "SLRT is positive when the hip cannot flex beyond 30-35° because raising the leg stretches the compressed nerve and produces pain. MRI is the IOC, and the neurological exam localizes the lesion by the nerve roots involved."
+  },
+  {
+   "id": "ORTHO-U23-7",
+   "ch": 23,
+   "n": 7,
+   "title": "Myotomes & Reflexes",
+   "sec": "Neurological examination · p182",
+   "qs": [
+    "ORTHO-C23-027",
+    "ORTHO-C23-028",
+    "ORTHO-C23-029",
+    "ORTHO-C23-030",
+    "ORTHO-C23-031",
+    "ORTHO-C23-032",
+    "ORTHO-C23-033",
+    "ORTHO-C23-034",
+    "ORTHO-C23-035",
+    "ORTHO-C23-036",
+    "ORTHO-C23-037",
+    "ORTHO-C23-038",
+    "ORTHO-C23-039",
+    "ORTHO-C23-040",
+    "ORTHO-C23-041"
+   ],
+   "guide": "Climb the myotome ladder: C5 elbow flexion, C6 wrist extension, C7 elbow extension & wrist flexion, C8 finger flexion, T1 finger abduction, then L2 hip flexion, L3 knee extension, L4 ankle dorsiflexion, L5 toe extension, S1 ankle plantar flexion. Reflexes: C5 biceps, C6 supinator, C7 triceps, L3-4 knee, S1 ankle."
+  },
+  {
+   "id": "ORTHO-U23-8",
+   "ch": 23,
+   "n": 8,
+   "title": "PIVD: Conservative Treatment",
+   "sec": "Treatment · p182",
+   "qs": [
+    "ORTHO-C23-042",
+    "ORTHO-C23-043"
+   ],
+   "guide": "Conservative care is simple: rest in semi-fowler position (supine with 30-40° flexion of spine) plus physiotherapy."
+  },
+  {
+   "id": "ORTHO-U23-9",
+   "ch": 23,
+   "n": 9,
+   "title": "PIVD: Surgical Treatment",
+   "sec": "Surgical disc compression · p183",
+   "qs": [
+    "ORTHO-C23-044",
+    "ORTHO-C23-045",
+    "ORTHO-C23-046",
+    "ORTHO-C23-047",
+    "ORTHO-C23-048"
+   ],
+   "guide": "Operate with total/hemi-laminectomy or laminotomy + discectomy when symptoms worsen despite conservative Rx, bowel & bladder are involved, a massive central prolapse compresses multiple roots, or cauda equina syndrome develops."
+  },
+  {
+   "id": "ORTHO-U23-10",
+   "ch": 23,
+   "n": 10,
+   "title": "Conus Medullaris vs Cauda Equina",
+   "sec": "Conus medullaris v/s cauda equina syndrome · p183",
+   "qs": [
+    "ORTHO-C23-049",
+    "ORTHO-C23-050",
+    "ORTHO-C23-051",
+    "ORTHO-C23-052",
+    "ORTHO-C23-053",
+    "ORTHO-C23-054",
+    "ORTHO-C23-055",
+    "ORTHO-C23-056",
+    "ORTHO-C23-057",
+    "ORTHO-C23-058",
+    "ORTHO-C23-059",
+    "ORTHO-C23-060"
+   ],
+   "guide": "Conus (spinal cord, nucleus of Onuf S2; injury at L1) gives UMNL with LMNL features, symmetric areflexic flaccid paralysis and a normal knee reflex. Cauda (spinal nerves; large disc below L1) gives asymmetric LMNL with lost knee reflex. Both share saddle anaesthesia, bowel & bladder involvement and a lost ankle reflex."
+  },
+  {
+   "id": "ORTHO-U23-11",
+   "ch": 23,
+   "n": 11,
+   "title": "Lumbar Canal Stenosis: Pathophysiology",
+   "sec": "Lumbar Canal Stenosis (LCS) · p183",
+   "qs": [
+    "ORTHO-C23-061",
+    "ORTHO-C23-062"
+   ],
+   "guide": "LCS runs a straight line: spondylosis (OA of facet joints) → excessive bone formation → stenosis of the lumbar canal → neurogenic claudication."
+  },
+  {
+   "id": "ORTHO-U23-12",
+   "ch": 23,
+   "n": 12,
+   "title": "LCS: Claudication Patterns",
+   "sec": "Clinical features · p184",
+   "qs": [
+    "ORTHO-C23-063",
+    "ORTHO-C23-064",
+    "ORTHO-C23-065",
+    "ORTHO-C23-066",
+    "ORTHO-C23-067",
+    "ORTHO-C23-068",
+    "ORTHO-C23-069",
+    "ORTHO-C23-070",
+    "ORTHO-C23-071",
+    "ORTHO-C23-072"
+   ],
+   "guide": "LCS pain eases with flexion (sitting, leaning over, climbing upstairs) and worsens with extension (walking, standing upright). Neurogenic claudication starts in the back, is caused by standing and relieved by climbing stairs, with postural changes and normal pulses; vascular starts in the calf, is relieved by standing, caused by climbing, and has abnormal pulses."
+  },
+  {
+   "id": "ORTHO-U23-13",
+   "ch": 23,
+   "n": 13,
+   "title": "LCS vs PIVD",
+   "sec": "LCS v/s PIVD · p184",
+   "qs": [
+    "ORTHO-C23-073",
+    "ORTHO-C23-074",
+    "ORTHO-C23-075"
+   ],
+   "guide": "LCS: elderly, slow & progressive onset, pain decreases on flexion. PIVD: young, acute onset, pain increases on flexion."
+  },
+  {
+   "id": "ORTHO-U23-14",
+   "ch": 23,
+   "n": 14,
+   "title": "Spondylolisthesis: Definition & Cause",
+   "sec": "Spondylolisthesis · p184",
+   "qs": [
+    "ORTHO-C23-076",
+    "ORTHO-C23-077"
+   ],
+   "guide": "Spondylolisthesis is slipping of one vertebra over another, caused by trauma/fracture of the pars interarticularis."
+  },
+  {
+   "id": "ORTHO-U23-15",
+   "ch": 23,
+   "n": 15,
+   "title": "Spondylolisthesis: Radiology",
+   "sec": "Radiological features · p184",
+   "qs": [
+    "ORTHO-C23-078",
+    "ORTHO-C23-079",
+    "ORTHO-C23-080",
+    "ORTHO-C23-081"
+   ],
+   "guide": "On the scottie dog: spondylolisthesis loses its head (beheaded scottish terrier, m/c L5-S1), while spondylolysis wears a collar (scottish terrier with collar sign, m/c L5)."
+  },
+  {
+   "id": "ORTHO-U23-16",
+   "ch": 23,
+   "n": 16,
+   "title": "Meyerding Classification",
+   "sec": "Meyerding classification · p185",
+   "qs": [
+    "ORTHO-C23-082",
+    "ORTHO-C23-083",
+    "ORTHO-C23-084",
+    "ORTHO-C23-085",
+    "ORTHO-C23-086",
+    "ORTHO-C23-087"
+   ],
+   "guide": "Meyerding grades by percentage of slip: I 0-25%, II 26-50%, III 51-75%, IV 76-100%, and V beyond 100% — that is spondyloptosis."
+  },
+  {
+   "id": "ORTHO-U23-17",
+   "ch": 23,
+   "n": 17,
+   "title": "Spondylolisthesis: Features & Spondylo- Terms",
+   "sec": "Clinical features · p185",
+   "qs": [
+    "ORTHO-C23-088",
+    "ORTHO-C23-089",
+    "ORTHO-C23-090",
+    "ORTHO-C23-091",
+    "ORTHO-C23-092"
+   ],
+   "guide": "Back pain radiates to the lower limbs and palpation reveals the step sign — step off over the spinous process. Don't mix the -lo- words: spondylosis = degeneration (elderly), spondylitis = inflammation (AS), and spondyloptosis wears the inverted Napoleon hat sign."
+  },
+  {
+   "id": "ORTHO-U23-18",
+   "ch": 23,
+   "n": 18,
+   "title": "Ankylosing Spondylitis",
+   "sec": "Ankylosing spondylitis · p186",
+   "qs": [
+    "ORTHO-C23-093",
+    "ORTHO-C23-094",
+    "ORTHO-C23-095",
+    "ORTHO-C23-096",
+    "ORTHO-C23-097",
+    "ORTHO-C23-098",
+    "ORTHO-C23-099",
+    "ORTHO-C23-100",
+    "ORTHO-C23-101",
+    "ORTHO-C23-102"
+   ],
+   "guide": "AS is autoimmune: males > females, young, HLA-B27 (+), RF (-), with enthesopathy as the pathology. Sacroiliitis is the hallmark, morning stiffness improves with activity, and anterior uveitis is the classic association. On X-ray: bamboo spine (vertical syndesmophyte fusion) plus trolley track and dagger signs from ligament calcification."
+  },
+  {
+   "id": "ORTHO-U23-19",
+   "ch": 23,
+   "n": 19,
+   "title": "DISH & OPLL",
+   "sec": "Diffuse idiopathic skeletal hyperostosis (DISH) · p186",
+   "qs": [
+    "ORTHO-C23-103",
+    "ORTHO-C23-104",
+    "ORTHO-C23-105",
+    "ORTHO-C23-106",
+    "ORTHO-C23-107"
+   ],
+   "guide": "DISH (Forestier disease) ossifies the anterior longitudinal ligament in the elderly. OPLL favours the cervical spine, also in the elderly — DISH is front, OPLL is back."
+  },
+  {
+   "id": "ORTHO-U23-20",
+   "ch": 23,
+   "n": 20,
+   "title": "Scoliosis: Definition & Curvatures",
+   "sec": "Scoliosis · p186",
+   "qs": [
+    "ORTHO-C23-108",
+    "ORTHO-C23-109",
+    "ORTHO-C23-110"
+   ],
+   "guide": "Scoliosis is lateral deviation of the spine by more than 10° from the central axis. The primary curvature is the largest curve; secondary curvatures are the smaller compensatory curves above and below it."
+  },
+  {
+   "id": "ORTHO-U23-21",
+   "ch": 23,
+   "n": 21,
+   "title": "Scoliosis: Types & Adam's Test",
+   "sec": "Scoliosis · p187",
+   "qs": [
+    "ORTHO-C23-111",
+    "ORTHO-C23-112",
+    "ORTHO-C23-113",
+    "ORTHO-C23-114",
+    "ORTHO-C23-115",
+    "ORTHO-C23-116"
+   ],
+   "guide": "Spinal column deviation can be lateral, sagittal (forward bending) or rotational. Structural scoliosis is fixed and persists on bending forward; non-structural (postural/compensatory) has no rotational component and disappears on Adam's forward bending test — the screening test that separates the two."
+  },
+  {
+   "id": "ORTHO-U23-22",
+   "ch": 23,
+   "n": 22,
+   "title": "Structural Scoliosis: Classification",
+   "sec": "Classification of structural scoliosis · p187",
+   "qs": [
+    "ORTHO-C23-117",
+    "ORTHO-C23-118",
+    "ORTHO-C23-119",
+    "ORTHO-C23-120",
+    "ORTHO-C23-121",
+    "ORTHO-C23-122"
+   ],
+   "guide": "Idiopathic (m/c, no visible anomaly) splits into infantile, juvenile and adolescent (m/c). Congenital scoliosis shows a visible anomaly → deformity with wedge, hemi, unsegmented bar or block vertebrae; neuromuscular is the third category."
+  },
+  {
+   "id": "ORTHO-U23-23",
+   "ch": 23,
+   "n": 23,
+   "title": "Scoliosis: Features & Cobb's Angle",
+   "sec": "Clinical features · p188",
+   "qs": [
+    "ORTHO-C23-123",
+    "ORTHO-C23-124",
+    "ORTHO-C23-125",
+    "ORTHO-C23-126"
+   ],
+   "guide": "Shoulder asymmetry, a laterally deviated spine and the rib hump of rotational abnormality; the deformity crowds the ribs and compresses thoracic and abdominal structures. Severity is measured by Cobb's angle between the abnormal vertebrae at both ends of the primary curvature."
+  },
+  {
+   "id": "ORTHO-U23-24",
+   "ch": 23,
+   "n": 24,
+   "title": "Risser Sign & Prognosis",
+   "sec": "Prognosis · p188",
+   "qs": [
+    "ORTHO-C23-127",
+    "ORTHO-C23-128",
+    "ORTHO-C23-129",
+    "ORTHO-C23-130",
+    "ORTHO-C23-131",
+    "ORTHO-C23-132",
+    "ORTHO-C23-133"
+   ],
+   "guide": "The Risser sign gauges progression potential (proportional to growth potential — high in children, low in adults) and skeletal maturity by fusion of the iliac apophysysis with the iliac crest: grades 1-4 are 25/50/75/100% lateral ossification and grade 5 is complete fusion with the ilium."
+  },
+  {
+   "id": "ORTHO-U23-25",
+   "ch": 23,
+   "n": 25,
+   "title": "Scoliosis: Treatment",
+   "sec": "Treatment · p189",
+   "qs": [
+    "ORTHO-C23-134",
+    "ORTHO-C23-135",
+    "ORTHO-C23-136",
+    "ORTHO-C23-137",
+    "ORTHO-C23-138",
+    "ORTHO-C23-139",
+    "ORTHO-C23-140",
+    "ORTHO-C23-141",
+    "ORTHO-C23-142"
+   ],
+   "guide": "Treatment hinges on severity & prognosis: low Cobb's + high Risser → braces (Milwaukee = cervical-thoraco-lumbo-sacral, Boston = thoraco-lumbo-sacral, Charleston); high Cobb's + low Risser → pedicle screw fixation with Harrington rods engaging all 3 spinal columns. Incidence is females > males, but prognosis is males > females."
+  }
+ ]
+}

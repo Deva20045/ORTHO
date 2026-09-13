@@ -1,0 +1,3661 @@
+{
+ "questions": [
+  {
+   "id": "ORTHO-C24-001",
+   "sec": "Anatomy of a Joint",
+   "page": 190,
+   "q": "In the knee joint, articular cartilage lies on the:",
+   "opts": [
+    "Articular surface of bone",
+    "Periosteum of the shaft",
+    "Epiphyseal plate",
+    "Ligament insertion only"
+   ],
+   "ans": 0,
+   "exp": "Parts of knee joint: distal femur, synovium, articular cartilage (on articular surface of bone), joint capsule, synovial fluid, proximal tibia. (Book p190)"
+  },
+  {
+   "id": "ORTHO-C24-002",
+   "sec": "Anatomy of a Joint",
+   "page": 190,
+   "q": "Damage to articular cartilage leads to:",
+   "opts": [
+    "Painful movement (active & passive) of the joint",
+    "Loss of knee reflex",
+    "Muscle atrophy of the thigh",
+    "Pain only on active movement"
+   ],
+   "ans": 0,
+   "exp": "Damage to articular cartilage → painful movement (active & passive) of the joint. (Book p190)"
+  },
+  {
+   "id": "ORTHO-C24-003",
+   "sec": "Anatomy of a Joint",
+   "page": 190,
+   "q": "Joints involved in osteoarthritis include:",
+   "opts": [
+    "Distal interphalangeal joint (DIP)",
+    "MCP only",
+    "Wrist only",
+    "Knee only"
+   ],
+   "ans": 0,
+   "exp": "OA joints involved: DIP, PIP, 1st carpometacarpal joint. (Book p190)"
+  },
+  {
+   "id": "ORTHO-C24-004",
+   "sec": "Anatomy of a Joint",
+   "page": 190,
+   "q": "Joints involved in osteoarthritis include:",
+   "opts": [
+    "Proximal interphalangeal joint (PIP)",
+    "Wrist",
+    "MCP",
+    "Carpal bones only"
+   ],
+   "ans": 0,
+   "exp": "OA joints involved: PIP (proximal interphalangeal joint). (Book p190)"
+  },
+  {
+   "id": "ORTHO-C24-005",
+   "sec": "Anatomy of a Joint",
+   "page": 190,
+   "q": "Joints involved in osteoarthritis include:",
+   "opts": [
+    "1st carpometacarpal joint",
+    "1st MTP",
+    "Wrist",
+    "Ankle only"
+   ],
+   "ans": 0,
+   "exp": "OA joints involved: 1st carpometacarpal joint. (Book p190)"
+  },
+  {
+   "id": "ORTHO-C24-006",
+   "sec": "Anatomy of a Joint",
+   "page": 190,
+   "q": "Joints involved in rheumatoid arthritis include:",
+   "opts": [
+    "MCP",
+    "DIP",
+    "Wrist only",
+    "1st carpometacarpal joint"
+   ],
+   "ans": 0,
+   "exp": "RA joints involved: MCP, wrist, PIP. (Book p190)"
+  },
+  {
+   "id": "ORTHO-C24-007",
+   "sec": "Anatomy of a Joint",
+   "page": 190,
+   "q": "Joints involved in rheumatoid arthritis include:",
+   "opts": [
+    "Wrist",
+    "DIP",
+    "1st carpometacarpal joint",
+    "MCP only"
+   ],
+   "ans": 0,
+   "exp": "RA joints involved: wrist. (Book p190)"
+  },
+  {
+   "id": "ORTHO-C24-008",
+   "sec": "Anatomy of a Joint",
+   "page": 190,
+   "q": "Joints involved in rheumatoid arthritis include:",
+   "opts": [
+    "PIP",
+    "DIP",
+    "1st carpometacarpal joint",
+    "Carpal bones only"
+   ],
+   "ans": 0,
+   "exp": "RA joints involved: PIP. (Book p190)"
+  },
+  {
+   "id": "ORTHO-C24-009",
+   "sec": "Anatomy of a Joint",
+   "page": 190,
+   "q": "Joint spared in osteoarthritis is:",
+   "opts": [
+    "Wrist",
+    "DIP",
+    "PIP",
+    "1st carpometacarpal joint"
+   ],
+   "ans": 0,
+   "exp": "OA spares: wrist, metacarpophalangeal joint (MCP). (Book p190)"
+  },
+  {
+   "id": "ORTHO-C24-010",
+   "sec": "Anatomy of a Joint",
+   "page": 190,
+   "q": "Joint spared in osteoarthritis is:",
+   "opts": [
+    "Metacarpophalangeal joint (MCP)",
+    "DIP",
+    "PIP",
+    "1st carpometacarpal joint"
+   ],
+   "ans": 0,
+   "exp": "OA spares: metacarpophalangeal joint (MCP) and wrist. (Book p190)"
+  },
+  {
+   "id": "ORTHO-C24-011",
+   "sec": "Anatomy of a Joint",
+   "page": 190,
+   "q": "Joint spared in rheumatoid arthritis is:",
+   "opts": [
+    "DIP",
+    "MCP",
+    "Wrist",
+    "PIP"
+   ],
+   "ans": 0,
+   "exp": "RA spares: DIP. (Book p190)"
+  },
+  {
+   "id": "ORTHO-C24-012",
+   "sec": "Osteoarthritis",
+   "page": 190,
+   "q": "Osteoarthritis is the:",
+   "opts": [
+    "m/c joint disease",
+    "Least common joint disease",
+    "m/c inflammatory joint disease",
+    "m/c crystal arthropathy"
+   ],
+   "ans": 0,
+   "exp": "Osteoarthritis: m/c joint disease. (Book p190)"
+  },
+  {
+   "id": "ORTHO-C24-013",
+   "sec": "Osteoarthritis",
+   "page": 190,
+   "q": "Etiology of osteoarthritis includes:",
+   "opts": [
+    "Age related degeneration",
+    "Infection only",
+    "Trauma only",
+    "Tumour only"
+   ],
+   "ans": 0,
+   "exp": "Etiology: 1. age related degeneration. (Book p190)"
+  },
+  {
+   "id": "ORTHO-C24-014",
+   "sec": "Osteoarthritis",
+   "page": 190,
+   "q": "Etiology of osteoarthritis includes:",
+   "opts": [
+    "Preexisting destruction of cartilage",
+    "Bacterial sepsis",
+    "Viral arthritis",
+    "Malignancy only"
+   ],
+   "ans": 0,
+   "exp": "Etiology: 2. preexisting destruction of cartilage. (Book p190)"
+  },
+  {
+   "id": "ORTHO-C24-015",
+   "sec": "Types",
+   "page": 191,
+   "q": "m/c type of osteoarthritis is:",
+   "opts": [
+    "Primary: idiopathic",
+    "Secondary",
+    "Post-traumatic",
+    "Post-infective"
+   ],
+   "ans": 0,
+   "exp": "Types: primary (idiopathic) is m/c. (Book p191)"
+  },
+  {
+   "id": "ORTHO-C24-016",
+   "sec": "Types",
+   "page": 191,
+   "q": "m/c site of localized (involves only one joint) osteoarthritis is:",
+   "opts": [
+    "Knee",
+    "Hip",
+    "Shoulder",
+    "Elbow"
+   ],
+   "ans": 0,
+   "exp": "Localized OA: knee (m/c), spine, hand. (Book p191)"
+  },
+  {
+   "id": "ORTHO-C24-017",
+   "sec": "Types",
+   "page": 191,
+   "q": "Other sites of localized osteoarthritis include:",
+   "opts": [
+    "Spine and hand",
+    "Wrist and ankle",
+    "Elbow and shoulder",
+    "Foot only"
+   ],
+   "ans": 0,
+   "exp": "Localized (one joint): knee (m/c), spine, hand. (Book p191)"
+  },
+  {
+   "id": "ORTHO-C24-018",
+   "sec": "Types",
+   "page": 191,
+   "q": "Generalized osteoarthritis involves more than 3 joints, m/c being:",
+   "opts": [
+    "DIP",
+    "MCP",
+    "Wrist",
+    "Knee only"
+   ],
+   "ans": 0,
+   "exp": "Generalized (involves >3 joints): DIP (m/c). (Book p191)"
+  },
+  {
+   "id": "ORTHO-C24-019",
+   "sec": "Types",
+   "page": 191,
+   "q": "Secondary osteoarthritis is d/t:",
+   "opts": [
+    "Preexisting joint pathology",
+    "Idiopathic cause",
+    "Age only",
+    "Overweight only"
+   ],
+   "ans": 0,
+   "exp": "Secondary OA: d/t preexisting joint pathology. (Book p191)"
+  },
+  {
+   "id": "ORTHO-C24-020",
+   "sec": "Types",
+   "page": 191,
+   "q": "Cause of secondary osteoarthritis is:",
+   "opts": [
+    "Intra articular trauma",
+    "Only infection",
+    "Only tumour",
+    "Only avascular necrosis"
+   ],
+   "ans": 0,
+   "exp": "Secondary causes: intra articular trauma, developmental anomaly, AVN, overweight. (Book p191)"
+  },
+  {
+   "id": "ORTHO-C24-021",
+   "sec": "Types",
+   "page": 191,
+   "q": "Cause of secondary osteoarthritis is:",
+   "opts": [
+    "Developmental anomaly",
+    "Only trauma",
+    "Only infection",
+    "Only tumour"
+   ],
+   "ans": 0,
+   "exp": "Secondary causes: developmental anomaly. (Book p191)"
+  },
+  {
+   "id": "ORTHO-C24-022",
+   "sec": "Types",
+   "page": 191,
+   "q": "Cause of secondary osteoarthritis is:",
+   "opts": [
+    "Avascular necrosis",
+    "Only infection",
+    "Only trauma",
+    "Only infection of blood"
+   ],
+   "ans": 0,
+   "exp": "Secondary causes: avascular necrosis. (Book p191)"
+  },
+  {
+   "id": "ORTHO-C24-023",
+   "sec": "Types",
+   "page": 191,
+   "q": "Cause of secondary osteoarthritis is:",
+   "opts": [
+    "Overweight",
+    "Only age",
+    "Only infection",
+    "Only trauma"
+   ],
+   "ans": 0,
+   "exp": "Secondary causes: overweight. (Book p191)"
+  },
+  {
+   "id": "ORTHO-C24-024",
+   "sec": "Pathogenesis",
+   "page": 191,
+   "q": "First step in pathogenesis of osteoarthritis is:",
+   "opts": [
+    "Degeneration of articular cartilage → raw bone surfaces rub against each other",
+    "Subchondral cyst formation",
+    "Osteophyte formation",
+    "Loose body formation"
+   ],
+   "ans": 0,
+   "exp": "Pathogenesis: degeneration of articular cartilage → raw bone surfaces rub against each other. (Book p191)"
+  },
+  {
+   "id": "ORTHO-C24-025",
+   "sec": "Pathogenesis",
+   "page": 191,
+   "q": "When raw bone surfaces rub against each other in OA:",
+   "opts": [
+    "Pain, ↑ sclerosis (density) of bone",
+    "Calcification of joint capsule",
+    "Synovial fluid ↑",
+    "Neurogenic claudication"
+   ],
+   "ans": 0,
+   "exp": "Raw bone surfaces rub → pain, ↑ sclerosis (density) of bone. (Book p191)"
+  },
+  {
+   "id": "ORTHO-C24-026",
+   "sec": "Pathogenesis",
+   "page": 191,
+   "q": "Necrosis/cysts in the bone in OA are d/t:",
+   "opts": [
+    "↓ vascularity",
+    "↑ vascularity",
+    "Infection",
+    "Tumour"
+   ],
+   "ans": 0,
+   "exp": "Necrosis/cysts in the bone (d/t ↓ vascularity). (Book p191)"
+  },
+  {
+   "id": "ORTHO-C24-027",
+   "sec": "Pathogenesis",
+   "page": 191,
+   "q": "Regeneration of bone in OA forms:",
+   "opts": [
+    "Osteophytes",
+    "Loose bodies",
+    "Subchondral cysts",
+    "Bony bars"
+   ],
+   "ans": 0,
+   "exp": "Regeneration of bone → forms osteophytes. (Book p191)"
+  },
+  {
+   "id": "ORTHO-C24-028",
+   "sec": "Pathogenesis",
+   "page": 191,
+   "q": "Osteophytes breaking off in OA form:",
+   "opts": [
+    "Loose bodies (move freely in the joint)",
+    "Osteophytes again",
+    "Bony ankylosis",
+    "Chondroma"
+   ],
+   "ans": 0,
+   "exp": "Osteophytes break off → form loose bodies (move freely in the joint). (Book p191)"
+  },
+  {
+   "id": "ORTHO-C24-029",
+   "sec": "Features",
+   "page": 191,
+   "q": "Clinical feature of osteoarthritis is:",
+   "opts": [
+    "Pain on active & passive movement",
+    "Pain on active movement only",
+    "Pain at rest only",
+    "No pain at all"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: pain on active & passive movement. (Book p191)"
+  },
+  {
+   "id": "ORTHO-C24-030",
+   "sec": "Features",
+   "page": 191,
+   "q": "↓ range of movement in OA leads to:",
+   "opts": [
+    "↓ muscle usage → muscle atrophy (m/c: vastus medialis of quadriceps)",
+    "Muscle hypertrophy",
+    "Nerve palsy",
+    "Vascular claudication"
+   ],
+   "ans": 0,
+   "exp": "↓ ROM → ↓ muscle usage → muscle atrophy (m/c: vastus medialis of quadriceps). (Book p191)"
+  },
+  {
+   "id": "ORTHO-C24-031",
+   "sec": "Features",
+   "page": 191,
+   "q": "Clinical feature of osteoarthritis is:",
+   "opts": [
+    "Crepitations",
+    "Fever",
+    "Weight gain",
+    "Lymphadenopathy"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: crepitations. (Book p191)"
+  },
+  {
+   "id": "ORTHO-C24-032",
+   "sec": "Features",
+   "page": 191,
+   "q": "Clinical feature of osteoarthritis is:",
+   "opts": [
+    "Swelling and deformity",
+    "Redness and heat only",
+    "Discoloration only",
+    "Abscess formation"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: swelling and deformity. (Book p191)"
+  },
+  {
+   "id": "ORTHO-C24-033",
+   "sec": "Features",
+   "page": 191,
+   "q": "Bouchard's and Heberden's nodes are d/t:",
+   "opts": [
+    "Osteoarthritis of PIP and DIP",
+    "Rheumatoid arthritis of MCP",
+    "Gout of MTP",
+    "Psoriatic arthritis of DIP"
+   ],
+   "ans": 0,
+   "exp": "Bouchard's and Heberden's nodes: d/t osteoarthritis of PIP and DIP. (Book p191)"
+  },
+  {
+   "id": "ORTHO-C24-034",
+   "sec": "Features",
+   "page": 191,
+   "q": "Heberden's node is swelling at the:",
+   "opts": [
+    "DIP (distal interphalangeal joint)",
+    "PIP",
+    "MCP",
+    "Carpometacarpal joint"
+   ],
+   "ans": 0,
+   "exp": "DIP swelling (Heberden's node); PIP swelling (Bouchard's node). (Book p191)"
+  },
+  {
+   "id": "ORTHO-C24-035",
+   "sec": "Features",
+   "page": 191,
+   "q": "Bouchard's node is swelling at the:",
+   "opts": [
+    "PIP (proximal interphalangeal joint)",
+    "DIP",
+    "MCP",
+    "Thumb IP joint only"
+   ],
+   "ans": 0,
+   "exp": "PIP swelling (Bouchard's node). (Book p191)"
+  },
+  {
+   "id": "ORTHO-C24-036",
+   "sec": "X-ray features",
+   "page": 192,
+   "q": "X-ray feature of osteoarthritis is:",
+   "opts": [
+    "Decreased joint space",
+    "Widened joint space",
+    "Joint effusion only",
+    "Soft tissue swelling only"
+   ],
+   "ans": 0,
+   "exp": "X-ray features: 1. decreased joint space. (Book p192)"
+  },
+  {
+   "id": "ORTHO-C24-037",
+   "sec": "X-ray features",
+   "page": 192,
+   "q": "X-ray feature of osteoarthritis is:",
+   "opts": [
+    "Bone on bone appearance",
+    "Osteopenia only",
+    "Marginal erosions",
+    "Periosteal reaction"
+   ],
+   "ans": 0,
+   "exp": "X-ray features: 2. bone on bone appearance. (Book p192)"
+  },
+  {
+   "id": "ORTHO-C24-038",
+   "sec": "X-ray features",
+   "page": 192,
+   "q": "X-ray feature of osteoarthritis is:",
+   "opts": [
+    "Subchondral sclerosis",
+    "Osteopenia",
+    "Loose bodies only",
+    "Pathological fracture"
+   ],
+   "ans": 0,
+   "exp": "X-ray features: 3. subchondral sclerosis. (Book p192)"
+  },
+  {
+   "id": "ORTHO-C24-039",
+   "sec": "X-ray features",
+   "page": 192,
+   "q": "X-ray feature of osteoarthritis is:",
+   "opts": [
+    "Necrotic cysts & osteophytes",
+    "Marginal erosions",
+    "Osteopenia only",
+    "Periosteal new bone"
+   ],
+   "ans": 0,
+   "exp": "X-ray features: 4. necrotic cysts & osteophytes. (Book p192)"
+  },
+  {
+   "id": "ORTHO-C24-040",
+   "sec": "X-ray features",
+   "page": 192,
+   "q": "X-ray feature of osteoarthritis is:",
+   "opts": [
+    "Loose bodies",
+    "Osteopenia only",
+    "Marginal erosions",
+    "Osteosclerosis of the shaft"
+   ],
+   "ans": 0,
+   "exp": "X-ray features: 5. loose bodies. (Book p192)"
+  },
+  {
+   "id": "ORTHO-C24-041",
+   "sec": "X-ray features",
+   "page": 192,
+   "q": "In OA, joint space decreases medially first leading to genu varum because:",
+   "opts": [
+    "Most of the weight bearing occurs on the medial side",
+    "Most weight bearing is lateral",
+    "Weight bearing is equal",
+    "Ligament calcification"
+   ],
+   "ans": 0,
+   "exp": "Most of the weight bearing is on the medial side → joint space decreases medially first → genu varum. (Book p192)"
+  },
+  {
+   "id": "ORTHO-C24-042",
+   "sec": "X-ray features",
+   "page": 192,
+   "q": "Osteoarthritis is the m/c cause of:",
+   "opts": [
+    "B/l genu varum",
+    "B/l genu valgum",
+    "Claw hand",
+    "Swan neck deformity"
+   ],
+   "ans": 0,
+   "exp": "Osteoarthritis is the m/c cause of b/l genu varum. (Book p192)"
+  },
+  {
+   "id": "ORTHO-C24-043",
+   "sec": "Loose bodies in Knee joint",
+   "page": 192,
+   "q": "m/c cause of loose bodies in knee joint is:",
+   "opts": [
+    "Osteoarthritis",
+    "Synovial chondromatosis",
+    "Osteochondritis dissecans",
+    "Pigmented villonodular synovitis"
+   ],
+   "ans": 0,
+   "exp": "Loose bodies in knee: m/c cause osteoarthritis. (Book p192)"
+  },
+  {
+   "id": "ORTHO-C24-044",
+   "sec": "Loose bodies in Knee joint",
+   "page": 192,
+   "q": "m/c cause of loose bodies in young is:",
+   "opts": [
+    "Osteochondritis dissecans",
+    "Osteoarthritis",
+    "Synovial chondromatosis",
+    "Tumour"
+   ],
+   "ans": 0,
+   "exp": "m/c cause in young: osteochondritis dissecans. (Book p192)"
+  },
+  {
+   "id": "ORTHO-C24-045",
+   "sec": "Loose bodies in Knee joint",
+   "page": 192,
+   "q": "m/c cause of loose bodies in elderly is:",
+   "opts": [
+    "Osteoarthritis",
+    "Osteochondritis dissecans",
+    "Synovial chondromatosis",
+    "Tumour"
+   ],
+   "ans": 0,
+   "exp": "m/c cause in elderly: osteoarthritis. (Book p192)"
+  },
+  {
+   "id": "ORTHO-C24-046",
+   "sec": "Loose bodies in Knee joint",
+   "page": 192,
+   "q": "m/c cause of multiple loose bodies is:",
+   "opts": [
+    "Synovial chondromatosis",
+    "Osteoarthritis",
+    "Osteochondritis dissecans",
+    "Infection"
+   ],
+   "ans": 0,
+   "exp": "m/c cause of multiple loose bodies: synovial chondromatosis. (Book p192)"
+  },
+  {
+   "id": "ORTHO-C24-047",
+   "sec": "Treatment",
+   "page": 192,
+   "q": "To prevent progression of OA (conservative Rx):",
+   "opts": [
+    "Weight loss",
+    "Immediate arthroplasty",
+    "Joint injection of steroids",
+    "Immobilization in plaster"
+   ],
+   "ans": 0,
+   "exp": "Conservative: prevent progression - weight loss. (Book p192)"
+  },
+  {
+   "id": "ORTHO-C24-048",
+   "sec": "Treatment",
+   "page": 192,
+   "q": "Physiotherapy in OA includes:",
+   "opts": [
+    "Heat and strengthening exercises",
+    "Cold water immersion only",
+    "Stretching only",
+    "Massage only"
+   ],
+   "ans": 0,
+   "exp": "Physiotherapy: heat, strengthening exercises. (Book p192)"
+  },
+  {
+   "id": "ORTHO-C24-049",
+   "sec": "Treatment",
+   "page": 192,
+   "q": "Conservative treatment of OA includes:",
+   "opts": [
+    "Walking with support",
+    "Bed rest for 6 weeks",
+    "High impact running",
+    "Stair climbing only"
+   ],
+   "ans": 0,
+   "exp": "Conservative: walking with support. (Book p192)"
+  },
+  {
+   "id": "ORTHO-C24-050",
+   "sec": "Treatment",
+   "page": 192,
+   "q": "Conservative treatment of OA includes:",
+   "opts": [
+    "Braces",
+    "Amputation",
+    "Surgical fusion",
+    "Traction only"
+   ],
+   "ans": 0,
+   "exp": "Conservative: braces. (Book p192)"
+  },
+  {
+   "id": "ORTHO-C24-051",
+   "sec": "Treatment",
+   "page": 192,
+   "q": "NSAID for supportive treatment of OA is:",
+   "opts": [
+    "Acetaminophen",
+    "Aspirin only",
+    "Morphine",
+    "Methotrexate"
+   ],
+   "ans": 0,
+   "exp": "Medication (supportive): NSAID's - acetaminophen. (Book p192)"
+  },
+  {
+   "id": "ORTHO-C24-052",
+   "sec": "Treatment",
+   "page": 192,
+   "q": "Cartilage protectors in OA are:",
+   "opts": [
+    "Glucosamine, chondroitin sulphate (help regenerate damaged cartilage in early stages)",
+    "Hyaluronic acid only",
+    "Steroids",
+    "Colchicine"
+   ],
+   "ans": 0,
+   "exp": "Cartilage protectors: glucosamine, chondroitin sulphate - help regenerate damaged cartilage in early stages. (Book p192)"
+  },
+  {
+   "id": "ORTHO-C24-053",
+   "sec": "Treatment",
+   "page": 192,
+   "q": "Lubrication in OA is given as:",
+   "opts": [
+    "Inj. hyaluronic acid (visco supplements)",
+    "Inj. adrenaline",
+    "Inj. antibiotics",
+    "Inj. corticosteroids only"
+   ],
+   "ans": 0,
+   "exp": "Lubrication: inj. hyaluronic acid (visco supplements). (Book p192)"
+  },
+  {
+   "id": "ORTHO-C24-054",
+   "sec": "Treatment",
+   "page": 192,
+   "q": "Arthroscopy in OA is done for:",
+   "opts": [
+    "Joint wash to remove loose bodies",
+    "Joint fusion",
+    "Ligament reconstruction",
+    "Nerve decompression"
+   ],
+   "ans": 0,
+   "exp": "Surgical (definitive): arthroscopy - joint wash to remove loose bodies. (Book p192)"
+  },
+  {
+   "id": "ORTHO-C24-055",
+   "sec": "Treatment",
+   "page": 192,
+   "q": "High tibial/medial opening wedge osteotomy in OA is to:",
+   "opts": [
+    "Correct varus deformity & pain",
+    "Correct valgus deformity",
+    "Lengthen the tibia",
+    "Correct rotational deformity"
+   ],
+   "ans": 0,
+   "exp": "High tibial/medial opening wedge osteotomy: to correct varus deformity & pain. (Book p192)"
+  },
+  {
+   "id": "ORTHO-C24-056",
+   "sec": "Treatment",
+   "page": 192,
+   "q": "Arthroplasty in OA is to:",
+   "opts": [
+    "Replace damaged joint",
+    "Fuse the joint",
+    "Remove the patella",
+    "Decompress the nerve"
+   ],
+   "ans": 0,
+   "exp": "Arthroplasty: to replace damaged joint. (Book p192)"
+  },
+  {
+   "id": "ORTHO-C24-057",
+   "sec": "Treatment",
+   "page": 192,
+   "q": "Unicondylar replacement in OA is:",
+   "opts": [
+    "Replacement of medial side of knee joint",
+    "Total knee replacement",
+    "Hip replacement",
+    "Shoulder replacement"
+   ],
+   "ans": 0,
+   "exp": "Unicondylar replacement: replacement of medial side of knee joint. (Book p192)"
+  },
+  {
+   "id": "ORTHO-C24-058",
+   "sec": "Treatment",
+   "page": 192,
+   "q": "Complication of total knee replacement (TKR) is:",
+   "opts": [
+    "Patellar clunk syndrome",
+    "Deep vein thrombosis only",
+    "Pneumonia",
+    "UTI"
+   ],
+   "ans": 0,
+   "exp": "TKR complication: patellar clunk syndrome. (Book p192)"
+  },
+  {
+   "id": "ORTHO-C24-059",
+   "sec": "Treatment",
+   "page": 192,
+   "q": "TKR involves:",
+   "opts": [
+    "Femoral component replacement + tibial component replacement",
+    "Patellar replacement only",
+    "Fibular component replacement",
+    "Ligament replacement only"
+   ],
+   "ans": 0,
+   "exp": "TKR: femoral component replacement and tibial component replacement. (Book p192)"
+  },
+  {
+   "id": "ORTHO-C24-060",
+   "sec": "Total hip replacement",
+   "page": 193,
+   "q": "In total hip replacement, what is replaced of the femur:",
+   "opts": [
+    "Head & neck",
+    "Shaft only",
+    "Greater trochanter only",
+    "Lesser trochanter only"
+   ],
+   "ans": 0,
+   "exp": "Total hip replacement: head & neck of femur replaced. (Book p193)"
+  },
+  {
+   "id": "ORTHO-C24-061",
+   "sec": "Total hip replacement",
+   "page": 193,
+   "q": "Total hip replacement also includes:",
+   "opts": [
+    "Acetabular component",
+    "Tibial component",
+    "Patellar component",
+    "Calcaneal component"
+   ],
+   "ans": 0,
+   "exp": "Total hip replacement: acetabular component. (Book p193)"
+  },
+  {
+   "id": "ORTHO-C24-062",
+   "sec": "Rheumatoid Arthritis",
+   "page": 193,
+   "q": "Rheumatoid arthritis is the m/c type of:",
+   "opts": [
+    "Inflammatory arthritis - disease of synovium",
+    "Crystal arthropathy",
+    "Neuropathic joint",
+    "Infective arthritis"
+   ],
+   "ans": 0,
+   "exp": "RA: m/c type of inflammatory arthritis - disease of synovium. (Book p193)"
+  },
+  {
+   "id": "ORTHO-C24-063",
+   "sec": "Rheumatoid Arthritis",
+   "page": 193,
+   "q": "Rheumatoid arthritis is a:",
+   "opts": [
+    "Systemic autoimmune multisystem disease (lungs, heart, liver)",
+    "Localized joint disease",
+    "Infective disease",
+    "Metabolic bone disease"
+   ],
+   "ans": 0,
+   "exp": "RA: systemic autoimmune multisystem disease (lungs, heart, liver). (Book p193)"
+  },
+  {
+   "id": "ORTHO-C24-064",
+   "sec": "Rheumatoid Arthritis",
+   "page": 193,
+   "q": "RA has predominantly:",
+   "opts": [
+    "Musculoskeletal manifestations",
+    "Cardiac manifestations",
+    "Hepatic manifestations",
+    "Renal manifestations"
+   ],
+   "ans": 0,
+   "exp": "RA: predominantly musculoskeletal manifestations. (Book p193)"
+  },
+  {
+   "id": "ORTHO-C24-065",
+   "sec": "Rheumatoid Arthritis",
+   "page": 193,
+   "q": "RA is an:",
+   "opts": [
+    "Erosive type of arthritis → destroys joint",
+    "Non-erosive arthritis",
+    "Crystal deposition disease",
+    "Spondyloarthropathy only"
+   ],
+   "ans": 0,
+   "exp": "RA: erosive type of arthritis → destroys joint. (Book p193)"
+  },
+  {
+   "id": "ORTHO-C24-066",
+   "sec": "Rheumatoid Arthritis",
+   "page": 193,
+   "q": "Sex predilection in RA is:",
+   "opts": [
+    "Females > males",
+    "Males > females",
+    "Equal",
+    "Males only"
+   ],
+   "ans": 0,
+   "exp": "RA: females > males. (Book p193)"
+  },
+  {
+   "id": "ORTHO-C24-067",
+   "sec": "Rheumatoid Arthritis",
+   "page": 193,
+   "q": "Joint involvement in RA is:",
+   "opts": [
+    "Symmetrical (B/L involvement) peripheral joint involvement",
+    "Asymmetric single joint",
+    "Axial only",
+    "DIP only"
+   ],
+   "ans": 0,
+   "exp": "RA: symmetrical (B/L involvement) peripheral joint involvement. (Book p193)"
+  },
+  {
+   "id": "ORTHO-C24-068",
+   "sec": "Rheumatoid Arthritis",
+   "page": 193,
+   "q": "Hand involvement in RA is:",
+   "opts": [
+    "MCP > wrist, PIP",
+    "DIP > MCP",
+    "Wrist only",
+    "1st carpometacarpal joint only"
+   ],
+   "ans": 0,
+   "exp": "RA joints involved: hand - MCP > wrist, PIP. (Book p193)"
+  },
+  {
+   "id": "ORTHO-C24-069",
+   "sec": "Rheumatoid Arthritis",
+   "page": 193,
+   "q": "RA also involves:",
+   "opts": [
+    "Knee and hip",
+    "Only the hand",
+    "Only the wrist",
+    "Only the cervical spine"
+   ],
+   "ans": 0,
+   "exp": "RA joints involved: knee and hip. (Book p193)"
+  },
+  {
+   "id": "ORTHO-C24-070",
+   "sec": "Rheumatoid Arthritis",
+   "page": 193,
+   "q": "Axial involvement in RA is:",
+   "opts": [
+    "Rare (may involve cervical spine)",
+    "Common",
+    "Always present",
+    "Never seen"
+   ],
+   "ans": 0,
+   "exp": "RA: axial is rare (may involve cervical spine). (Book p193)"
+  },
+  {
+   "id": "ORTHO-C24-071",
+   "sec": "Rheumatoid Arthritis",
+   "page": 193,
+   "q": "RA spares:",
+   "opts": [
+    "DIP",
+    "MCP",
+    "Wrist",
+    "PIP"
+   ],
+   "ans": 0,
+   "exp": "RA spares: DIP. (Book p193)"
+  },
+  {
+   "id": "ORTHO-C24-072",
+   "sec": "Rheumatoid Arthritis",
+   "page": 193,
+   "q": "Only non-erosive inflammatory arthritis is:",
+   "opts": [
+    "SLE",
+    "RA",
+    "AS",
+    "Psoriatic arthritis"
+   ],
+   "ans": 0,
+   "exp": "Note: only non-erosive inflammatory arthritis is SLE. (Book p193)"
+  },
+  {
+   "id": "ORTHO-C24-073",
+   "sec": "PATHOLOGY",
+   "page": 193,
+   "q": "Pathogenesis of RA begins with:",
+   "opts": [
+    "Autoimmune disease (antigen/antibody reaction)",
+    "Crystal deposition",
+    "Infection",
+    "Trauma"
+   ],
+   "ans": 0,
+   "exp": "Pathogenesis: autoimmune disease (antigen/antibody reaction). (Book p193)"
+  },
+  {
+   "id": "ORTHO-C24-074",
+   "sec": "PATHOLOGY",
+   "page": 193,
+   "q": "RA pathogenesis continues with:",
+   "opts": [
+    "Inflammation & destruction of synovium",
+    "Cartilage regeneration",
+    "Bone formation",
+    "Loose body formation"
+   ],
+   "ans": 0,
+   "exp": "Pathogenesis: inflammation & destruction of synovium. (Book p193)"
+  },
+  {
+   "id": "ORTHO-C24-075",
+   "sec": "PATHOLOGY",
+   "page": 193,
+   "q": "Erosion in RA progresses:",
+   "opts": [
+    "From periphery to centre",
+    "From centre to periphery",
+    "Only at the margins",
+    "Only in the synovium"
+   ],
+   "ans": 0,
+   "exp": "Pathogenesis: erosion from periphery to centre. (Book p193)"
+  },
+  {
+   "id": "ORTHO-C24-076",
+   "sec": "PATHOLOGY",
+   "page": 193,
+   "q": "RA pathogenesis includes:",
+   "opts": [
+    "Pannus formation and joint destruction",
+    "Osteophyte formation",
+    "Subchondral sclerosis",
+    "Chondrocalcinosis"
+   ],
+   "ans": 0,
+   "exp": "Pathogenesis: pannus formation and joint destruction. (Book p193)"
+  },
+  {
+   "id": "ORTHO-C24-077",
+   "sec": "PATHOLOGY",
+   "page": 193,
+   "q": "RA pathogenesis ends with:",
+   "opts": [
+    "Subluxation",
+    "Ankylosis",
+    "Fusion",
+    "Bony bar formation"
+   ],
+   "ans": 0,
+   "exp": "Pathogenesis ends with subluxation. (Book p193)"
+  },
+  {
+   "id": "ORTHO-C24-078",
+   "sec": "INVESTIGATIONS",
+   "page": 194,
+   "q": "Multisystem association of RA includes:",
+   "opts": [
+    "↓ life expectancy",
+    "↑ life expectancy",
+    "No effect on survival",
+    "Shorter sleep only"
+   ],
+   "ans": 0,
+   "exp": "Multisystem associations: ↓ life expectancy. (Book p194)"
+  },
+  {
+   "id": "ORTHO-C24-079",
+   "sec": "INVESTIGATIONS",
+   "page": 194,
+   "q": "Multisystem association of RA includes:",
+   "opts": [
+    "Carditis",
+    "Retinal detachment",
+    "Cataract",
+    "Aphasia"
+   ],
+   "ans": 0,
+   "exp": "Multisystem associations: carditis. (Book p194)"
+  },
+  {
+   "id": "ORTHO-C24-080",
+   "sec": "INVESTIGATIONS",
+   "page": 194,
+   "q": "Multisystem association of RA includes:",
+   "opts": [
+    "Pleuritis",
+    "Pericarditis only",
+    "Endocarditis only",
+    "Aortic regurgitation only"
+   ],
+   "ans": 0,
+   "exp": "Multisystem associations: pleuritis. (Book p194)"
+  },
+  {
+   "id": "ORTHO-C24-081",
+   "sec": "INVESTIGATIONS",
+   "page": 194,
+   "q": "Multisystem association of RA includes:",
+   "opts": [
+    "Caplan syndrome",
+    "Felty syndrome only",
+    "Addison's disease",
+    "Diabetes mellitus"
+   ],
+   "ans": 0,
+   "exp": "Multisystem associations: Caplan syndrome. (Book p194)"
+  },
+  {
+   "id": "ORTHO-C24-082",
+   "sec": "INVESTIGATIONS",
+   "page": 194,
+   "q": "Multisystem association of RA includes:",
+   "opts": [
+    "Felty syndrome",
+    "Caplan syndrome only",
+    "Addison's disease",
+    "Hypothyroidism"
+   ],
+   "ans": 0,
+   "exp": "Multisystem associations: Felty syndrome. (Book p194)"
+  },
+  {
+   "id": "ORTHO-C24-083",
+   "sec": "INVESTIGATIONS",
+   "page": 194,
+   "q": "Diagnosis of RA shows:",
+   "opts": [
+    "↑ ESR, ↑ CRP",
+    "↓ ESR, ↓ CRP",
+    "Normal ESR & CRP",
+    "Only ↑ uric acid"
+   ],
+   "ans": 0,
+   "exp": "Diagnosis: ↑ ESR, ↑ CRP. (Book p194)"
+  },
+  {
+   "id": "ORTHO-C24-084",
+   "sec": "INVESTIGATIONS",
+   "page": 194,
+   "q": "m/c sensitive marker in RA is:",
+   "opts": [
+    "Rheumatoid factor",
+    "Anti-CCP",
+    "ANA",
+    "HLA-B27"
+   ],
+   "ans": 0,
+   "exp": "Rheumatoid factor: most sensitive marker. (Book p194)"
+  },
+  {
+   "id": "ORTHO-C24-085",
+   "sec": "INVESTIGATIONS",
+   "page": 194,
+   "q": "Rheumatoid factor is:",
+   "opts": [
+    "IgM antibody against Fc portion of IgG Ab",
+    "IgG antibody against Fc portion of IgM Ab",
+    "IgA antibody",
+    "Complement protein"
+   ],
+   "ans": 0,
+   "exp": "Rheumatoid factor: IgM antibody against Fc portion of IgG Ab. (Book p194)"
+  },
+  {
+   "id": "ORTHO-C24-086",
+   "sec": "INVESTIGATIONS",
+   "page": 194,
+   "q": "Most specific marker in RA is:",
+   "opts": [
+    "Anti cyclic citrullinated peptide (Anti-CCP)",
+    "Rheumatoid factor",
+    "ESR",
+    "CRP"
+   ],
+   "ans": 0,
+   "exp": "Anti cyclic citrullinated peptide (Anti-CCP): most specific. (Book p194)"
+  },
+  {
+   "id": "ORTHO-C24-087",
+   "sec": "X-ray features",
+   "page": 194,
+   "q": "X-ray feature of RA is:",
+   "opts": [
+    "Narrowing of joint space",
+    "Widening of joint space",
+    "Osteophytes",
+    "Subchondral sclerosis"
+   ],
+   "ans": 0,
+   "exp": "X-ray features: 1. narrowing of joint space. (Book p194)"
+  },
+  {
+   "id": "ORTHO-C24-088",
+   "sec": "X-ray features",
+   "page": 194,
+   "q": "X-ray feature of RA is:",
+   "opts": [
+    "Osteoporosis (↓ bone density) and hyperemia",
+    "Sclerosis",
+    "Osteophytes",
+    "Loose bodies"
+   ],
+   "ans": 0,
+   "exp": "X-ray features: 2. osteoporosis (↓ bone density) and hyperemia. (Book p194)"
+  },
+  {
+   "id": "ORTHO-C24-089",
+   "sec": "X-ray features",
+   "page": 194,
+   "q": "In RA, osteoporosis and hyperemia are:",
+   "opts": [
+    "D/t inflammation of joint; initially juxta articular, later generalized",
+    "D/t infection",
+    "D/t trauma",
+    "D/t tumour"
+   ],
+   "ans": 0,
+   "exp": "Osteoporosis & hyperemia: d/t inflammation of joint - initially juxta articular, later generalized. (Book p194)"
+  },
+  {
+   "id": "ORTHO-C24-090",
+   "sec": "X-ray features",
+   "page": 194,
+   "q": "X-ray feature of RA is:",
+   "opts": [
+    "Marginal erosion",
+    "Central erosion",
+    "Osteophyte formation",
+    "Subchondral sclerosis"
+   ],
+   "ans": 0,
+   "exp": "X-ray features: 3. marginal erosion. (Book p194)"
+  },
+  {
+   "id": "ORTHO-C24-091",
+   "sec": "X-ray features",
+   "page": 194,
+   "q": "X-ray of RA shows:",
+   "opts": [
+    "No sclerosis, no osteophytes",
+    "Marked sclerosis and osteophytes",
+    "Sclerosis only",
+    "Osteophytes only"
+   ],
+   "ans": 0,
+   "exp": "X-ray features: 4. no sclerosis, no osteophytes. (Book p194)"
+  },
+  {
+   "id": "ORTHO-C24-092",
+   "sec": "X-ray features",
+   "page": 194,
+   "q": "Difference between OA and RA on X-ray is:",
+   "opts": [
+    "RA: hyperemia + osteoporosis; OA: sclerosis",
+    "RA: sclerosis; OA: hyperemia + osteoporosis",
+    "Both show identical changes",
+    "RA: osteophytes; OA: erosions"
+   ],
+   "ans": 0,
+   "exp": "Difference b/w OA and RA: RA shows hyperemia + osteoporosis, OA shows sclerosis. (Book p194)"
+  },
+  {
+   "id": "ORTHO-C24-093",
+   "sec": "X-ray features",
+   "page": 194,
+   "q": "De Quervain's synovitis is tenosynovitis of:",
+   "opts": [
+    "Abductor pollicis longus and extensor pollicis brevis",
+    "Flexor carpi radialis",
+    "Palmaris longus only",
+    "Ulnar deviators"
+   ],
+   "ans": 0,
+   "exp": "De Quervain's synovitis: tenosynovitis of abductor pollicis longus and extensor pollicis brevis. (Book p194)"
+  },
+  {
+   "id": "ORTHO-C24-094",
+   "sec": "DEFORMITIES IN RA",
+   "page": 195,
+   "q": "Hand deformity in RA is:",
+   "opts": [
+    "Ulnar deviation of fingers",
+    "Radial deviation of fingers",
+    "Flexion of MCP only",
+    "Extension of DIP only"
+   ],
+   "ans": 0,
+   "exp": "RA hand: ulnar deviation of fingers. (Book p195)"
+  },
+  {
+   "id": "ORTHO-C24-095",
+   "sec": "DEFORMITIES IN RA",
+   "page": 195,
+   "q": "Hand deformity in RA is:",
+   "opts": [
+    "Radial deviation of metacarpals",
+    "Ulnar deviation of metacarpals",
+    "Flexion of metacarpals",
+    "Adduction of thumb only"
+   ],
+   "ans": 0,
+   "exp": "RA hand: radial deviation of metacarpals. (Book p195)"
+  },
+  {
+   "id": "ORTHO-C24-096",
+   "sec": "DEFORMITIES IN RA",
+   "page": 195,
+   "q": "Boutonniere deformity is:",
+   "opts": [
+    "Flexion of PIP & compensatory extension of DIP",
+    "Extension of PIP & compensatory flexion of DIP",
+    "Flexion of MCP & extension of PIP",
+    "DIP flexion only"
+   ],
+   "ans": 0,
+   "exp": "Boutonniere deformity: flexion of PIP & compensatory extension of DIP. (Book p195)"
+  },
+  {
+   "id": "ORTHO-C24-097",
+   "sec": "DEFORMITIES IN RA",
+   "page": 195,
+   "q": "Swan neck deformity is:",
+   "opts": [
+    "Extension of PIP & compensatory flexion of DIP",
+    "Flexion of PIP & compensatory extension of DIP",
+    "MCP flexion only",
+    "DIP extension only"
+   ],
+   "ans": 0,
+   "exp": "Swan neck deformity: extension of PIP & compensatory flexion of DIP. (Book p195)"
+  },
+  {
+   "id": "ORTHO-C24-098",
+   "sec": "DEFORMITIES IN RA",
+   "page": 195,
+   "q": "In mallet finger:",
+   "opts": [
+    "Only injured finger is affected (DIP flexed)",
+    "All fingers are affected",
+    "MCP is flexed",
+    "PIP is extended"
+   ],
+   "ans": 0,
+   "exp": "Note: in mallet finger, only injured finger is affected (DIP flexed). (Book p195)"
+  },
+  {
+   "id": "ORTHO-C24-099",
+   "sec": "DEFORMITIES IN RA",
+   "page": 195,
+   "q": "Knee deformity in RA is:",
+   "opts": [
+    "B/L genu valgum",
+    "B/L genu varum",
+    "Tibial torsion",
+    "Leg lengthening"
+   ],
+   "ans": 0,
+   "exp": "RA knee: B/L genu valgum. (Book p195)"
+  },
+  {
+   "id": "ORTHO-C24-100",
+   "sec": "DEFORMITIES IN RA",
+   "page": 195,
+   "q": "Knee deformity in RA is:",
+   "opts": [
+    "Wind swept deformity",
+    "Genu varum only",
+    "Tibial torsion",
+    "Patellar subluxation only"
+   ],
+   "ans": 0,
+   "exp": "RA knee: wind swept deformity. (Book p195)"
+  },
+  {
+   "id": "ORTHO-C24-101",
+   "sec": "DEFORMITIES IN RA",
+   "page": 195,
+   "q": "Cause of genu valgum is:",
+   "opts": [
+    "Rickets > RA in children; RA in elderly",
+    "RA in children > rickets",
+    "TB in children",
+    "Osteoarthritis in children"
+   ],
+   "ans": 0,
+   "exp": "Cause of genu valgum: rickets > RA in children; RA in elderly. (Book p195)"
+  },
+  {
+   "id": "ORTHO-C24-102",
+   "sec": "DEFORMITIES IN RA",
+   "page": 195,
+   "q": "Knee deformity in RA is:",
+   "opts": [
+    "Triple deformity",
+    "Double deformity",
+    "Single joint deformity",
+    "Leg length deformity"
+   ],
+   "ans": 0,
+   "exp": "RA knee: triple deformity. (Book p195)"
+  },
+  {
+   "id": "ORTHO-C24-103",
+   "sec": "DEFORMITIES IN RA",
+   "page": 195,
+   "q": "Ulnar nerve palsy leads to:",
+   "opts": [
+    "Claw hand",
+    "Wrist drop",
+    "Foot drop",
+    "Thumb drop"
+   ],
+   "ans": 0,
+   "exp": "Note: ulnar nerve palsy → claw hand. (Book p195)"
+  },
+  {
+   "id": "ORTHO-C24-104",
+   "sec": "DEFORMITIES IN RA",
+   "page": 195,
+   "q": "Foot deformity in RA is:",
+   "opts": [
+    "Hammer toes",
+    "Cavus foot",
+    "Flat foot only",
+    "Club foot"
+   ],
+   "ans": 0,
+   "exp": "RA foot: hammer toes. (Book p195)"
+  },
+  {
+   "id": "ORTHO-C24-105",
+   "sec": "DEFORMITIES IN RA",
+   "page": 195,
+   "q": "Foot deformity in RA is:",
+   "opts": [
+    "Hallux valgus",
+    "Hallux rigidus only",
+    "Cavus foot",
+    "Talipes"
+   ],
+   "ans": 0,
+   "exp": "RA foot: hallux valgus. (Book p195)"
+  },
+  {
+   "id": "ORTHO-C24-106",
+   "sec": "MANAGEMENT",
+   "page": 195,
+   "q": "Physiotherapy in RA:",
+   "opts": [
+    "Preserves and improves joint function",
+    "Worsens joint function",
+    "Replaces surgery only",
+    "Is contraindicated"
+   ],
+   "ans": 0,
+   "exp": "Management 1: physiotherapy - preserves and improves joint function. (Book p195)"
+  },
+  {
+   "id": "ORTHO-C24-107",
+   "sec": "MANAGEMENT",
+   "page": 195,
+   "q": "DOC for RA is:",
+   "opts": [
+    "Methotrexate",
+    "Aspirin",
+    "Colchicine",
+    "Hyaluronic acid"
+   ],
+   "ans": 0,
+   "exp": "Management 2: methotrexate - DOC. (Book p195)"
+  },
+  {
+   "id": "ORTHO-C24-108",
+   "sec": "MANAGEMENT",
+   "page": 195,
+   "q": "DMARD in RA: leflunomide is a:",
+   "opts": [
+    "Immunosuppressant",
+    "TNF-α inhibitor",
+    "IL-1 antagonist",
+    "Anti-CD20 antibody"
+   ],
+   "ans": 0,
+   "exp": "DMARD's: leflunomide - immunosuppressant. (Book p195)"
+  },
+  {
+   "id": "ORTHO-C24-109",
+   "sec": "MANAGEMENT",
+   "page": 195,
+   "q": "Infliximab/Adalimumab in RA are:",
+   "opts": [
+    "TNF-α inhibitors",
+    "IL-1 receptor antagonists",
+    "Anti-CD20 antibodies",
+    "Immunosuppressants only"
+   ],
+   "ans": 0,
+   "exp": "DMARD's: infliximab/Adalimumab - TNF-α inhibitors. (Book p195)"
+  },
+  {
+   "id": "ORTHO-C24-110",
+   "sec": "MANAGEMENT",
+   "page": 195,
+   "q": "Anakinra in RA is:",
+   "opts": [
+    "IL-1 receptor antagonist",
+    "TNF-α inhibitor",
+    "Anti-CD20 antibody",
+    "Immunosuppressant only"
+   ],
+   "ans": 0,
+   "exp": "DMARD's: anakinra - IL-1 receptor antagonist. (Book p195)"
+  },
+  {
+   "id": "ORTHO-C24-111",
+   "sec": "MANAGEMENT",
+   "page": 195,
+   "q": "Rituximab in RA is:",
+   "opts": [
+    "Anti CD20 antibody",
+    "TNF-α inhibitor",
+    "IL-1 receptor antagonist",
+    "Immunosuppressant only"
+   ],
+   "ans": 0,
+   "exp": "DMARD's: rituximab - anti CD20 antibody. (Book p195)"
+  },
+  {
+   "id": "ORTHO-C24-112",
+   "sec": "MANAGEMENT",
+   "page": 195,
+   "q": "Synovectomy in RA is:",
+   "opts": [
+    "Removal of inflamed synovium",
+    "Removal of the joint",
+    "Fusion of the joint",
+    "Ligament repair"
+   ],
+   "ans": 0,
+   "exp": "Surgical: synovectomy - removal of inflamed synovium. (Book p195)"
+  },
+  {
+   "id": "ORTHO-C24-113",
+   "sec": "MANAGEMENT",
+   "page": 195,
+   "q": "Surgical management of RA includes:",
+   "opts": [
+    "Joint replacement surgery and deformity corrections",
+    "Amputation only",
+    "Traction only",
+    "Injections only"
+   ],
+   "ans": 0,
+   "exp": "Surgical: joint replacement surgery, deformity corrections. (Book p195)"
+  },
+  {
+   "id": "ORTHO-C24-114",
+   "sec": "Spondyloarthropathies",
+   "page": 196,
+   "q": "Spondyloarthropathies are:",
+   "opts": [
+    "Inflammatory disease processes involving spine and joints",
+    "Infective disease processes",
+    "Metabolic bone diseases",
+    "Only spinal cord diseases"
+   ],
+   "ans": 0,
+   "exp": "Spondyloarthropathies: inflammatory disease processes involving spine and joints. (Book p196)"
+  },
+  {
+   "id": "ORTHO-C24-115",
+   "sec": "Spondyloarthropathies",
+   "page": 196,
+   "q": "Conditions under spondyloarthropathies include all EXCEPT:",
+   "opts": [
+    "Ankylosing spondylitis (m/c), psoriatic arthritis, enteropathic arthritis, reactive arthritis",
+    "Gout",
+    "Pseudogout",
+    "Charcot joint"
+   ],
+   "ans": 0,
+   "exp": "Conditions: 1. ankylosing spondylitis (m/c), 2. psoriatic arthritis, 3. enteropathic arthritis, 4. reactive arthritis. (Book p196)"
+  },
+  {
+   "id": "ORTHO-C24-116",
+   "sec": "Spondyloarthropathies",
+   "page": 196,
+   "q": "Enteropathic arthritis is associated with:",
+   "opts": [
+    "Inflammatory bowel disease (Crohn's, ulcerative colitis)",
+    "Diabetes mellitus",
+    "Hypertension",
+    "Asthma"
+   ],
+   "ans": 0,
+   "exp": "Enteropathic arthritis: inflammatory bowel disease (Crohn's, ulcerative colitis). (Book p196)"
+  },
+  {
+   "id": "ORTHO-C24-117",
+   "sec": "Spondyloarthropathies",
+   "page": 196,
+   "q": "Reactive arthritis is associated with:",
+   "opts": [
+    "Shigella, chlamydia",
+    "Staphylococcus only",
+    "Mycobacterium TB",
+    "Fungi only"
+   ],
+   "ans": 0,
+   "exp": "Reactive arthritis: Shigella, chlamydia. (Book p196)"
+  },
+  {
+   "id": "ORTHO-C24-118",
+   "sec": "Spondyloarthropathies",
+   "page": 196,
+   "q": "Spondyloarthropathies are:",
+   "opts": [
+    "Seronegative (RF -ve)",
+    "RF positive",
+    "ANA positive",
+    "HLA negative only"
+   ],
+   "ans": 0,
+   "exp": "Features: they are seronegative (RF -ve). (Book p196)"
+  },
+  {
+   "id": "ORTHO-C24-119",
+   "sec": "Spondyloarthropathies",
+   "page": 196,
+   "q": "RA is:",
+   "opts": [
+    "RF positive",
+    "RF negative",
+    "ANA positive only",
+    "HLA-B27 positive only"
+   ],
+   "ans": 0,
+   "exp": "Note: RA is a/w sclerosis (RF positive, unlike spondyloarthropathies). (Book p196)"
+  },
+  {
+   "id": "ORTHO-C24-120",
+   "sec": "Spondyloarthropathies",
+   "page": 196,
+   "q": "Spondyloarthropathies typically affect:",
+   "opts": [
+    "Young males > females",
+    "Elderly females",
+    "Children only",
+    "Middle-aged females"
+   ],
+   "ans": 0,
+   "exp": "Features: young males > females. (Book p196)"
+  },
+  {
+   "id": "ORTHO-C24-121",
+   "sec": "Spondyloarthropathies",
+   "page": 196,
+   "q": "Marker in spondyloarthropathies is:",
+   "opts": [
+    "HLA B27 positive",
+    "HLA-DR positive",
+    "ANA positive",
+    "RF positive"
+   ],
+   "ans": 0,
+   "exp": "Features: HLA B27 positive. (Book p196)"
+  },
+  {
+   "id": "ORTHO-C24-122",
+   "sec": "Spondyloarthropathies",
+   "page": 196,
+   "q": "Association of spondyloarthropathies is:",
+   "opts": [
+    "A/w uveitis",
+    "Cataract",
+    "Retinal detachment",
+    "Glaucoma"
+   ],
+   "ans": 0,
+   "exp": "Features: a/w uveitis. (Book p196)"
+  },
+  {
+   "id": "ORTHO-C24-123",
+   "sec": "ANKYLOSING SPONDYLITIS",
+   "page": 196,
+   "q": "Ankylosing spondylitis is also known as:",
+   "opts": [
+    "Marie Strumpell disease / Bechterew's disease",
+    "Marrow disease",
+    "Madelung disease",
+    "Morquio disease"
+   ],
+   "ans": 0,
+   "exp": "Ankylosing spondylitis: a.k.a. Marie Strumpell disease / Bechterew's disease. (Book p196)"
+  },
+  {
+   "id": "ORTHO-C24-124",
+   "sec": "ANKYLOSING SPONDYLITIS",
+   "page": 196,
+   "q": "Sex predilection in ankylosing spondylitis is:",
+   "opts": [
+    "Males > females",
+    "Females > males",
+    "Equal",
+    "Males only"
+   ],
+   "ans": 0,
+   "exp": "AS general features: males > females. (Book p196)"
+  },
+  {
+   "id": "ORTHO-C24-125",
+   "sec": "ANKYLOSING SPONDYLITIS",
+   "page": 196,
+   "q": "Joint involvement in AS is:",
+   "opts": [
+    "Axial > peripheral",
+    "Peripheral > axial",
+    "Axial only",
+    "Peripheral only"
+   ],
+   "ans": 0,
+   "exp": "AS: joint involvement axial > peripheral. (Book p196)"
+  },
+  {
+   "id": "ORTHO-C24-126",
+   "sec": "ANKYLOSING SPONDYLITIS",
+   "page": 196,
+   "q": "Joints involved in AS include:",
+   "opts": [
+    "Sacroiliac joint (m/c), spine, hip",
+    "MCP, wrist, PIP",
+    "Knee and ankle only",
+    "Shoulder only"
+   ],
+   "ans": 0,
+   "exp": "AS involves: sacroiliac joint (m/c), spine, hip. (Book p196)"
+  },
+  {
+   "id": "ORTHO-C24-127",
+   "sec": "ANKYLOSING SPONDYLITIS",
+   "page": 196,
+   "q": "Clinical feature of AS is:",
+   "opts": [
+    "Pain at gluteal region/back (sacroiliitis)",
+    "Pain at MCP joints",
+    "Pain at knee only",
+    "Chest pain only"
+   ],
+   "ans": 0,
+   "exp": "AS clinical features: pain at gluteal region/back (sacroiliitis). (Book p196)"
+  },
+  {
+   "id": "ORTHO-C24-128",
+   "sec": "ANKYLOSING SPONDYLITIS",
+   "page": 196,
+   "q": "Morning stiffness in AS:",
+   "opts": [
+    "Improving with activity",
+    "Worsening with activity",
+    "Unaffected by activity",
+    "Present only at night"
+   ],
+   "ans": 0,
+   "exp": "AS: morning stiffness improving with activity. (Book p196)"
+  },
+  {
+   "id": "ORTHO-C24-129",
+   "sec": "ANKYLOSING SPONDYLITIS",
+   "page": 196,
+   "q": "Clinical feature of AS is:",
+   "opts": [
+    "Decreased lumbar spine movement",
+    "Increased lumbar spine movement",
+    "Normal lumbar movement",
+    "Lumbar lordosis only"
+   ],
+   "ans": 0,
+   "exp": "AS: decreased lumbar spine movement. (Book p196)"
+  },
+  {
+   "id": "ORTHO-C24-130",
+   "sec": "ANKYLOSING SPONDYLITIS",
+   "page": 196,
+   "q": "In AS, chest expansion is decreased d/t:",
+   "opts": [
+    "Fusion of ribs with the spine",
+    "Costochondral inflammation",
+    "Rib fracture",
+    "Pleural effusion"
+   ],
+   "ans": 0,
+   "exp": "AS: ↓ chest expansion (d/t fusion of ribs with the spine). (Book p196)"
+  },
+  {
+   "id": "ORTHO-C24-131",
+   "sec": "ANKYLOSING SPONDYLITIS",
+   "page": 196,
+   "q": "Clinical feature of AS is:",
+   "opts": [
+    "Anterior uveitis",
+    "Posterior uveitis",
+    "Cataract",
+    "Glaucoma"
+   ],
+   "ans": 0,
+   "exp": "AS: anterior uveitis. (Book p196)"
+  },
+  {
+   "id": "ORTHO-C24-132",
+   "sec": "ANKYLOSING SPONDYLITIS",
+   "page": 196,
+   "q": "Enthesis is:",
+   "opts": [
+    "Site of insertion of ligaments & tendons on bone",
+    "Site of cartilage damage",
+    "Site of nerve insertion",
+    "Site of blood vessel entry"
+   ],
+   "ans": 0,
+   "exp": "Enthesopathy (enthesis: site of insertion of ligaments & tendons on bone). (Book p196)"
+  },
+  {
+   "id": "ORTHO-C24-133",
+   "sec": "ANKYLOSING SPONDYLITIS",
+   "page": 196,
+   "q": "Pathogenesis of AS is:",
+   "opts": [
+    "Enthesitis → erosion → abnormal regeneration & calcification → restriction of joint movement",
+    "Synovitis → pannus → erosion",
+    "Crystal deposition → inflammation",
+    "Nerve damage → destruction"
+   ],
+   "ans": 0,
+   "exp": "Pathogenesis: enthesitis → erosion → abnormal regeneration & calcification → restriction of joint movement. (Book p196)"
+  },
+  {
+   "id": "ORTHO-C24-134",
+   "sec": "ANKYLOSING SPONDYLITIS",
+   "page": 196,
+   "q": "1st X-ray feature of AS is:",
+   "opts": [
+    "Sacroiliitis: sclerosis and ankylosis (fusion) of sacroiliac joint",
+    "Bamboo spine",
+    "Dagger sign",
+    "Trolley track sign"
+   ],
+   "ans": 0,
+   "exp": "X-ray features: 1. sacroiliitis - sclerosis and ankylosis (fusion) of sacroiliac joint. (Book p196)"
+  },
+  {
+   "id": "ORTHO-C24-135",
+   "sec": "X-ray features",
+   "page": 197,
+   "q": "Bamboo spine in AS shows:",
+   "opts": [
+    "Fusion and squaring of spine",
+    "Widening of vertebral bodies",
+    "Spongy bone only",
+    "Disc bulging"
+   ],
+   "ans": 0,
+   "exp": "Bamboo spine: fusion and squaring of spine. (Book p197)"
+  },
+  {
+   "id": "ORTHO-C24-136",
+   "sec": "X-ray features",
+   "page": 197,
+   "q": "Bamboo spine in AS shows:",
+   "opts": [
+    "Calcification b/w vertebrae",
+    "No calcification",
+    "Only disc loss",
+    "Only osteopenia"
+   ],
+   "ans": 0,
+   "exp": "Bamboo spine: calcification b/w vertebrae. (Book p197)"
+  },
+  {
+   "id": "ORTHO-C24-137",
+   "sec": "X-ray features",
+   "page": 197,
+   "q": "Sequence leading to bamboo spine is:",
+   "opts": [
+    "Inflammation of ligaments & joints → formation of syndesmophytes (loss of normal curvature) → fusion with bridging syndesmophytes",
+    "Osteophytes → loose bodies",
+    "Pannus → subluxation",
+    "Cyst → necrosis"
+   ],
+   "ans": 0,
+   "exp": "Bamboo spine sequence: inflammation of ligaments & joints → formation of syndesmophytes → fusion (bridging syndesmophytes). (Book p197)"
+  },
+  {
+   "id": "ORTHO-C24-138",
+   "sec": "X-ray features",
+   "page": 197,
+   "q": "Dagger sign in AS is:",
+   "opts": [
+    "Calcification of interspinous ligament",
+    "Calcification of paraspinal ligaments",
+    "Fusion of SI joint",
+    "Squaring of vertebrae"
+   ],
+   "ans": 0,
+   "exp": "Dagger sign: calcification of interspinous ligament. (Book p197)"
+  },
+  {
+   "id": "ORTHO-C24-139",
+   "sec": "X-ray features",
+   "page": 197,
+   "q": "Trolley track sign in AS is:",
+   "opts": [
+    "Calcification of paraspinal ligaments & interspinous ligaments",
+    "Ossification of ALL",
+    "Ossification of PLL",
+    "Disc calcification"
+   ],
+   "ans": 0,
+   "exp": "Trolley track sign: calcification of paraspinal ligaments & interspinous ligaments. (Book p197)"
+  },
+  {
+   "id": "ORTHO-C24-140",
+   "sec": "Diagnostic criteria",
+   "page": 197,
+   "q": "Essential diagnostic criterion for AS is:",
+   "opts": [
+    "Sacroiliitis",
+    "Bamboo spine",
+    "Uveitis",
+    "HLA-B27 positivity"
+   ],
+   "ans": 0,
+   "exp": "Diagnostic criteria: 1. essential criteria - sacroiliitis. (Book p197)"
+  },
+  {
+   "id": "ORTHO-C24-141",
+   "sec": "Diagnostic criteria",
+   "page": 197,
+   "q": "IOC for sacroiliitis in AS is:",
+   "opts": [
+    "MRI (most sensitive; earliest changes seen)",
+    "Plain X-ray",
+    "CT scan",
+    "Bone scan"
+   ],
+   "ans": 0,
+   "exp": "MRI (IOC): most sensitive - earliest changes seen. (Book p197)"
+  },
+  {
+   "id": "ORTHO-C24-142",
+   "sec": "Diagnostic criteria",
+   "page": 197,
+   "q": "In AS sacroiliitis, inflammation is:",
+   "opts": [
+    "Iliac > sacral side",
+    "Sacral > iliac side",
+    "Equal on both sides",
+    "Absent"
+   ],
+   "ans": 0,
+   "exp": "Inflammation of iliac > sacral side. (Book p197)"
+  },
+  {
+   "id": "ORTHO-C24-143",
+   "sec": "Diagnostic criteria",
+   "page": 197,
+   "q": "Supportive criterion for AS is:",
+   "opts": [
+    "↓ lumbar spine movement",
+    "↑ lumbar spine movement",
+    "Normal chest expansion",
+    "No morning stiffness"
+   ],
+   "ans": 0,
+   "exp": "Supportive criteria: ↓ lumbar spine movement. (Book p197)"
+  },
+  {
+   "id": "ORTHO-C24-144",
+   "sec": "Diagnostic criteria",
+   "page": 197,
+   "q": "Supportive criterion for AS is:",
+   "opts": [
+    "↓ chest expansion",
+    "↑ chest expansion",
+    "Normal chest movement",
+    "No back pain"
+   ],
+   "ans": 0,
+   "exp": "Supportive criteria: ↓ chest expansion. (Book p197)"
+  },
+  {
+   "id": "ORTHO-C24-145",
+   "sec": "Diagnostic criteria",
+   "page": 197,
+   "q": "Supportive criterion for AS is:",
+   "opts": [
+    "Inflammatory back pain & morning stiffness",
+    "Mechanical back pain",
+    "No stiffness",
+    "Pain relieved by rest"
+   ],
+   "ans": 0,
+   "exp": "Supportive criteria: inflammatory back pain & morning stiffness. (Book p197)"
+  },
+  {
+   "id": "ORTHO-C24-146",
+   "sec": "Clinical tests",
+   "page": 197,
+   "q": "Clinical test in AS is:",
+   "opts": [
+    "↓ chest movement (measure chest expansion)",
+    "Chest movement increased",
+    "Normal chest expansion",
+    "Cough test"
+   ],
+   "ans": 0,
+   "exp": "Clinical tests: ↓ chest movement (measure chest expansion). (Book p197)"
+  },
+  {
+   "id": "ORTHO-C24-147",
+   "sec": "Clinical tests",
+   "page": 197,
+   "q": "Clinical test for sacroiliitis is:",
+   "opts": [
+    "Gaenslen's test",
+    "SLRT",
+    "Finkelstein's test",
+    "Haman's test"
+   ],
+   "ans": 0,
+   "exp": "For sacroiliitis: Gaenslen's test. (Book p197)"
+  },
+  {
+   "id": "ORTHO-C24-148",
+   "sec": "Clinical tests",
+   "page": 197,
+   "q": "Clinical test for sacroiliitis is:",
+   "opts": [
+    "FABER test / figure of 4 test",
+    "SLRT",
+    "Thomas' test",
+    "Trendelenburg test"
+   ],
+   "ans": 0,
+   "exp": "For sacroiliitis: FABER test / figure of 4 test. (Book p197)"
+  },
+  {
+   "id": "ORTHO-C24-149",
+   "sec": "Clinical tests",
+   "page": 197,
+   "q": "Clinical test for sacroiliitis is:",
+   "opts": [
+    "Pump handle test",
+    "Gaenslen's test only",
+    "Dial test",
+    "Pulse test"
+   ],
+   "ans": 0,
+   "exp": "For sacroiliitis: pump handle test. (Book p197)"
+  },
+  {
+   "id": "ORTHO-C24-150",
+   "sec": "Clinical tests",
+   "page": 197,
+   "q": "Testing lumbar spine mobility is done by:",
+   "opts": [
+    "Schober / modified Schober test",
+    "SLRT",
+    "FABER test",
+    "Pump handle test"
+   ],
+   "ans": 0,
+   "exp": "Testing lumbar spine motility: Schober / modified Schober test. (Book p197)"
+  },
+  {
+   "id": "ORTHO-C24-151",
+   "sec": "Clinical tests",
+   "page": 197,
+   "q": "In Schober test:",
+   "opts": [
+    "Spine does not open upon flexion (d/t fusion); distance b/w 2 points does not ↑",
+    "Spine opens normally",
+    "Distance always increases",
+    "Knee joint is tested"
+   ],
+   "ans": 0,
+   "exp": "Schober test: measure same distance on flexion - spine does not open upon flexion (d/t fusion); distance b/w 2 points does not ↑. (Book p197)"
+  },
+  {
+   "id": "ORTHO-C24-152",
+   "sec": "Treatment",
+   "page": 197,
+   "q": "Treatment of AS includes:",
+   "opts": [
+    "Chest physiotherapy",
+    "Laminectomy",
+    "Joint replacement",
+    "Traction only"
+   ],
+   "ans": 0,
+   "exp": "Treatment: 1. chest physiotherapy. (Book p197)"
+  },
+  {
+   "id": "ORTHO-C24-153",
+   "sec": "Treatment",
+   "page": 197,
+   "q": "Exercises in AS include:",
+   "opts": [
+    "Swimming, cycling",
+    "Bed rest only",
+    "High impact running",
+    "Stair climbing only"
+   ],
+   "ans": 0,
+   "exp": "Treatment: 2. exercises - swimming, cycling. (Book p197)"
+  },
+  {
+   "id": "ORTHO-C24-154",
+   "sec": "Treatment",
+   "page": 197,
+   "q": "Medical management of AS includes:",
+   "opts": [
+    "NSAID's",
+    "Methotrexate only",
+    "Chemo only",
+    "Steroids only"
+   ],
+   "ans": 0,
+   "exp": "Medical management: NSAID's. (Book p197)"
+  },
+  {
+   "id": "ORTHO-C24-155",
+   "sec": "Treatment",
+   "page": 197,
+   "q": "Medical management of AS includes:",
+   "opts": [
+    "Steroids",
+    "Colchicine only",
+    "Hyaluronic acid only",
+    "Allopurinol only"
+   ],
+   "ans": 0,
+   "exp": "Medical management: steroids. (Book p197)"
+  },
+  {
+   "id": "ORTHO-C24-156",
+   "sec": "Note",
+   "page": 198,
+   "q": "Differential diagnosis for fusion of spine includes:",
+   "opts": [
+    "DISH: diffuse idiopathic skeletal hyperostosis (a.k.a. Forestier disease; m/c in elderly)",
+    "RA only",
+    "Gout",
+    "Hemophilic arthropathy"
+   ],
+   "ans": 0,
+   "exp": "DDx for fusion of spine: 1. DISH - diffuse idiopathic skeletal hyperostosis, a.k.a. Forestier disease, m/c in elderly. (Book p198)"
+  },
+  {
+   "id": "ORTHO-C24-157",
+   "sec": "Note",
+   "page": 198,
+   "q": "X-ray of DISH shows:",
+   "opts": [
+    "Anterior longitudinal ligament calcification: flowing candle wax like ossification",
+    "Posterior longitudinal ligament ossification",
+    "Bamboo spine with bridging syndesmophytes",
+    "Punched out lesions"
+   ],
+   "ans": 0,
+   "exp": "DISH: anterior longitudinal ligament calcification - flowing candle wax like ossification. (Book p198)"
+  },
+  {
+   "id": "ORTHO-C24-158",
+   "sec": "Note",
+   "page": 198,
+   "q": "OPLL (ossification of posterior longitudinal ligament) is:",
+   "opts": [
+    "m/c in elderly; m/c in cervical spine",
+    "m/c in young; m/c in lumbar spine",
+    "m/c in children; m/c in thoracic spine",
+    "Never cervical"
+   ],
+   "ans": 0,
+   "exp": "OPLL: ossification of posterior longitudinal ligament - m/c in elderly, m/c in cervical spine. (Book p198)"
+  },
+  {
+   "id": "ORTHO-C24-159",
+   "sec": "PSORIATIC ARTHRITIS",
+   "page": 198,
+   "q": "Psoriatic arthritis is:",
+   "opts": [
+    "Erosive arthritis",
+    "Non-erosive arthritis",
+    "Crystal arthropathy",
+    "Neuropathic joint"
+   ],
+   "ans": 0,
+   "exp": "Psoriatic arthritis general features: erosive arthritis. (Book p198)"
+  },
+  {
+   "id": "ORTHO-C24-160",
+   "sec": "PSORIATIC ARTHRITIS",
+   "page": 198,
+   "q": "Sex predilection in psoriatic arthritis is:",
+   "opts": [
+    "Females > males",
+    "Males > females",
+    "Equal",
+    "Males only"
+   ],
+   "ans": 0,
+   "exp": "Psoriatic arthritis: females > males. (Book p198)"
+  },
+  {
+   "id": "ORTHO-C24-161",
+   "sec": "PSORIATIC ARTHRITIS",
+   "page": 198,
+   "q": "Psoriatic arthritis is typically:",
+   "opts": [
+    "Asymmetrical oligoarticular type (m/c involved: DIP)",
+    "Symmetrical polyarticular (m/c: MCP)",
+    "Axial only",
+    "Monoarticular wrist only"
+   ],
+   "ans": 0,
+   "exp": "Psoriatic arthritis: asymmetrical oligoarticular type (m/c involved: DIP). (Book p198)"
+  },
+  {
+   "id": "ORTHO-C24-162",
+   "sec": "PSORIATIC ARTHRITIS",
+   "page": 198,
+   "q": "CASPAR criteria for psoriatic arthritis include all EXCEPT:",
+   "opts": [
+    "Psoriasis, RF -ve, X-ray changes, dactylitis, nail changes",
+    "RF positive",
+    "HLA-B27",
+    "MCP dominance"
+   ],
+   "ans": 0,
+   "exp": "CASPAR criteria: psoriasis, RF -ve, X-ray changes, dactylitis, nail changes - for diagnosis. (Book p198)"
+  },
+  {
+   "id": "ORTHO-C24-163",
+   "sec": "PSORIATIC ARTHRITIS",
+   "page": 198,
+   "q": "Dactylitis in psoriatic arthritis is:",
+   "opts": [
+    "Sausage digit d/t swelling of fingers",
+    "Slender digit",
+    "Short digit only",
+    "Claw digit only"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: 1. dactylitis - sausage digit d/t swelling of fingers. (Book p198)"
+  },
+  {
+   "id": "ORTHO-C24-164",
+   "sec": "PSORIATIC ARTHRITIS",
+   "page": 198,
+   "q": "Shortening of digits in psoriatic arthritis is d/t:",
+   "opts": [
+    "Destruction of the joints",
+    "Inflammation only",
+    "Oedema",
+    "Fracture only"
+   ],
+   "ans": 0,
+   "exp": "2. shortening of digits: d/t destruction of the joints. (Book p198)"
+  },
+  {
+   "id": "ORTHO-C24-165",
+   "sec": "PSORIATIC ARTHRITIS",
+   "page": 198,
+   "q": "Shortening of digits in psoriatic arthritis shows:",
+   "opts": [
+    "Telescoping (pulling out) of fingers",
+    "No deformity",
+    "Clubbing only",
+    "Bowing of the finger"
+   ],
+   "ans": 0,
+   "exp": "Shortening of digits: telescoping (pulling out) of fingers. (Book p198)"
+  },
+  {
+   "id": "ORTHO-C24-166",
+   "sec": "PSORIATIC ARTHRITIS",
+   "page": 199,
+   "q": "Arthritis mutilans in psoriatic arthritis is:",
+   "opts": [
+    "Total erosion and destruction of bone",
+    "Mild inflammation only",
+    "Soft tissue swelling",
+    "Cartilage thickening"
+   ],
+   "ans": 0,
+   "exp": "3. arthritis mutilans: total erosion and destruction of bone. (Book p199)"
+  },
+  {
+   "id": "ORTHO-C24-167",
+   "sec": "PSORIATIC ARTHRITIS",
+   "page": 199,
+   "q": "Pencil-in-cup appearance in psoriatic arthritis is:",
+   "opts": [
+    "Extreme destruction of phalanx",
+    "Mild joint space narrowing",
+    "Osteophyte at DIP",
+    "Normal bone"
+   ],
+   "ans": 0,
+   "exp": "4. pencil-in-cup appearance: extreme destruction of phalanx. (Book p199)"
+  },
+  {
+   "id": "ORTHO-C24-168",
+   "sec": "Treatment",
+   "page": 199,
+   "q": "Treatment of psoriatic arthritis includes:",
+   "opts": [
+    "Treatment of psoriasis",
+    "Joint fusion only",
+    "Amputation only",
+    "Traction only"
+   ],
+   "ans": 0,
+   "exp": "Treatment: treatment of psoriasis. (Book p199)"
+  },
+  {
+   "id": "ORTHO-C24-169",
+   "sec": "Treatment",
+   "page": 199,
+   "q": "Treatment of psoriatic arthritis includes:",
+   "opts": [
+    "Methotrexate",
+    "Aspirin only",
+    "Colchicine only",
+    "Hyaluronic acid only"
+   ],
+   "ans": 0,
+   "exp": "Treatment: methotrexate. (Book p199)"
+  },
+  {
+   "id": "ORTHO-C24-170",
+   "sec": "Hemophilic Arthropathy",
+   "page": 199,
+   "q": "Hemophilia A is:",
+   "opts": [
+    "Factor 8 deficiency",
+    "Factor 9 deficiency",
+    "Factor 5 deficiency",
+    "Factor 10 deficiency"
+   ],
+   "ans": 0,
+   "exp": "Etiology: hemophilia A - factor 8 deficiency. (Book p199)"
+  },
+  {
+   "id": "ORTHO-C24-171",
+   "sec": "Hemophilic Arthropathy",
+   "page": 199,
+   "q": "Hemophilia B is:",
+   "opts": [
+    "Factor 9 deficiency",
+    "Factor 8 deficiency",
+    "Factor 7 deficiency",
+    "Factor 12 deficiency"
+   ],
+   "ans": 0,
+   "exp": "Etiology: hemophilia B - factor 9 deficiency. (Book p199)"
+  },
+  {
+   "id": "ORTHO-C24-172",
+   "sec": "Hemophilic Arthropathy",
+   "page": 199,
+   "q": "Pathogenesis of hemophilic arthropathy is:",
+   "opts": [
+    "Recurrent bleeding into the joint → destruction of synovium + inflammation",
+    "Crystal deposition",
+    "Infection",
+    "Trauma only"
+   ],
+   "ans": 0,
+   "exp": "Pathogenesis: recurrent bleeding into the joint → destruction of synovium + inflammation. (Book p199)"
+  },
+  {
+   "id": "ORTHO-C24-173",
+   "sec": "Hemophilic Arthropathy",
+   "page": 199,
+   "q": "Pseudo tumors in hemophilia are:",
+   "opts": [
+    "Muscular bleeding → collection of blood in the muscle",
+    "Bone tumours",
+    "Soft tissue tumours",
+    "Lymph node enlargement"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: 1. pseudo tumors - muscular bleeding → collection of blood in the muscle. (Book p199)"
+  },
+  {
+   "id": "ORTHO-C24-174",
+   "sec": "Hemophilic Arthropathy",
+   "page": 199,
+   "q": "m/c site of pseudo tumors in hemophilia is:",
+   "opts": [
+    "Iliopsoas > quadriceps",
+    "Gastrocnemius only",
+    "Biceps brachii",
+    "Soleus only"
+   ],
+   "ans": 0,
+   "exp": "Pseudo tumors: m/c - iliopsoas > quadriceps. (Book p199)"
+  },
+  {
+   "id": "ORTHO-C24-175",
+   "sec": "Hemophilic Arthropathy",
+   "page": 199,
+   "q": "Painful swelling of joints in hemophilia is:",
+   "opts": [
+    "D/t bleeding into it",
+    "D/t crystal deposition",
+    "D/t infection only",
+    "D/t fracture only"
+   ],
+   "ans": 0,
+   "exp": "2. painful swelling of joints: d/t bleeding into it. (Book p199)"
+  },
+  {
+   "id": "ORTHO-C24-176",
+   "sec": "Hemophilic Arthropathy",
+   "page": 199,
+   "q": "m/c joint in hemophilic arthropathy is:",
+   "opts": [
+    "Knee",
+    "Ankle",
+    "Elbow",
+    "Wrist"
+   ],
+   "ans": 0,
+   "exp": "Painful swelling of joints: m/c - knee. (Book p199)"
+  },
+  {
+   "id": "ORTHO-C24-177",
+   "sec": "Hemophilic Arthropathy",
+   "page": 199,
+   "q": "Hemophilic joint presents in flexed position because:",
+   "opts": [
+    "It is its position of ease",
+    "The muscle is hypertrophied",
+    "The joint is fused",
+    "Pain is absent"
+   ],
+   "ans": 0,
+   "exp": "Hemophilic joint: present in flexed position - as its position of ease. (Book p199)"
+  },
+  {
+   "id": "ORTHO-C24-178",
+   "sec": "Hemophilic Arthropathy",
+   "page": 199,
+   "q": "Hemophilic arthropathy can present as:",
+   "opts": [
+    "Arthritis mutilans",
+    "Gout",
+    "Pseudogout",
+    "Charcot joint"
+   ],
+   "ans": 0,
+   "exp": "Clinical features: 3. arthritis mutilans. (Book p199)"
+  },
+  {
+   "id": "ORTHO-C24-179",
+   "sec": "Hemophilic Arthropathy",
+   "page": 199,
+   "q": "X-ray feature of hemophilic arthropathy is:",
+   "opts": [
+    "Widening of intracondylar notch",
+    "Narrowing of intercondylar notch",
+    "Patellar thinning",
+    "Tibial widening"
+   ],
+   "ans": 0,
+   "exp": "X-ray: 1. widening of intracondylar notch. (Book p199)"
+  },
+  {
+   "id": "ORTHO-C24-180",
+   "sec": "Hemophilic Arthropathy",
+   "page": 199,
+   "q": "X-ray feature of hemophilic arthropathy is:",
+   "opts": [
+    "Loss of joint space",
+    "Widened joint space",
+    "Osteophytes only",
+    "Sclerosis only"
+   ],
+   "ans": 0,
+   "exp": "X-ray: 2. loss of joint space. (Book p199)"
+  },
+  {
+   "id": "ORTHO-C24-181",
+   "sec": "Hemophilic Arthropathy",
+   "page": 199,
+   "q": "X-ray feature of hemophilic arthropathy is:",
+   "opts": [
+    "Juxta articular osteopenia",
+    "Subchondral sclerosis",
+    "Osteophytes",
+    "Marginal erosions"
+   ],
+   "ans": 0,
+   "exp": "X-ray: 3. juxta articular osteopenia. (Book p199)"
+  },
+  {
+   "id": "ORTHO-C24-182",
+   "sec": "Hemophilic Arthropathy",
+   "page": 199,
+   "q": "X-ray feature of hemophilic arthropathy is:",
+   "opts": [
+    "Squaring of patella",
+    "Widening of patella",
+    "Rounding of patella",
+    "Patellar fracture only"
+   ],
+   "ans": 0,
+   "exp": "X-ray: 4. squaring of patella. (Book p199)"
+  },
+  {
+   "id": "ORTHO-C24-183",
+   "sec": "Hemophilic Arthropathy",
+   "page": 199,
+   "q": "Treatment of hemophilic arthropathy is:",
+   "opts": [
+    "Treat hemophilia: factor replacement",
+    "Joint lavage only",
+    "Aspiration always",
+    "Amputation first"
+   ],
+   "ans": 0,
+   "exp": "Treatment: treat hemophilia - factor replacement. (Book p199)"
+  },
+  {
+   "id": "ORTHO-C24-184",
+   "sec": "Hemophilic Arthropathy",
+   "page": 199,
+   "q": "Local measures in hemophilic arthropathy include:",
+   "opts": [
+    "Compression bandage and ice pack",
+    "Warm water immersion",
+    "Vigorous massage",
+    "Heat pad only"
+   ],
+   "ans": 0,
+   "exp": "Treatment: compression bandage, ice pack. (Book p199)"
+  },
+  {
+   "id": "ORTHO-C24-185",
+   "sec": "Hemophilic Arthropathy",
+   "page": 199,
+   "q": "Aspiration of the hemophilic joint is done:",
+   "opts": [
+    "Only in severe pain (can cause infection)",
+    "Always as first step",
+    "Never done",
+    "In all mild cases"
+   ],
+   "ans": 0,
+   "exp": "Aspiration of the joint: only in severe pain; can cause infection. (Book p199)"
+  },
+  {
+   "id": "ORTHO-C24-186",
+   "sec": "GOUT",
+   "page": 200,
+   "q": "Gout is the:",
+   "opts": [
+    "m/c crystal arthropathy",
+    "Least common crystal arthropathy",
+    "m/c inflammatory arthritis",
+    "m/c neuropathic joint"
+   ],
+   "ans": 0,
+   "exp": "Gout features: m/c crystal arthropathy. (Book p200)"
+  },
+  {
+   "id": "ORTHO-C24-187",
+   "sec": "GOUT",
+   "page": 200,
+   "q": "Gout is a:",
+   "opts": [
+    "Purine metabolism abnormality",
+    "Pyrimidine metabolism abnormality",
+    "Fat metabolism abnormality",
+    "Calcium metabolism abnormality"
+   ],
+   "ans": 0,
+   "exp": "Gout features: purine metabolism abnormality. (Book p200)"
+  },
+  {
+   "id": "ORTHO-C24-188",
+   "sec": "GOUT",
+   "page": 200,
+   "q": "In gout, serum uric acid is:",
+   "opts": [
+    "↑ (normal: 3.5-6.5 mg/dl)",
+    "↓",
+    "Always normal",
+    "Measures potassium"
+   ],
+   "ans": 0,
+   "exp": "Gout features: ↑ serum uric acid (normal: 3.5-6.5 mg/dl). (Book p200)"
+  },
+  {
+   "id": "ORTHO-C24-189",
+   "sec": "GOUT",
+   "page": 200,
+   "q": "m/c joint involved in gout is:",
+   "opts": [
+    "1st MTP (great toe)",
+    "1st carpometacarpal joint",
+    "Knee only",
+    "Wrist only"
+   ],
+   "ans": 0,
+   "exp": "Gout features: m/c involved - 1st MTP (great toe). (Book p200)"
+  },
+  {
+   "id": "ORTHO-C24-190",
+   "sec": "GOUT",
+   "page": 200,
+   "q": "Sex/age predilection in gout is:",
+   "opts": [
+    "Male (middle age) > females",
+    "Females > males",
+    "Children > adults",
+    "Equal"
+   ],
+   "ans": 0,
+   "exp": "Gout features: male (middle age) > females. (Book p200)"
+  },
+  {
+   "id": "ORTHO-C24-191",
+   "sec": "GOUT",
+   "page": 200,
+   "q": "Drugs precipitating gout include:",
+   "opts": [
+    "Furosemide, aspirin",
+    "Methotrexate",
+    "Omeprazole",
+    "Metformin"
+   ],
+   "ans": 0,
+   "exp": "Gout features: drugs - furosemide, aspirin. (Book p200)"
+  },
+  {
+   "id": "ORTHO-C24-192",
+   "sec": "GOUT",
+   "page": 200,
+   "q": "Pathogenesis of gout begins with:",
+   "opts": [
+    "Sudden change in uric acid levels → crystal precipitation and deposition in cold peripheral joints",
+    "Sudden change in calcium levels",
+    "Infection of the joint",
+    "Trauma to the joint"
+   ],
+   "ans": 0,
+   "exp": "Pathogenesis: sudden change in uric acid levels → crystal precipitation and deposition in cold peripheral joints. (Book p200)"
+  },
+  {
+   "id": "ORTHO-C24-193",
+   "sec": "GOUT",
+   "page": 200,
+   "q": "Gout pathogenesis continues with:",
+   "opts": [
+    "Local inflammatory reaction → collateral damage to the joint",
+    "Neural damage",
+    "Vascular occlusion",
+    "Muscle atrophy only"
+   ],
+   "ans": 0,
+   "exp": "Pathogenesis: local inflammatory reaction → collateral damage to the joint. (Book p200)"
+  },
+  {
+   "id": "ORTHO-C24-194",
+   "sec": "GOUT",
+   "page": 200,
+   "q": "Painful swelling with tophi is seen in:",
+   "opts": [
+    "Acute gout",
+    "Chronic pseudogout",
+    "Charcot joint",
+    "RA"
+   ],
+   "ans": 0,
+   "exp": "Acute gout: painful swelling - tophi. (Book p200)"
+  },
+  {
+   "id": "ORTHO-C24-195",
+   "sec": "GOUT",
+   "page": 200,
+   "q": "X-ray feature of gout is:",
+   "opts": [
+    "Punched out lesion",
+    "Subchondral sclerosis",
+    "Bamboo spine",
+    "Marginal erosions"
+   ],
+   "ans": 0,
+   "exp": "X-ray: punched out lesion. (Book p200)"
+  },
+  {
+   "id": "ORTHO-C24-196",
+   "sec": "GOUT",
+   "page": 200,
+   "q": "X-ray feature of gout is:",
+   "opts": [
+    "Joint destruction",
+    "Joint space widening",
+    "Sclerosis only",
+    "Loose bodies only"
+   ],
+   "ans": 0,
+   "exp": "X-ray: joint destruction. (Book p200)"
+  },
+  {
+   "id": "ORTHO-C24-197",
+   "sec": "GOUT",
+   "page": 200,
+   "q": "X-ray feature of gout is:",
+   "opts": [
+    "Overhanging bone / martel sign",
+    "Beheaded scottie dog",
+    "Napoleon hat sign",
+    "Dagger sign"
+   ],
+   "ans": 0,
+   "exp": "X-ray: overhanging bone / martel sign. (Book p200)"
+  },
+  {
+   "id": "ORTHO-C24-198",
+   "sec": "GOUT",
+   "page": 200,
+   "q": "Best investigation for gout is:",
+   "opts": [
+    "Synovial fluid analysis (light microscopy of joint aspirate)",
+    "Plain X-ray",
+    "MRI",
+    "CT scan"
+   ],
+   "ans": 0,
+   "exp": "Synovial fluid analysis is the best investigation - light microscopy of joint aspirate. (Book p200)"
+  },
+  {
+   "id": "ORTHO-C24-199",
+   "sec": "GOUT",
+   "page": 200,
+   "q": "Gout crystals are:",
+   "opts": [
+    "Needle shaped, -ve birefringent, mono sodium urate crystals",
+    "Rod shaped, +ve birefringent",
+    "Polygonal, +ve birefringent",
+    "Amorphous particles"
+   ],
+   "ans": 0,
+   "exp": "Characteristics of crystals: needle shaped, -ve birefringent, mono sodium urate crystals. (Book p200)"
+  },
+  {
+   "id": "ORTHO-C24-200",
+   "sec": "GOUT",
+   "page": 200,
+   "q": "Acute gouty attack is treated with:",
+   "opts": [
+    "Only NSAIDs: indomethacin (aspirin is C/I)",
+    "Aspirin + NSAIDs",
+    "Steroids only",
+    "Methotrexate only"
+   ],
+   "ans": 0,
+   "exp": "Treatment: 1. acute gouty attack - only NSAIDs: indomethacin (aspirin is C/I). (Book p200)"
+  },
+  {
+   "id": "ORTHO-C24-201",
+   "sec": "GOUT",
+   "page": 200,
+   "q": "Colchicine in acute gout:",
+   "opts": [
+    "Causes GI disturbances",
+    "Is the DOC",
+    "Prevents GI disturbances",
+    "Is contraindicated in all"
+   ],
+   "ans": 0,
+   "exp": "Colchicine: causes GI disturbances. (Book p200)"
+  },
+  {
+   "id": "ORTHO-C24-202",
+   "sec": "GOUT",
+   "page": 200,
+   "q": "Do not control serum uric acid during acute gout attack because:",
+   "opts": [
+    "It can precipitate more pain",
+    "It causes infection",
+    "It is contraindicated for life",
+    "It worsens liver function"
+   ],
+   "ans": 0,
+   "exp": "Do not control serum uric acid during acute attack, as it can precipitate more pain. (Book p200)"
+  },
+  {
+   "id": "ORTHO-C24-203",
+   "sec": "GOUT",
+   "page": 201,
+   "q": "Xanthine oxidase inhibitor for chronic gout is:",
+   "opts": [
+    "Allopurinol",
+    "Probenecid",
+    "Indomethacin",
+    "Colchicine"
+   ],
+   "ans": 0,
+   "exp": "Chronic gout: xanthine oxidase inhibitors - allopurinol. (Book p201)"
+  },
+  {
+   "id": "ORTHO-C24-204",
+   "sec": "GOUT",
+   "page": 201,
+   "q": "Xanthine oxidase inhibitor for chronic gout is:",
+   "opts": [
+    "Febuxostat",
+    "Probenecid",
+    "Indomethacin",
+    "Aspirin"
+   ],
+   "ans": 0,
+   "exp": "Chronic gout: xanthine oxidase inhibitors - febuxostat. (Book p201)"
+  },
+  {
+   "id": "ORTHO-C24-205",
+   "sec": "GOUT",
+   "page": 201,
+   "q": "Xanthine oxidase inhibitor for chronic gout is:",
+   "opts": [
+    "Rasburicase",
+    "Probenecid",
+    "Allopurinol only",
+    "Indomethacin"
+   ],
+   "ans": 0,
+   "exp": "Chronic gout: xanthine oxidase inhibitors - rasburicase. (Book p201)"
+  },
+  {
+   "id": "ORTHO-C24-206",
+   "sec": "GOUT",
+   "page": 201,
+   "q": "Uricosuric drug for chronic gout is:",
+   "opts": [
+    "Probenecid",
+    "Allopurinol",
+    "Febuxostat",
+    "Indomethacin"
+   ],
+   "ans": 0,
+   "exp": "Chronic gout: uricosuric drugs - probenecid. (Book p201)"
+  },
+  {
+   "id": "ORTHO-C24-207",
+   "sec": "PSEUDOGOUT",
+   "page": 201,
+   "q": "Pseudogout is deposition of:",
+   "opts": [
+    "Calcium pyrophosphate dihydrate",
+    "Mono sodium urate",
+    "Cholesterol",
+    "Calcium phosphate monohydrate"
+   ],
+   "ans": 0,
+   "exp": "Pseudogout: deposition of calcium pyrophosphate dihydrate. (Book p201)"
+  },
+  {
+   "id": "ORTHO-C24-208",
+   "sec": "PSEUDOGOUT",
+   "page": 201,
+   "q": "Pseudogout is m/c in:",
+   "opts": [
+    "Elderly patients",
+    "Children",
+    "Young adults",
+    "Adolescents"
+   ],
+   "ans": 0,
+   "exp": "Pseudogout general features: m/c in elderly patients. (Book p201)"
+  },
+  {
+   "id": "ORTHO-C24-209",
+   "sec": "PSEUDOGOUT",
+   "page": 201,
+   "q": "Sex predilection in pseudogout is:",
+   "opts": [
+    "Female > male",
+    "Male > female",
+    "Equal",
+    "Males only"
+   ],
+   "ans": 0,
+   "exp": "Pseudogout: female > male. (Book p201)"
+  },
+  {
+   "id": "ORTHO-C24-210",
+   "sec": "PSEUDOGOUT",
+   "page": 201,
+   "q": "Pseudogout is associated with:",
+   "opts": [
+    "Hypothyroidism",
+    "Hyperthyroidism",
+    "Diabetes mellitus",
+    "Hypertension only"
+   ],
+   "ans": 0,
+   "exp": "Pseudogout: a/w hypothyroidism. (Book p201)"
+  },
+  {
+   "id": "ORTHO-C24-211",
+   "sec": "PSEUDOGOUT",
+   "page": 201,
+   "q": "Pseudogout m/c affects:",
+   "opts": [
+    "Knee joint (large joints)",
+    "1st MTP",
+    "Wrist only",
+    "Ankle only"
+   ],
+   "ans": 0,
+   "exp": "Pseudogout: m/c affects knee joint (large joints). (Book p201)"
+  },
+  {
+   "id": "ORTHO-C24-212",
+   "sec": "PSEUDOGOUT",
+   "page": 201,
+   "q": "X-ray feature of pseudogout is:",
+   "opts": [
+    "Chondrocalcinosis",
+    "Punched out lesion",
+    "Bamboo spine",
+    "Subchondral sclerosis only"
+   ],
+   "ans": 0,
+   "exp": "X-ray features: chondrocalcinosis. (Book p201)"
+  },
+  {
+   "id": "ORTHO-C24-213",
+   "sec": "PSEUDOGOUT",
+   "page": 201,
+   "q": "Calcification of cartilage is also seen in:",
+   "opts": [
+    "Ochronosis / alkaptonuria",
+    "Gout",
+    "Hemophilia",
+    "RA"
+   ],
+   "ans": 0,
+   "exp": "Note: calcification of cartilage also seen in: ochronosis / alkaptonuria. (Book p201)"
+  },
+  {
+   "id": "ORTHO-C24-214",
+   "sec": "PSEUDOGOUT",
+   "page": 201,
+   "q": "Calcification of cartilage is also seen in:",
+   "opts": [
+    "Hemochromatosis and hyperparathyroidism",
+    "Gout",
+    "SLE",
+    "Osteoporosis only"
+   ],
+   "ans": 0,
+   "exp": "Note: calcification of cartilage also seen in: hemochromatosis, hyperparathyroidism. (Book p201)"
+  },
+  {
+   "id": "ORTHO-C24-215",
+   "sec": "PSEUDOGOUT",
+   "page": 201,
+   "q": "Pseudogout crystals on synovial fluid study are:",
+   "opts": [
+    "Polygonal, +ve birefringent",
+    "Needle shaped, -ve birefringent",
+    "Rod shaped, -ve birefringent",
+    "Amorphous"
+   ],
+   "ans": 0,
+   "exp": "Synovial fluid study: polygonal, +ve birefringent. (Book p201)"
+  },
+  {
+   "id": "ORTHO-C24-216",
+   "sec": "Neuropathic Joint",
+   "page": 201,
+   "q": "Neuropathic joint is:",
+   "opts": [
+    "Joint destruction d/t sensation & proprioception",
+    "Joint infection",
+    "Joint inflammation only",
+    "Joint dislocation only"
+   ],
+   "ans": 0,
+   "exp": "Neuropathic joint: joint destruction d/t sensation & proprioception. (Book p201)"
+  },
+  {
+   "id": "ORTHO-C24-217",
+   "sec": "Neuropathic Joint",
+   "page": 201,
+   "q": "Neuropathic joint is also known as:",
+   "opts": [
+    "Charcot joint",
+    "Bamboo joint",
+    "Marrow joint",
+    "Sclerotic joint"
+   ],
+   "ans": 0,
+   "exp": "Neuropathic joint: a.k.a. Charcot joint. (Book p201)"
+  },
+  {
+   "id": "ORTHO-C24-218",
+   "sec": "Neuropathic Joint",
+   "page": 201,
+   "q": "m/c cause of neuropathic joint is:",
+   "opts": [
+    "Peripheral neuropathy",
+    "Syphilis",
+    "Leprosy",
+    "TB"
+   ],
+   "ans": 0,
+   "exp": "Etiology: 1. peripheral neuropathy - m/c cause. (Book p201)"
+  },
+  {
+   "id": "ORTHO-C24-219",
+   "sec": "Neuropathic Joint",
+   "page": 201,
+   "q": "m/c cause of peripheral neuropathy is:",
+   "opts": [
+    "Diabetes mellitus",
+    "Leprosy",
+    "Syphilis",
+    "Alcoholism only"
+   ],
+   "ans": 0,
+   "exp": "Peripheral neuropathy: diabetes mellitus (m/c cause of peripheral neuropathy). (Book p201)"
+  },
+  {
+   "id": "ORTHO-C24-220",
+   "sec": "Neuropathic Joint",
+   "page": 201,
+   "q": "Joints m/c involved in neuropathic joint are:",
+   "opts": [
+    "Mid tarsal joints > tarso metatarsal joint",
+    "MCP > PIP",
+    "Wrist only",
+    "Shoulder only"
+   ],
+   "ans": 0,
+   "exp": "Neuropathic joint: m/c involves mid tarsal joints > tarso metatarsal joint. (Book p201)"
+  },
+  {
+   "id": "ORTHO-C24-221",
+   "sec": "Neuropathic Joint",
+   "page": 201,
+   "q": "Etiology of neuropathic joint includes:",
+   "opts": [
+    "Leprosy; syphilis involves knee",
+    "Only diabetes",
+    "Only TB",
+    "Only gout"
+   ],
+   "ans": 0,
+   "exp": "Etiology: 2. leprosy; 3. syphilis - involves knee. (Book p201)"
+  },
+  {
+   "id": "ORTHO-C24-222",
+   "sec": "Neuropathic Joint",
+   "page": 201,
+   "q": "Neuropathic joint m/c involves:",
+   "opts": [
+    "Peripheral joints of lower limb",
+    "Upper limb joints",
+    "Axial joints only",
+    "DIP only"
+   ],
+   "ans": 0,
+   "exp": "Features: m/c involves peripheral joints of lower limb. (Book p201)"
+  },
+  {
+   "id": "ORTHO-C24-223",
+   "sec": "Neuropathic Joint",
+   "page": 201,
+   "q": "Features of neuropathic joint are:",
+   "opts": [
+    "Bag of bones appearance and no pain",
+    "Severe pain and normal bones",
+    "Osteophytes with pain",
+    "Sclerosis with pain"
+   ],
+   "ans": 0,
+   "exp": "Features: bag of bones appearance; no pain. (Book p201)"
+  },
+  {
+   "id": "ORTHO-C24-224",
+   "sec": "Neuropathic Joint",
+   "page": 201,
+   "q": "Treatment of neuropathic joint is:",
+   "opts": [
+    "Arthrodesis: fusion of bones",
+    "Arthroplasty",
+    "Joint injection only",
+    "Traction only"
+   ],
+   "ans": 0,
+   "exp": "Treatment: arthrodesis - fusion of bones. (Book p201)"
+  },
+  {
+   "id": "ORTHO-C24-225",
+   "sec": "Neuropathic Joint",
+   "page": 201,
+   "q": "Arthroplasty in neuropathic joint is:",
+   "opts": [
+    "C/I",
+    "DOC",
+    "First line",
+    "Always successful"
+   ],
+   "ans": 0,
+   "exp": "Treatment: arthroplasty is C/I. (Book p201)"
+  }
+ ],
+ "units": [
+  {
+   "id": "ORTHO-U24-1",
+   "ch": 24,
+   "n": 1,
+   "title": "Anatomy of a Joint & OA vs RA Joints",
+   "sec": "Anatomy of a Joint · p190",
+   "qs": [
+    "ORTHO-C24-001",
+    "ORTHO-C24-002",
+    "ORTHO-C24-003",
+    "ORTHO-C24-004",
+    "ORTHO-C24-005",
+    "ORTHO-C24-006",
+    "ORTHO-C24-007",
+    "ORTHO-C24-008",
+    "ORTHO-C24-009",
+    "ORTHO-C24-010",
+    "ORTHO-C24-011"
+   ],
+   "guide": "The knee joint has distal femur, synovium, articular cartilage on the articular surface of bone, joint capsule, synovial fluid and proximal tibia; damage to that cartilage makes every movement hurt. OA loves DIP, PIP and the 1st CMC (spares wrist & MCP), while RA loves MCP, wrist and PIP (spares DIP)."
+  },
+  {
+   "id": "ORTHO-U24-2",
+   "ch": 24,
+   "n": 2,
+   "title": "Osteoarthritis: m/c Joint Disease",
+   "sec": "Osteoarthritis · p190",
+   "qs": [
+    "ORTHO-C24-012",
+    "ORTHO-C24-013",
+    "ORTHO-C24-014"
+   ],
+   "guide": "Osteoarthritis is the most common joint disease, born of age related degeneration or preexisting destruction of cartilage."
+  },
+  {
+   "id": "ORTHO-U24-3",
+   "ch": 24,
+   "n": 3,
+   "title": "OA: Primary vs Secondary",
+   "sec": "Types · p191",
+   "qs": [
+    "ORTHO-C24-015",
+    "ORTHO-C24-016",
+    "ORTHO-C24-017",
+    "ORTHO-C24-018",
+    "ORTHO-C24-019",
+    "ORTHO-C24-020",
+    "ORTHO-C24-021",
+    "ORTHO-C24-022",
+    "ORTHO-C24-023"
+   ],
+   "guide": "Primary idiopathic OA rules the single-joint knee (also spine, hand) and the generalized DIP. Secondary OA rides on preexisting pathology: intra articular trauma, developmental anomaly, AVN and overweight."
+  },
+  {
+   "id": "ORTHO-U24-4",
+   "ch": 24,
+   "n": 4,
+   "title": "OA: Pathogenesis Chain",
+   "sec": "Pathogenesis · p191",
+   "qs": [
+    "ORTHO-C24-024",
+    "ORTHO-C24-025",
+    "ORTHO-C24-026",
+    "ORTHO-C24-027",
+    "ORTHO-C24-028"
+   ],
+   "guide": "Cartilage degenerates, raw bone rubs on bone (pain + sclerosis), poor blood supply makes necrotic cysts, regenerating bone throws off osteophytes — and when those break loose, loose bodies roam freely in the joint."
+  },
+  {
+   "id": "ORTHO-U24-5",
+   "ch": 24,
+   "n": 5,
+   "title": "OA: Clinical Features",
+   "sec": "Features · p191",
+   "qs": [
+    "ORTHO-C24-029",
+    "ORTHO-C24-030",
+    "ORTHO-C24-031",
+    "ORTHO-C24-032",
+    "ORTHO-C24-033",
+    "ORTHO-C24-034",
+    "ORTHO-C24-035"
+   ],
+   "guide": "OA hurts on active and passive movement, stiffens the joint, crepitates and deforms. Disuse withers the muscle — most often the vastus medialis. Bouchard's (PIP) and Heberden's (DIP) nodes mark the knuckles."
+  },
+  {
+   "id": "ORTHO-U24-6",
+   "ch": 24,
+   "n": 6,
+   "title": "OA: X-ray Features",
+   "sec": "X-ray features · p192",
+   "qs": [
+    "ORTHO-C24-036",
+    "ORTHO-C24-037",
+    "ORTHO-C24-038",
+    "ORTHO-C24-039",
+    "ORTHO-C24-040",
+    "ORTHO-C24-041",
+    "ORTHO-C24-042"
+   ],
+   "guide": "On X-ray: decreased joint space, bone-on-bone appearance, subchondral sclerosis, necrotic cysts & osteophytes and loose bodies. The medial side carries the load, so the space narrows medially first, bowing the leg into varus — OA is the m/c cause of bilateral genu varum."
+  },
+  {
+   "id": "ORTHO-U24-7",
+   "ch": 24,
+   "n": 7,
+   "title": "Loose Bodies in the Knee",
+   "sec": "Loose bodies in Knee joint · p192",
+   "qs": [
+    "ORTHO-C24-043",
+    "ORTHO-C24-044",
+    "ORTHO-C24-045",
+    "ORTHO-C24-046"
+   ],
+   "guide": "Loose bodies in the knee: osteoarthritis is the m/c cause overall and in the elderly; osteochondritis dissecans wins in the young; and synovial chondromatosis makes multiple bodies."
+  },
+  {
+   "id": "ORTHO-U24-8",
+   "ch": 24,
+   "n": 8,
+   "title": "OA: Conservative & Medication",
+   "sec": "Treatment · p192",
+   "qs": [
+    "ORTHO-C24-047",
+    "ORTHO-C24-048",
+    "ORTHO-C24-049",
+    "ORTHO-C24-050",
+    "ORTHO-C24-051",
+    "ORTHO-C24-052",
+    "ORTHO-C24-053"
+   ],
+   "guide": "Conservative care: lose weight to stop progression, physiotherapy with heat and strengthening exercises, walk with support and brace. Medications: NSAID acetaminophen, cartilage protectors (glucosamine, chondroitin sulphate) early on, and hyaluronic acid injections for lubrication."
+  },
+  {
+   "id": "ORTHO-U24-9",
+   "ch": 24,
+   "n": 9,
+   "title": "OA: Surgical (Definitive)",
+   "sec": "Treatment · p192",
+   "qs": [
+    "ORTHO-C24-054",
+    "ORTHO-C24-055",
+    "ORTHO-C24-056",
+    "ORTHO-C24-057",
+    "ORTHO-C24-058",
+    "ORTHO-C24-059"
+   ],
+   "guide": "Go definitive with arthroscopy (joint wash to remove loose bodies), high tibial/medial opening wedge osteotomy to correct varus deformity and pain, or arthroplasty to replace the damaged joint — unicondylar for the medial side, or TKR with femoral and tibial components (watch for patellar clunk syndrome)."
+  },
+  {
+   "id": "ORTHO-U24-10",
+   "ch": 24,
+   "n": 10,
+   "title": "THR & RA: Introduction",
+   "sec": "Rheumatoid Arthritis · p193",
+   "qs": [
+    "ORTHO-C24-060",
+    "ORTHO-C24-061",
+    "ORTHO-C24-062",
+    "ORTHO-C24-063",
+    "ORTHO-C24-064",
+    "ORTHO-C24-065",
+    "ORTHO-C24-066",
+    "ORTHO-C24-067",
+    "ORTHO-C24-068",
+    "ORTHO-C24-069",
+    "ORTHO-C24-070",
+    "ORTHO-C24-071",
+    "ORTHO-C24-072"
+   ],
+   "guide": "THR replaces the head & neck of the femur plus the acetabular component. Then RA enters: the m/c inflammatory arthritis, a disease of synovium — systemic autoimmune, multisystem (lungs, heart, liver), erosive, females > males, symmetrical peripheral joints: MCP > wrist, PIP in the hand, knee and hip; axial rare (cervical spine); DIP spared. SLE is the only non-erosive inflammatory arthritis."
+  },
+  {
+   "id": "ORTHO-U24-11",
+   "ch": 24,
+   "n": 11,
+   "title": "RA: Pathogenesis",
+   "sec": "PATHOLOGY · p193",
+   "qs": [
+    "ORTHO-C24-073",
+    "ORTHO-C24-074",
+    "ORTHO-C24-075",
+    "ORTHO-C24-076",
+    "ORTHO-C24-077"
+   ],
+   "guide": "An antigen/antibody reaction ignites synovial inflammation and destruction, erosion marches from periphery to centre, pannus forms and devours the joint, and the sequence ends in subluxation."
+  },
+  {
+   "id": "ORTHO-U24-12",
+   "ch": 24,
+   "n": 12,
+   "title": "RA: Multisystem & Markers",
+   "sec": "INVESTIGATIONS · p194",
+   "qs": [
+    "ORTHO-C24-078",
+    "ORTHO-C24-079",
+    "ORTHO-C24-080",
+    "ORTHO-C24-081",
+    "ORTHO-C24-082",
+    "ORTHO-C24-083",
+    "ORTHO-C24-084",
+    "ORTHO-C24-085",
+    "ORTHO-C24-086"
+   ],
+   "guide": "RA shortens life expectancy and travels to the heart (carditis), pleura (pleuritis), lungs (Caplan) and blood (Felty). Diagnose with ↑ ESR/CRP, RF — the most sensitive marker, an IgM against the Fc portion of IgG — and Anti-CCP, the most specific."
+  },
+  {
+   "id": "ORTHO-U24-13",
+   "ch": 24,
+   "n": 13,
+   "title": "RA: X-ray vs OA",
+   "sec": "X-ray features · p194",
+   "qs": [
+    "ORTHO-C24-087",
+    "ORTHO-C24-088",
+    "ORTHO-C24-089",
+    "ORTHO-C24-090",
+    "ORTHO-C24-091",
+    "ORTHO-C24-092",
+    "ORTHO-C24-093"
+   ],
+   "guide": "RA X-ray: narrowed joint space, osteoporosis & hyperemia (juxta articular first, then generalized), marginal erosions, and no sclerosis, no osteophytes. Opposite of OA, which scleroses. De Quervain's synovitis targets the abductor pollicis longus and extensor pollicis brevis."
+  },
+  {
+   "id": "ORTHO-U24-14",
+   "ch": 24,
+   "n": 14,
+   "title": "RA: Deformities",
+   "sec": "DEFORMITIES IN RA · p195",
+   "qs": [
+    "ORTHO-C24-094",
+    "ORTHO-C24-095",
+    "ORTHO-C24-096",
+    "ORTHO-C24-097",
+    "ORTHO-C24-098",
+    "ORTHO-C24-099",
+    "ORTHO-C24-100",
+    "ORTHO-C24-101",
+    "ORTHO-C24-102",
+    "ORTHO-C24-103",
+    "ORTHO-C24-104",
+    "ORTHO-C24-105"
+   ],
+   "guide": "The RA hand deviates ulnarly at the fingers while the metacarpals deviate radially; boutonniere is PIP flexion with DIP extension, swan neck the reverse; mallet finger affects only the injured digit. The knee bows into bilateral genu valgum (children: rickets > RA; elderly: RA), wind swept and triple deformity. The foot shows hammer toes and hallux valgus; ulnar nerve palsy makes the claw hand."
+  },
+  {
+   "id": "ORTHO-U24-15",
+   "ch": 24,
+   "n": 15,
+   "title": "RA: Management",
+   "sec": "MANAGEMENT · p195",
+   "qs": [
+    "ORTHO-C24-106",
+    "ORTHO-C24-107",
+    "ORTHO-C24-108",
+    "ORTHO-C24-109",
+    "ORTHO-C24-110",
+    "ORTHO-C24-111",
+    "ORTHO-C24-112",
+    "ORTHO-C24-113"
+   ],
+   "guide": "Preserve function with physiotherapy; methotrexate is the DOC. DMARDs: leflunomide (immunosuppressant), infliximab/Adalimumab (TNF-α inhibitors), anakinra (IL-1 receptor antagonist), rituximab (anti-CD20). Surgery: synovectomy for inflamed synovium, joint replacement and deformity corrections."
+  },
+  {
+   "id": "ORTHO-U24-16",
+   "ch": 24,
+   "n": 16,
+   "title": "Spondyloarthropathies: Overview",
+   "sec": "Spondyloarthropathies · p196",
+   "qs": [
+    "ORTHO-C24-114",
+    "ORTHO-C24-115",
+    "ORTHO-C24-116",
+    "ORTHO-C24-117",
+    "ORTHO-C24-118",
+    "ORTHO-C24-119",
+    "ORTHO-C24-120",
+    "ORTHO-C24-121",
+    "ORTHO-C24-122"
+   ],
+   "guide": "Four inflammatory spondyloarthropathies hit the spine and joints: ankylosing spondylitis (m/c), psoriatic, enteropathic (Crohn's/ulcerative colitis) and reactive (Shigella, chlamydia). All are seronegative (RA is RF positive), hit young males, run HLA B27 positive and accompany uveitis."
+  },
+  {
+   "id": "ORTHO-U24-17",
+   "ch": 24,
+   "n": 17,
+   "title": "AS: Features & Pathogenesis",
+   "sec": "ANKYLOSING SPONDYLITIS · p196",
+   "qs": [
+    "ORTHO-C24-123",
+    "ORTHO-C24-124",
+    "ORTHO-C24-125",
+    "ORTHO-C24-126",
+    "ORTHO-C24-127",
+    "ORTHO-C24-128",
+    "ORTHO-C24-129",
+    "ORTHO-C24-130",
+    "ORTHO-C24-131",
+    "ORTHO-C24-132",
+    "ORTHO-C24-133",
+    "ORTHO-C24-134"
+   ],
+   "guide": "AS — Marie Strumpell/Bechterew's disease — is male-predominant, axial > peripheral, centred on the sacroiliac joint (also spine, hip). Gluteal/back pain with morning stiffness that improves with activity, ↓ lumbar movement, ↓ chest expansion (ribs fuse to spine) and anterior uveitis. Enthesitis at the ligament-tendon insertions erodes, regenerates abnormally and calcifies, restricting motion; first X-ray sign is sacroiliitis with sclerosis and ankylosis."
+  },
+  {
+   "id": "ORTHO-U24-18",
+   "ch": 24,
+   "n": 18,
+   "title": "AS: Bamboo Spine & Signs",
+   "sec": "X-ray features · p197",
+   "qs": [
+    "ORTHO-C24-135",
+    "ORTHO-C24-136",
+    "ORTHO-C24-137",
+    "ORTHO-C24-138",
+    "ORTHO-C24-139"
+   ],
+   "guide": "The bamboo spine fuses and squares the vertebrae with calcification between them: ligament inflammation builds syndesmophytes, curvature is lost, and bridging syndesmophytes lock the spine. The dagger sign calcifies the interspinous ligament; the trolley track sign calcifies paraspinal and interspinous ligaments."
+  },
+  {
+   "id": "ORTHO-U24-19",
+   "ch": 24,
+   "n": 19,
+   "title": "AS: Criteria, Tests & Treatment",
+   "sec": "Diagnostic criteria · p197",
+   "qs": [
+    "ORTHO-C24-140",
+    "ORTHO-C24-141",
+    "ORTHO-C24-142",
+    "ORTHO-C24-143",
+    "ORTHO-C24-144",
+    "ORTHO-C24-145",
+    "ORTHO-C24-146",
+    "ORTHO-C24-147",
+    "ORTHO-C24-148",
+    "ORTHO-C24-149",
+    "ORTHO-C24-150",
+    "ORTHO-C24-151",
+    "ORTHO-C24-152",
+    "ORTHO-C24-153",
+    "ORTHO-C24-154",
+    "ORTHO-C24-155"
+   ],
+   "guide": "Essential criterion: sacroiliitis — MRI is the IOC (earliest changes, iliac side > sacral side); supporting criteria add ↓ lumbar movement, ↓ chest expansion and inflammatory back pain with morning stiffness. Test with chest expansion measurement, Gaenslen's, FABER/figure-of-4 and pump handle for SI, and Schober for the lumbar spine (distance fails to increase on flexion). Treat with chest physiotherapy, swimming/cycling, NSAIDs and steroids."
+  },
+  {
+   "id": "ORTHO-U24-20",
+   "ch": 24,
+   "n": 20,
+   "title": "Spinal Fusion: DISH & OPLL",
+   "sec": "Note · p198",
+   "qs": [
+    "ORTHO-C24-156",
+    "ORTHO-C24-157",
+    "ORTHO-C24-158"
+   ],
+   "guide": "When the spine fuses, think beyond AS: DISH (Forestier disease, elderly) flows candle-wax ossification down the anterior longitudinal ligament, while OPLL ossifies the posterior longitudinal ligament, m/c cervical, also in the elderly."
+  },
+  {
+   "id": "ORTHO-U24-21",
+   "ch": 24,
+   "n": 21,
+   "title": "Psoriatic Arthritis",
+   "sec": "PSORIATIC ARTHRITIS · p198",
+   "qs": [
+    "ORTHO-C24-159",
+    "ORTHO-C24-160",
+    "ORTHO-C24-161",
+    "ORTHO-C24-162",
+    "ORTHO-C24-163",
+    "ORTHO-C24-164",
+    "ORTHO-C24-165",
+    "ORTHO-C24-166",
+    "ORTHO-C24-167"
+   ],
+   "guide": "Psoriatic arthritis is erosive, females > males, asymmetrical oligoarticular, m/c at the DIP. CASPAR: psoriasis, RF -ve, X-ray changes, dactylitis (sausage digits), nail changes. Destructive ends: arthritis mutilans (total bone destruction) and the pencil-in-cup phalanx, with digits shortening and telescoping out."
+  },
+  {
+   "id": "ORTHO-U24-22",
+   "ch": 24,
+   "n": 22,
+   "title": "PsA Treatment & Hemophilia Basics",
+   "sec": "Treatment · p199",
+   "qs": [
+    "ORTHO-C24-168",
+    "ORTHO-C24-169",
+    "ORTHO-C24-170",
+    "ORTHO-C24-171",
+    "ORTHO-C24-172",
+    "ORTHO-C24-173",
+    "ORTHO-C24-174",
+    "ORTHO-C24-175"
+   ],
+   "guide": "Treat the psoriasis and give methotrexate. Hemophilia: A = factor 8 deficiency, B = factor 9 deficiency; recurrent bleeding destroys the synovium with inflammation. Pseudo tumors are muscle hematomas (iliopsoas > quadriceps) and painful joint swelling bleeds into the joint, m/c the knee."
+  },
+  {
+   "id": "ORTHO-U24-23",
+   "ch": 24,
+   "n": 23,
+   "title": "Hemophilic Arthropathy: X-ray & Treatment",
+   "sec": "Hemophilic Arthropathy · p199",
+   "qs": [
+    "ORTHO-C24-176",
+    "ORTHO-C24-177",
+    "ORTHO-C24-178",
+    "ORTHO-C24-179",
+    "ORTHO-C24-180",
+    "ORTHO-C24-181",
+    "ORTHO-C24-182",
+    "ORTHO-C24-183",
+    "ORTHO-C24-184",
+    "ORTHO-C24-185"
+   ],
+   "guide": "The hemophilic knee rests flexed — its position of ease — and can end in arthritis mutilans. X-ray: widened intracondylar notch, lost joint space, juxta articular osteopenia, squared patella. Treat the bleed: factor replacement, compression bandage, ice pack; aspirate only for severe pain (infection risk)."
+  },
+  {
+   "id": "ORTHO-U24-24",
+   "ch": 24,
+   "n": 24,
+   "title": "Gout: Features & Pathogenesis",
+   "sec": "GOUT · p200",
+   "qs": [
+    "ORTHO-C24-186",
+    "ORTHO-C24-187",
+    "ORTHO-C24-188",
+    "ORTHO-C24-189",
+    "ORTHO-C24-190",
+    "ORTHO-C24-191",
+    "ORTHO-C24-192",
+    "ORTHO-C24-193",
+    "ORTHO-C24-194"
+   ],
+   "guide": "Gout, the m/c crystal arthropathy, is a purine abnormality with raised uric acid (normal 3.5-6.5 mg/dl), striking the 1st MTP of middle-aged men; furosemide and aspirin precipitate attacks. A sudden uric acid swing drops crystals in cold peripheral joints, ignites local inflammation and damages the joint — tophi mark the acute attack."
+  },
+  {
+   "id": "ORTHO-U24-25",
+   "ch": 24,
+   "n": 25,
+   "title": "Gout: Investigations",
+   "sec": "GOUT · p200",
+   "qs": [
+    "ORTHO-C24-195",
+    "ORTHO-C24-196",
+    "ORTHO-C24-197",
+    "ORTHO-C24-198",
+    "ORTHO-C24-199"
+   ],
+   "guide": "X-ray: punched out lesion, joint destruction, overhanging bone (martel sign). The best investigation is synovial fluid analysis under light microscopy: needle-shaped, negatively birefringent monosodium urate crystals."
+  },
+  {
+   "id": "ORTHO-U24-26",
+   "ch": 24,
+   "n": 26,
+   "title": "Gout: Treatment",
+   "sec": "GOUT · p200",
+   "qs": [
+    "ORTHO-C24-200",
+    "ORTHO-C24-201",
+    "ORTHO-C24-202"
+   ],
+   "guide": "Acute attack: only NSAIDs (indomethacin; aspirin is C/I) — colchicine brings GI disturbances. Never chase uric acid levels during an acute attack; it can precipitate more pain."
+  },
+  {
+   "id": "ORTHO-U24-27",
+   "ch": 24,
+   "n": 27,
+   "title": "Chronic Gout & Pseudogout",
+   "sec": "GOUT · p201",
+   "qs": [
+    "ORTHO-C24-203",
+    "ORTHO-C24-204",
+    "ORTHO-C24-205",
+    "ORTHO-C24-206",
+    "ORTHO-C24-207",
+    "ORTHO-C24-208",
+    "ORTHO-C24-209",
+    "ORTHO-C24-210",
+    "ORTHO-C24-211",
+    "ORTHO-C24-212",
+    "ORTHO-C24-213",
+    "ORTHO-C24-214",
+    "ORTHO-C24-215"
+   ],
+   "guide": "Chronic gout: xanthine oxidase inhibitors (allopurinol, febuxostat, rasburicase) and the uricosuric probenecid. Pseudogout deposits calcium pyrophosphate dihydrate — elderly, females > males, a/w hypothyroidism, m/c the knee; X-ray shows chondrocalcinosis (also in ochronosis/alkaptonuria, hemochromatosis, hyperparathyroidism) and the fluid holds polygonal, positively birefringent crystals."
+  },
+  {
+   "id": "ORTHO-U24-28",
+   "ch": 24,
+   "n": 28,
+   "title": "Neuropathic (Charcot) Joint",
+   "sec": "Neuropathic Joint · p201",
+   "qs": [
+    "ORTHO-C24-216",
+    "ORTHO-C24-217",
+    "ORTHO-C24-218",
+    "ORTHO-C24-219",
+    "ORTHO-C24-220",
+    "ORTHO-C24-221",
+    "ORTHO-C24-222",
+    "ORTHO-C24-223",
+    "ORTHO-C24-224",
+    "ORTHO-C24-225"
+   ],
+   "guide": "The Charcot joint destroys itself silently — lost sensation and proprioception, m/c from diabetic peripheral neuropathy, favouring mid tarsal then tarso metatarsal joints (leprosy, syphilis-knee also). Look for a bag of bones, without pain. Fuse it with arthrodesis; arthroplasty is C/I."
+  }
+ ]
+}
